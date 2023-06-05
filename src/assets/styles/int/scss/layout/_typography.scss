@@ -1,0 +1,78 @@
+@include FONT();
+@include TEXTPROPS();
+
+@media (min-width: $s-xs) {
+  p, a, b, i, li, ol, ul, h1, h2, h3, h4, h5, h6, span, label, input, textarea, button {
+    font-family: 'Inter', sans-serif; // use as default font
+  }
+  .tit, .txt, .src {
+    &.lh {
+      &-1 { // or use (ex.) &-125 {}
+        line-height: 1.25;
+      }
+      &-2 { // or use (ex.) &-175 {}
+        line-height: 1.75;
+      }
+    }
+    &.tf {
+      &-inter { // or use &-1 {}
+        font-family: 'Inter', sans-serif;
+      }
+      &-ibmplexsans { // or use &-2 {}
+        font-family: 'IBMPlexSans', sans-serif;
+      }
+    }
+  }
+  .tit {
+    line-height: 1.1em;
+    display: inline-block !important;
+  }
+  .txt {
+    line-height: 1.5em;
+  }
+  .tc {
+    &-gradient {
+      background: 
+        linear-gradient(217deg, map-get($bc, 'blue'), rgba(255,0,0,0) 98.71%),
+        linear-gradient(127deg, map-get($bc, 'dred'), rgba(0,255,0,0) 98.71%),
+        linear-gradient(336deg, map-get($bc, 'dpurple'), rgba(0,0,255,0) 98.71%)
+        ;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      &-2 {
+        background: 
+          linear-gradient(127deg, map-get($bc, 'dpurple'), rgba(0,0,255,0) 98.71%),
+          linear-gradient(336deg, map-get($bc, 'dred'), rgba(0,255,0,0) 98.71%),
+          linear-gradient(217deg, map-get($bc, 'blue'), rgba(255,0,0,0) 98.71%)
+          ;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+      }
+      &-light {
+        background: 
+        linear-gradient(217deg, lighten(map-get($bc, 'blue'),34%), rgba(255,0,0,0) 98.71%),
+        linear-gradient(127deg, lighten(map-get($bc, 'dred'), 44%), rgba(0,255,0,0) 98.71%),
+        linear-gradient(336deg, lighten(map-get($bc, 'dpurple'), 34%), rgba(0,0,255,0) 98.71%)
+        ;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        &-2 {
+          background: 
+          linear-gradient(127deg, lighten(map-get($bc, 'blue'),34%), rgba(255,0,0,0) 68.71%),
+          linear-gradient(217deg, lighten(map-get($bc, 'dpurple'), 34%), rgba(0,0,255,0) 68.71%),
+          linear-gradient(336deg, lighten(map-get($bc, 'dred'), 44%), rgba(0,255,0,0) 98.71%)
+          ;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+
+        }
+      }
+    }
+  }
+}
+@media (min-width: $s-sm) {}
+@media (min-width: $s-md) {}
+@media (min-width: $s-lg) {}
+@media (min-width: $s-xl) {}
+@media (min-width: $s-xxl) {}

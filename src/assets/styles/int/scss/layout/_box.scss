@@ -1,0 +1,66 @@
+@media (min-width: $s-xs) {
+  .wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  .box {
+    border-radius: 30px;
+    &-gradient {
+      background: linear-gradient(to right, map-get($bc, 'blue'), map-get($bc, 'dred'));
+      &-bull {
+        height: 100%;
+        min-height: 100px;
+        background: url('../../../../public/img/ui/img-bull.svg') 80% 50% / auto 110% no-repeat
+        ,
+        linear-gradient(to right, map-get($bc, 'blue'), map-get($bc, 'dred'));
+      }
+    }
+    &-blue {
+      background: map-get($bc, 'dblue' );
+    }
+    &-lblue {
+      background: map-get($bc, 'lblue' );
+    }
+    &-gray {
+      background: lighten(map-get($bc, 'gray' ), 40%);
+    }
+    &-blue, &-gray {
+      ul {
+        li {
+          position: relative;
+          padding-left: 40px;
+          &::before {
+            content: '';
+            position: absolute;
+            width: 22px;
+            height: 16px;
+            top: 0;
+            left: 0;
+            background: url('../../../../public/img/icons/ico-check-green.svg') no-repeat;
+          }
+        }
+      }
+
+    }
+    &-white {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      background: $w;
+      &-shadow {
+        background: $w;
+        box-shadow: 0 20px 30px 10px rgba(0, 0, 0, 0.1);
+      }
+      &-notebook {
+        .col-md-6 {
+          &:last-child {
+            // background: url('../../../../public/img/ui/img-platform-note.png') center no-repeat;
+          }
+        }
+      }
+    }
+    
+  }
+}
+@include BTNSCALE($btn-scales-options);
+@include BTNWIDTH(80, 320);

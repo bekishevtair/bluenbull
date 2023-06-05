@@ -1,0 +1,191 @@
+@media (min-width: $s-xs) {
+  .view {
+    padding-top: map-get($hh, 'mob');
+   
+    .section {
+      padding-bottom: 80px;
+      .container {
+        opacity: 0;
+        transform: scaleX(.96) translateY(-4%);
+        transition: all ease-in-out .2s;
+        &[data-scroll='in'] {
+          transform: scaleX(1) translateY(0);
+          opacity: 1;
+          transition-delay: .14s;
+        }
+      }
+     
+      &:nth-of-type(1) {
+        padding-top: 80px;
+      }
+      &-gradient {
+        &-half {
+          background: linear-gradient(to bottom, map-get($bc, 'dblue') 30%, transparent 30%, transparent 30%);
+        }
+        &-redblue {
+          background: linear-gradient(to right, map-get($bc, 'blue'), map-get($bc, 'dred'))
+        }
+      }
+      &-dblue {
+        background: map-get($bc, 'dblue' );
+      }
+    }
+    &--homepage {
+      header {
+        background: map-get($bc, 'lblue' );
+      }
+      .section {
+        &:nth-of-type(1) {
+          background: radial-gradient(150% 200% at 50% -20%, map-get($bc, 'lblue') 50%, transparent 50%);
+          position: relative;
+          .txt, .tit, a {
+            position: relative;
+            z-index: 2;
+          }
+        }
+      }
+    }
+    &--instruments {
+      .section {
+        &:nth-of-type(1) {
+          position: relative;
+          .txt, .tit, a {
+            position: relative;
+            z-index: 2;
+          }
+        }
+      }
+    }
+    &--demoacc {
+      .section {
+        &:nth-of-type(2) {
+        }
+      }
+
+    }
+    &--livacc {
+      .section {
+        &:nth-of-type(1) {
+          background: 
+          radial-gradient(500px 500px at 76% 40%, #e1fbfd 50%, transparent 50%),
+            url('../../../../public/img/ui/img-dots.png') 70% 100% / auto 70% no-repeat;
+        }
+        &:nth-of-type(2) {  
+          padding: 100px 0; 
+          margin-bottom: 120px;
+          .col-lg-6 {
+            position: relative;
+          }
+        }
+      }
+    }
+    &--platform {
+      .section {
+        &:nth-of-type(2) {
+          background: 
+            url('../../../../public/img/ui/img-dots.png') 10% 100% / auto 50% no-repeat,
+            url('../../../../public/img/ui/img-dots.png') 80% 50% / auto 50% no-repeat;
+        }
+      }
+    }
+    &--forex {
+      .section {
+        &:nth-of-type(1) {
+          background: radial-gradient(1000px 1000px at 82% 62%, map-get($bc, 'lblue') 50%, transparent 50%);
+        }
+        &:nth-of-type(2) {
+          background: radial-gradient(1000px 1000px at 82% -54%, map-get($bc, 'lblue') 50%, transparent 50%);
+        }
+      }
+    }
+    &--indices {
+      .section {
+        .col-md-6 {
+          &:nth-of-type(1) {
+            background: url('../../../../public/img/ui/img-dots.png') 100% 100% / 100% auto  no-repeat;
+          }
+        }
+      }
+    }
+    &--bonds {
+      .section {
+        .col-md-6 {
+          &:nth-of-type(2) {
+            background: url('../../../../public/img/ui/img-dots.png') 100% 100% / 100% auto  no-repeat;
+          }
+        }
+      }
+    }
+    &--stocks {
+      .section {
+          &:nth-of-type(1) {
+          background: url('../../../../public/img/ui/img-dots.png') 60% 80% / 600px auto  no-repeat;
+
+          }
+      }
+    }
+    &--commodities {
+      .section {
+        .col-md-6 {
+          &:nth-of-type(2) {
+            background: url('../../../../public/img/ui/img-dots.png') 100% 100% / 100% auto  no-repeat;
+          }
+        }
+      }
+    }
+    &--contact {
+      .section {
+        &:nth-of-type(1) {
+          background: url('../../../../public/img/ui/img-dots.png') 60% 80% / 600px auto  no-repeat;
+        }
+      }
+    }
+    &--about {
+      .section {
+          &:nth-of-type(1) {
+            background: url('../../../../public/img/ui/img-dots.png') 60% 80% / 600px auto  no-repeat;
+          }
+      }
+    }
+  }
+}
+@media (min-width: $s-sm) {}
+@media (min-width: $s-md) {}
+@media (min-width: $s-lg) {}
+@media (min-width: $s-xl) {
+  .view {
+    padding-top: map-get($hh, 'desk');
+    .section {
+      padding-bottom: 140px;
+      &:nth-of-type(1) {
+        padding-top: 100px;
+      }
+    }
+    &--homepage {
+      .section {
+        &:nth-of-type(1) {
+        }
+        &:nth-of-type(2) {
+        }
+      }
+    }
+    &--instruments {
+      .section {
+        &:nth-of-type(1) {
+        }
+        &:nth-of-type(2) {
+        }
+      }
+    }
+    &--demoacc {
+      .section {
+        &:nth-of-type(1) {
+        }
+        &:nth-of-type(2) {
+          padding-bottom: 80px;
+        }
+      }
+    }
+  }
+}
+@media (min-width: $s-xxl) {}

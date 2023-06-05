@@ -1,0 +1,15 @@
+@media (min-width: $s-xs) {
+  footer {
+    padding: 40px 0 50px 0;
+    border-top: 1px solid #c1c1c1;
+     background: map-get($bc, 'dblue' );
+     hr {
+      border: 1px solid map-get($bc, 'gblue' );
+     }
+  }
+}
+@media (min-width: $s-sm) {}
+@media (min-width: $s-md) {}
+@media (min-width: $s-lg) {}
+@media (min-width: $s-xl) {}
+@media (min-width: $s-xxl) {}
