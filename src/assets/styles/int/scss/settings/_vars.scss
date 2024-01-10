@@ -1,5 +1,5 @@
 // Media sizes
-$res: 'xs', 'sm', 'md', 'lg', 'xl', 'xxl';
+$res: "xs", "sm", "md", "lg", "xl", "xxl";
 
 $gbp: (
   xs: 0,
@@ -7,7 +7,7 @@ $gbp: (
   md: 768px,
   lg: 992px,
   xl: 1200px,
-  xxl: 1400px
+  xxl: 1400px,
 ) !default;
 
 $s-xs: map-get($gbp, xs);
@@ -18,54 +18,63 @@ $s-xl: map-get($gbp, xl);
 $s-xxl: map-get($gbp, xxl);
 
 // Project paths
-$img: '../../../../public/img';
+$img: "../../../../public/img";
 
 // Black / White / Transparent
 $b: #000000 !default;
-$w: #FFFFFF !default;
-$t: rgba(255,255,255,0);
+$w: #ffffff !default;
+$t: rgba(255, 255, 255, 0);
 
 // Default colors
 $dc: (
-  'error':   #d9181c,
-  'warning': #F0AD4E,
-  'success': #22BB33,
-  'hint':    #AAAAAA,
+  "error": #d9181c,
+  "warning": #f0ad4e,
+  "success": #22bb33,
+  "hint": #aaaaaa,
 );
 
 // Brand colors
 $bc: (
-  'white': #ffffff,
-  'light': #fcfcfc,
-  'gray': #8a8a8a,
-  'black': #363636,
-  'red':   #ef4209,
-  'dred':   #bf0000,
-  'green': #07f070,
-  'dpurple':  #612574, 
-  'lblue':  #f3f8fe, 
-  'gblue':  #606f96, 
-  'blue':  #1f40c8, 
-  'dblue':  #101b3d 
+  "white": #ffffff,
+  "light": #fcfcfc,
+  "gray": #8a8a8a,
+  "black": #363636,
+  "red": #ef4209,
+  "dred": #bf0000,
+  "green": #07f070,
+  "dpurple": #612574,
+  "lblue": #f3f8fe,
+  "gblue": #76829f,
+  "blue": #1f40c8,
+  "dblue": #101b3d,
 );
 
 // Font options
-$fonts: 'IBMPlexSans', 'Inter';
+$fonts: "IBMPlexSans", "Inter";
 $font-weight: (
   min: (
     IBMPlexSans: 1,
-    Inter: 1
+    Inter: 1,
   ),
   max: (
     IBMPlexSans: 9,
-    Inter: 9
-  )
+    Inter: 9,
+  ),
 );
-$font-size: (min: 10, max: 60);
-$text-colors: 'white', 'black', 'red', 'green', 'blue', 'gblue', 'dblue';
+$font-size: (
+  min: 10,
+  max: 60,
+);
+$text-colors: "white", "black", "red", "green", "blue", "gblue", "dblue";
 
 // Button options
-$btn-width: (min: 80, max: 320);
+$btn-width: (
+  min: 80,
+  max: 320,
+);
 
 // Header options
-$hh: (mob: 80px, desk: 80px);
+$hh: (
+  mob: 80px,
+  desk: 80px,
+);

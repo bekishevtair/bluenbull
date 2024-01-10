@@ -26,6 +26,7 @@
 
   <link rel="stylesheet" href="../assets/styles/ext/bootstrap/bootstrap-grid.min.css">
   <link rel="stylesheet" href="../assets/styles/int/css/styles.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
 
   <script src="../assets/scripts/ext/jquery/jquery-3.6.0.min.js"></script>
   <script src="../assets/scripts/int/script.js"></script>
@@ -237,7 +238,54 @@
             เริ่มต้นการซื้อขายใน 3 ขั้นตอนง่ายๆ
           </h3>
         </div>
-        <div class="row mb-5">
+        <div class="row d-sm-none">
+          <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <div class="wrapper">
+                  <div class="ico ico-circle ico-circle-d100 ico-circle-d100-blue mb-5 mx-auto">
+                    <img src="../public/img/icons/ico-hp-register.png" alt="">
+                  </div>
+                  <h4 class="tit ts-22 tc-gradient-light tw-700 ta-left mb-4">
+                    ลงทะเบียน
+                  </h4>
+                  <p class="txt ts-16 tc-gblue tw-500 ta-center mb-4 px-4">
+                    กรอกแบบฟอร์มลงทะเบียนพร้อมรายละเอียดส่วนบุคคลของคุณเพื่อเปิดบัญชี BNB ใหม่ของคุณ
+                  </p>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="wrapper">
+                  <div class="ico ico-circle ico-circle-d100 ico-circle-d100-blue mb-5  mx-auto">
+                    <img src="../public/img/icons/ico-hp-verify.png" alt="">
+                  </div>
+                  <h4 class="tit ts-22 tc-gradient-light-2 tw-700 ta-left mb-4">
+                    ตรวจสอบ
+                  </h4>
+                  <p class="txt ts-16 tc-gblue tw-500 ta-center mb-4 px-4">
+                    สแกนและส่งเอกสารยืนยันที่จำเป็นเพื่อสร้างบัญชีของคุณให้เสร็จสมบูรณ์
+                  </p>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="wrapper">
+                  <div class="ico ico-circle ico-circle-d100 ico-circle-d100-blue mb-5 mx-auto">
+                    <img src="../public/img/icons/ico-hp-deposit.png" alt="">
+                  </div>
+                  <h4 class="tit ts-22 tc-gradient-light tw-700 ta-left mb-4">
+                    เงินฝาก
+                  </h4>
+                  <p class="txt ts-16 tc-gblue tw-500 ta-center mb-4 px-4">
+                    เติมเงินในบัญชีของคุณด้วยการโอนเงินผ่านธนาคาร การโอนเงินด้วยบัตรเครดิต หรือผ่านบริการชำระเงินออนไลน์ เท่านี้คุณก็พร้อมเทรดแล้ว!
+                  </p>
+                </div>
+              </div>
+            </div>
+            <!-- <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div> -->
+          </div>
+        </div>
+        <div class="row mb-5 d-none d-sm-flex">
           <div class="col-12 col-md-4">
             <div class="wrapper pe-lg-5">
               <div class="ico ico-circle ico-circle-d100 ico-circle-d100-blue mb-5">
@@ -293,7 +341,7 @@
           <div class="col-12 col-md-10 col-lg-6">
             <div class="box box-white p-4 p-lg-5">
               <h4 class="tit ts-lg-40 ts-32 tc-gradient tw-700 ta-center mb-4">
-                แบ่งปั่นความรู้ด้านการซื้อขายของคุณกับเรา
+                 ขยายความรูด้า้นการซือ้ขายของคุณกบั เรา
               </h4>
               <p class="txt ts-lg-18 ts-18 tc-dblue tw-500 ta-center mb-4 pe-lg-3">
                 รับคำแนะนำเกี่ยวกับการลงทุนเพิ่มเติมจากผู้เชี่ยวชาญ นอกจากนี้ โปรโมชั่นปกติของเราจะทำให้คุณได้เปรียบมากขึ้น
@@ -470,5 +518,28 @@
   <footer class="js-import" data-import="footer">
   </footer>
   <script src="../assets/scripts/int/scrolling.js"></script>
+  <!-- Swiper JS -->
+  <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+    
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper(".mySwiper", {
+      slidesPerView: 1,
+      spaceBetween: 30,
+      loop: true,
+      autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+      },
+      pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+      },
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+  </script>
 </body>
 </html>

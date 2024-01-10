@@ -1,0 +1,29 @@
+@media (min-width: $s-xs) {
+  .swiper {
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    &-wrapper {
+      min-height: 200px;
+    }
+    &-slide {
+      text-align: center;
+      font-size: 18px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100%;
+    }
+  }
+}
+@media (min-width: $s-sm) {
+}
+@media (min-width: $s-md) {
+}
+@media (min-width: $s-lg) {
+}
+@media (min-width: $s-xl) {
+}
+@media (min-width: $s-xxl) {
+}
