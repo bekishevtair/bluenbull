@@ -1374,6 +1374,9 @@ table {
   form[id=form-b] {
     max-width: 500px;
   }
+  .input {
+    gap: 10px;
+  }
   .input__item {
     position: relative;
   }
@@ -1473,7 +1476,6 @@ table {
   }
   .input--phone .input__item:first-child {
     width: 30%;
-    margin-right: 15px;
   }
   .input--phone .input__item:last-child {
     width: 70%;
@@ -1975,6 +1977,9 @@ table {
   }
 }
 @media (min-width: 0) {
+  html[lang=ar] * {
+    direction: rtl;
+  }
   .view {
     padding-top: 80px;
   }
@@ -2010,14 +2015,18 @@ table {
     background: radial-gradient(150% 200% at 50% -20%, #f3f8fe 50%, transparent 50%);
     position: relative;
   }
-  .view--homepage .section:nth-of-type(1) .txt, .view--homepage .section:nth-of-type(1) .tit, .view--homepage .section:nth-of-type(1) a {
+  .view--homepage .section:nth-of-type(1) .txt,
+.view--homepage .section:nth-of-type(1) .tit,
+.view--homepage .section:nth-of-type(1) a {
     position: relative;
     z-index: 2;
   }
   .view--instruments .section:nth-of-type(1) {
     position: relative;
   }
-  .view--instruments .section:nth-of-type(1) .txt, .view--instruments .section:nth-of-type(1) .tit, .view--instruments .section:nth-of-type(1) a {
+  .view--instruments .section:nth-of-type(1) .txt,
+.view--instruments .section:nth-of-type(1) .tit,
+.view--instruments .section:nth-of-type(1) a {
     position: relative;
     z-index: 2;
   }
