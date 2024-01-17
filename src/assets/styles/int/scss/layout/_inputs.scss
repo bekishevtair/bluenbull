@@ -159,7 +159,7 @@
       input {
         display: none;
 
-        &:checked + .input__item--label::after {
+        &:checked + .input__item--checkbox::after {
           background: url("../../../../public/img/icons/ico-check-green.svg")
               50% 50% / 16px auto no-repeat,
             map-get($bc, "blue");
@@ -171,40 +171,44 @@
           }
         }
       }
-      .input__item--label {
-        a {
-          text-decoration: none;
-          color: $w;
-          &:visited {
-            color: inherit;
-          }
-        }
-        position: relative;
-        cursor: pointer;
-        display: inline-flex;
-        transition: 0.2s;
-        &::after,
-        &::before {
-          content: "";
-        }
-        &::before {
+      .input__item {
+        display: flex;
+        gap: 8px;
+        &--checkbox {
+          position: relative;
           display: block;
-          height: 24px;
-          flex: 0 0 24px;
           width: 24px;
+          min-width: 24px;
+          height: 24px;
           background: map-get($bc, "white");
           border-radius: 25%;
-          margin: 0 16px 0 0;
           border: 1px solid darken(map-get($bc, "lblue"), 10%);
+          cursor: pointer;
+
+          &::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 4px;
+            opacity: 0;
+          }
         }
-        &::after {
-          position: absolute;
-          top: 0;
-          left: 0;
-          width: 24px;
-          height: 24px;
-          border-radius: 25%;
-          opacity: 0;
+
+        &--label {
+          a {
+            text-decoration: none;
+            color: map-get($bc, "blue");
+            &:visited {
+              color: inherit;
+            }
+          }
+          position: relative;
+          cursor: pointer;
+          display: inline-flex;
+          transition: 0.2s;
         }
       }
     }
