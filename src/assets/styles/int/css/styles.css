@@ -962,19 +962,45 @@ table {
   }
 }
 @media (min-width: 0) {
-  p, a, b, i, li, ol, ul, h1, h2, h3, h4, h5, h6, span, label, input, textarea, button {
+  p,
+a,
+b,
+i,
+li,
+ol,
+ul,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+label,
+input,
+textarea,
+button,
+div {
     font-family: "Inter", sans-serif;
   }
-  .tit.lh-1, .txt.lh-1, .src.lh-1 {
+  .tit.lh-1,
+.txt.lh-1,
+.src.lh-1 {
     line-height: 1.25;
   }
-  .tit.lh-2, .txt.lh-2, .src.lh-2 {
+  .tit.lh-2,
+.txt.lh-2,
+.src.lh-2 {
     line-height: 1.75;
   }
-  .tit.tf-inter, .txt.tf-inter, .src.tf-inter {
+  .tit.tf-inter,
+.txt.tf-inter,
+.src.tf-inter {
     font-family: "Inter", sans-serif;
   }
-  .tit.tf-ibmplexsans, .txt.tf-ibmplexsans, .src.tf-ibmplexsans {
+  .tit.tf-ibmplexsans,
+.txt.tf-ibmplexsans,
+.src.tf-ibmplexsans {
     font-family: "IBMPlexSans", sans-serif;
   }
   .tit {
@@ -2824,7 +2850,7 @@ table {
     transform: rotate(40deg);
   }
   .accordeon__content {
-    padding: 0px 30px 20px 24px;
+    padding: 0px 40px 40px 40px;
     display: none;
     cursor: default;
   }
@@ -2837,22 +2863,11 @@ table {
   }
   .accordeon ul {
     padding-left: 30px;
-    list-style: none;
-  }
-  .accordeon ul li {
-    position: relative;
-  }
-  .accordeon ul li:before {
-    position: absolute;
-    content: "";
-    width: 12px;
-    height: 12px;
-    top: 8px;
-    left: -28px;
-    background: #76829f;
-    border-radius: 50%;
+    padding-right: 30px;
+    list-style: disc;
   }
   .accordeon ol {
+    padding-right: 30px;
     padding-left: 30px;
     list-style: decimal;
   }
