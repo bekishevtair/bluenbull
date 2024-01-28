@@ -1,0 +1,1822 @@
+{
+  "header": {
+    "en": "English",
+    "es": "Español",
+    "vi": "Tiếng Việt",
+    "pt": "Portuguese",
+    "ar": "العربية",
+    "accounts": "Tài khoản",
+    "accounts-1": "Tài khoản First Class",
+    "accounts-2": "Tài khoản Live",
+    "accounts-3": "Tài khoản Standard",
+    "accounts-4": "Tài khoản Demo",
+
+    "instruments": "Công cụ",
+    "instruments-1": "Cổ phiếu",
+    "instruments-2": "Chỉ số",
+    "instruments-3": "Trái phiếu",
+    "instruments-4": "Hàng hóa",
+    "instruments-5": "Tiền Điện tử",
+    "instruments-6": "Ngoại hối",
+
+    "platforms": "Nền tảng",
+    "platforms-1": "Nhà giao dịch bằng máy",
+    "platforms-2": "Webtrader",
+    "platforms-3": "Nhà giao dịch bằng điện thoại",
+
+    "trading": "Công cụ giao dịch",
+    "trading-1": "Ngày lễ",
+    "trading-2": "Rollover",
+    "trading-3": "Cổ tức",
+    "trading-4": "Bảng chú giải",
+
+    "policies": "Chính sách",
+    "policies-1": "Điều khoản và điều kiện",
+    "policies-2": "Chính sách bảo mật",
+    "policies-3": "Rủi Ro",
+    "policies-4": "Chính sách AML KYC",
+    "policies-5": "Chính sách hoàn lại tiền",
+
+    "about": "Về chúng tôi",
+    "about-1": "Liên hệ chúng tôi",
+    "about-2": "Câu hỏi thường gặp",
+
+    "partners": "Đối tác",
+    "academy": "Học viện Bony",
+
+    "login": {
+      "button-label": "Đăng nhập",
+      "link": "https://client.comfyfx.com/vi/sign/in"
+    },
+    "register": {
+      "button-label": "Đăng ký",
+      "link": "https://client.comfyfx.com/vi/client.add/"
+    }
+  },
+  "home-page": {
+    "hero-section": {
+      "heading": "Phát triển nguồn vốn của bạn với ",
+      "sub-heading": "Khám phá các dịch vụ và công cụ đa dạng của chúng tôi để đạt được mục tiêu giao dịch của bạn",
+      "button-label": "ĐĂNG KÝ"
+    },
+    "benefits-section": {
+      "heading": "Lợi ích",
+      "reliable-title": "Hệ thống đáng tin cậy",
+      "reliable-description": "Giao dịch trên MT5, nền tảng phổ biến được tin dùng bởi nhiều nhà giao dịch dày dạn kinh nghiệm cũng như người mới bắt đầu.",
+      "encrypted-title": "Dữ liệu mã hóa",
+      "encrypted-description": "Hãy yên tâm rằng thông tin cá nhân của bạn luôn được bảo mật an toàn với giao thức SSL (Secure Sockets Layer).",
+      "trading-title": "Công cụ giao dịch",
+      "trading-description": "Dẫn đầu thị trường tài chính với các công cụ giao dịch của chúng tôi, bao gồm biểu đồ giá và tin tức cập nhật.",
+      "exceptional-title": "Dịch vụ xuất sắc",
+      "exceptional-description": "Dịch vụ hỗ trợ khách hàng và hỗ trợ kỹ thuật chất lượng cao là ưu tiên hàng đầu của chúng tôi. Bạn có thể liên hệ để được hỗ trợ 24h một ngày, 5 ngày một tuần.",
+      "multiple-title": "Đa nền tảng",
+      "multiple-description": "Giao dịch thuận tiện trên thiết bị mà bạn ưa thích, có thể là trên điện thoại di động, máy tính bảng hoặc máy tính."
+    },
+    "bony-section": {
+      "heading": "Học viện Bony:",
+      "heading-span": "Cửa hàng giao dịch tiện lợi",
+      "description_1": "Đã có nhiều nền tảng trực tuyến hướng dẫn bạn về giao dịch và tập trung vào việc cải thiện bộ kỹ năng của bạn. Bạn đã tìm kiếm đúng nơi chưa?",
+      "description_2": "Hoàn toàn mới, vượt trội, tiến bộ, phát triển cùng với công nghệ trên thị trường - chào mừng bạn đến với Học viện Bony.",
+      "description_3": "Bạn đã sẵn sàng để phát triển bản thân chưa? Tất nhiên là rồi! Trong trường hợp đó: đây là lý do tại sao bạn không chỉ cân nhắc mà còn nên chọn Học viện Bony.",
+      "button-label": "Tìm hiểu thêm"
+    },
+    "platforms-section": {
+      "heading": "Nền tảng của chúng tôi",
+      "sub-heading": "Nhà giao dịch ở mọi cấp độ đều có thể tiếp cận nền tảng giao dịch được xây dựng hoàn hảo để phục vụ khách hàng của chúng tôi. Giao dịch trực tuyến chưa bao giờ dễ dàng hơn với 3 nền tảng được cung cấp.",
+      "desktop-heading": "Máy tính",
+      "desktop-description": "Giao dịch bằng MT5: nền tảng giao dịch phổ biến nhất mang đến vô vàn cơ hội cho các nhà giao dịch",
+      "webtrader-heading": "Nền web",
+      "webtrader-descdription": "Giao dịch mà không cần tải xuống bất kỳ phần mềm nào, chỉ cần khởi chạy để truy cập tất cả các tính năng giao dịch tương tự như các nền tảng khác.",
+      "mobile-heading": "Điện thoại",
+      "mobile-description": "Giao dịch thoải mái ở bất cứ đâu với ứng dụng sẵn có dành cho Android.",
+      "button-label": "TÌM HIỂU THÊM"
+    },
+    "compatible-section": {
+      "heading": "Tương thích với hầu hết",
+      "heading-span": "hệ điều hành",
+      "sub-heading": "Đây là những yêu cầu cấu hình tối thiểu để MetaTrader5 hoạt động trơn tru trên thiết bị của bạn. Bất kỳ phiên bản mới hơn nào cũng sẽ hỗ trợ nền tảng MT5 một cách dễ dàng.",
+      "li-internet": "Tốc độ Internet: 56 kbps",
+      "li-screen": "Độ phân giải màn hình 1024 x 768",
+      "button-label": "XEM NỀN TẢNG"
+    },
+    "how-to-start-section": {
+      "heading": "Làm sao để bắt đầu",
+      "register-heading": "Đăng ký",
+      "register-description": "Điền chi tiết thông tin cá nhân vào mẫu đăng ký để mở tài khoản với ComfyFX",
+      "verify-heading": "Xác minh",
+      "verify-descdription": "Chụp hình và gửi các tài liệu xác minh cần thiết để hoàn tất thiết lập tài khoản.",
+      "deposit-heading": "Nạp tiền",
+      "deposit-description": "Nạp tiền vào tài khoản thông qua chuyển khoản ngân hàng, thẻ tín dụng hoặc thông qua dịch vụ thanh toán trực tuyến",
+      "button-label": "MỞ TÀI KHOẢN"
+    }
+  },
+  "footer": {
+    "heading": "ComfyFX là trang web được điều hành bởi Blue Sun Capital Ltd, và được cấp phép bởi Mwali International Services Authority với giấy phép số HY00723481",
+    "sub-heading": "Giao dịch Ngoại hối (Forex) và Hợp đồng Chênh lệch (CFD) có tính đầu cơ cao, mang mức độ rủi ro cao và có thể không phù hợp với tất cả các nhà đầu tư. Bạn có thể bị thua lỗ một số hoặc tất cả vốn đầu tư của bạn, do đó, bạn không nên đầu cơ với số vốn mà bạn không được phép thua lỗ. Bạn nên hiểu biết tất cả các rủi ro liên quan đến giao dịch ký quỹ.",
+    "sub-heading-2": "Trang web này được tiếp thị và điều hành bởi Blue Sun Capital Ltd có trụ sở tại P.B. 1257 Bonovo Road, Fomboni, Comoros, KM. Các điều khoản pháp lý bị hạn chế: Chúng tôi không thiết lập tài khoản cho công dân thuộc các khu vực pháp lý nhất định bao gồm Hoa Kỳ, Nhật Bản, Triều Tiên, Iran, EU và EEA. Để biết thêm chi tiết, vui lòng xem Điều khoản & Điều kiện.",
+    "visit-heading": "Liên hệ ComfyFX",
+    "touch-heading": "Liên hệ",
+    "touch-description": "Chúng tôi sử dụng 10 loại ngôn ngữ",
+    "email-heading": "Email cho chúng tôi",
+    "email-description": "Chúng tôi luôn sẵn sàng hỗ trợ"
+  },
+  "account": {
+    "main_heading": "Accounts",
+    "trader_profile": {
+      "heading": "Từ người chưa có kinh nghiệm cho đến chuyên gia",
+      "sub_heading": "Dành cho mọi nhà giao dịch",
+      "description": "Regardless of your experience level, we have the perfect account that matches your trading goals and capacity.",
+      "heading_1": "Tài khoản Demo",
+      "details_1": "Thực hành giao dịch trong điều kiện thị trường thực mà không chịu rủi ro, cuối cùng là học cách phân tích thị trường thực tế, phát triển chiến lược giao dịch và tạo danh mục đầu tư. Các nhà giao dịch nâng cao cũng có thể hưởng lợi bằng cách khám phá các đặc tính hoặc giao dịch với số tiền lớn hơn.",
+      "heading_2": "Tài khoản Live",
+      "details_2": "Các nhà giao dịch dày dạn kinh nghiệm hiện có thể tham gia thị trường với lệnh tối đa cao hơn. Khách hàng sẽ nhận được tất cả các lợi ích của Tài khoản Tiêu chuẩn, và thêm một trợ lý giao dịch cá nhân để giúp khách hàng điều chỉnh các tùy chọn giao dịch cho phù hợp với mục tiêu tài chính của họ.",
+      "button_label": "TÌM HIỂU THÊM"
+    },
+    "why_choose": {
+      "heading": "Tại sao nên lựa chọn Tài khoản Live?",
+      "heading_1": "Hỗ trợ khách hàng đa ngôn ngữ",
+      "heading_2": "Nhiều loại tiền tệ",
+      "heading_3": "MetaTrader 5",
+      "heading_4": "Webtrader",
+      "heading_5": "Android & iOS",
+      "heading_6": "Trợ lý giao dịch cá nhân",
+      "heading_7": "Công cụ giao dịch",
+      "heading_8": "Kiểm soát hoàn toàn"
+    },
+    "account_breakdown": {
+      "heading": "Phân tích tài khoản"
+    }
+  },
+  "first_class_account": {
+    "main_heading": "First Class Account",
+    "trade_beyond": {
+      "heading": "Trade",
+      "heading_span": "Beyond",
+      "description": "For clients who already have enough experience and knowledge about making returns from trading, it’s time to go beyond. This account is excellent for clients who wish to enjoy the full package of our product range and services. This includes the services offered to you by your personal trading assistant who will provide insightful advice in making the best investment.",
+      "button_label": "Register Now"
+    },
+    "benefits": {
+      "heading": "Benefits of First Class Account",
+      "heading_1": "Higher Stop Out",
+      "heading_2": "Higher Max Order",
+      "heading_3": "Access to All Features",
+      "heading_4": "Personal Trading Assistant"
+    },
+    "account_breakdown": {
+      "heading": "Account Breakdown"
+    }
+  },
+  "live_account": {
+    "main_heading": "Tài khoản Live",
+    "trade_for_returns": {
+      "heading": "Giao dịch để kiếm ",
+      "heading_span": "lợi nhuận",
+      "description": "Bạn mong muốn kiếm thêm thu nhập? Tài khoản Live của chúng tôi phù hợp với những khách hàng đang giao dịch ở cấp độ nâng cao. Các nhà giao dịch dày dạn kinh nghiệm hiện có thể tham gia thị trường với lệnh tối đa cao hơn. Khách hàng sẽ nhận được tất cả các lợi ích của Tài khoản Tiêu chuẩn, và thêm một trợ lý giao dịch cá nhân để giúp khách hàng điều chỉnh các tùy chọn giao dịch cho phù hợp với mục tiêu tài chính của họ.",
+      "button_label": "ĐĂNG KÝ LIVE"
+    },
+    "benefits": {
+      "heading": "Lợi ích của Tài khoản Live",
+      "heading_1": "Hỗ trợ kỹ thuật đa ngôn ngữ",
+      "heading_2": "Nhiều loại tiền lệ",
+      "heading_3": "Truy cập tất cả các tính năng",
+      "heading_4": "Trợ lý giao dịch cá nhân"
+    },
+    "account_breakdown": {
+      "heading": "Account Breakdown"
+    }
+  },
+  "standard_account": {
+    "main_heading": "Standard Account",
+    "trade_for_experience": {
+      "heading": "Trade for",
+      "heading_span": "Experience",
+      "description": "Perfect for new traders who have tried the Demo account and wish to gain more confidence in trading with real money. New traders or individuals who prefer to trade with smaller sums will enjoy the benefits of this account. It is ideal for testing different techniques and strategies, build a business plan and monitor progress to enhance one’s trading skills.",
+      "button_label": "Register Standard"
+    },
+    "benefits": {
+      "heading": "Benefits of Standard Account",
+      "heading_1": "24/5 Technical Support",
+      "heading_2": "Multiple Currencies",
+      "heading_3": "Access to All Platforms",
+      "heading_4": "Access to Trading Tools"
+    },
+    "account_breakdown": {
+      "heading": "Account Breakdown"
+    }
+  },
+  "demo_account": {
+    "main_heading": "Tài khoản Demo",
+    "trade_for_free": {
+      "heading": "Giao dịch",
+      "heading_span": "miễn phí",
+      "description": "Lựa chọn lý tưởng cho những người mới bắt đầu giao dịch và muốn \"bước chân\" vào thị trường tài chính mà không phải chịu rủi ro một xu nào. Thực hành giao dịch trong điều kiện thị trường thực mà không chịu rủi ro, cuối cùng là học cách phân tích thị trường thực tế, phát triển chiến lược giao dịch và tạo danh mục đầu tư. Các nhà giao dịch nâng cao cũng có thể hưởng lợi bằng cách khám phá các đặc tính hoặc giao dịch với số tiền lớn hơn.",
+      "button_label": "ĐĂNG KÝ DEMO"
+    },
+    "benefits": {
+      "heading": "Lợi ích của Tài khoản Demo",
+      "heading_1": "Hỗ trợ khách hàng đa ngôn ngữ",
+      "heading_2": "Điều kiện thị trường thực",
+      "heading_3": "Tiếp cận tất cả các nền tảng ",
+      "heading_4": "Tiếp cận các Công cụ giao dịch"
+    },
+    "account_breakdown": {
+      "heading": "Account Breakdown"
+    }
+  },
+  "bony-academy": {
+    "main_heading": "Học viện Bony",
+    "heading_span": "Giới thiệu về ",
+    "description_1": "Một nền tảng học tập trực tuyến, một không gian kỹ thuật số cho phép các tân binh cũng như các chuyên gia phát triển trong lĩnh vực giao dịch và đầu tư. Cho dù bạn là người hoàn toàn mới và chỉ đang cố gắng tìm hiểu biểu đồ là gì hay là một người kỳ cựu đang tìm cách phát triển một chiến lược giao dịch, chúng tôi sẽ hỗ trợ bạn.",
+    "description_2": "Học viện Bony cung cấp nội dung giáo dục về cổ phiếu, hàng hóa, tiền điện tử và chỉ số ở định dạng dễ hiểu dành riêng cho các nhà giao dịch. Bạn sẽ học mọi thứ bạn cần biết thông qua các khóa học phong phú, video, tài liệu học tập sẵn có và Sách điện tử. Điều tốt nhất về học tập trực tuyến là nó mang lại sự linh hoạt",
+    "description_3": "Bạn có thể học mọi lúc, mọi nơi và theo tốc độ của riêng bạn.",
+    "description_4": "Tạo một tài khoản Live với chúng tôi và bạn sẽ nhận được quyền truy cập MIỄN PHÍ không giới hạn vào toàn bộ thư viện của Học viện Bony.",
+    "button_label": "Bony Academy",
+    "button_link": "https://bonyacademy.com/en/?utm_source=website&utm_medium=button&utm_campaign=go_to_Bony_Academy&utm_content=link_from_web_comfyFX",
+    "warning": "Bạn phải nạp vốn lần đầu để tận dụng ưu đãi này, đừng lo, sẽ không giới hạn mức nạp tối thiểu."
+  },
+  "instruments": {
+    "main_heading": "Công cụ",
+    "explore": {
+      "heading": "Khám phá ",
+      "heading_span": "thị trường tài chính",
+      "description": "ComfyFX cung cấp đa dạng các loại công cụ tài chính cho nhà giao dịch để giúp khách hàng thực hiện thành công tất cả các phương pháp và chiến lược giao dịch. Những dịch vụ của chúng tôi có thể phục vụ tất cả đối tượng, từ những nhà giao dịch trong ngày năng động ưa thích thị trường có tính thanh khoản cao, cho đến những nhà đầu tư kiên nhẫn với kế hoạch dài hạn. Điều cần thiết đối với mỗi nhà giao dịch là phải nghiên cứu ưu điểm của mỗi công cụ để lựa chọn công cụ phù hợp với phong cách giao dịch của bản thân.",
+      "button_label": "ĐĂNG KÝ"
+    },
+    "heading_1": "Hàng hóa",
+    "description_1": "Thị trường hàng hóa liên quan đến giao dịch nguyên liệu thô hoặc các sản phẩm nông nghiệp chính trên toàn thế giới.",
+    "heading_2": "Chỉ số",
+    "description_2": "Thay vì chịu nguy cơ trước sự biến động của một cổ phiếu riêng lẻ, bạn có thể kiếm lợi nhuận từ sự chuyển động của toàn bộ các lĩnh vực trên thị trường toàn cầu.",
+    "heading_3": "Cổ phiếu",
+    "description_3": "Cổ phiếu là một loại chứng khoán cho phép nhà đầu tư nhận cổ tức dưới hình thức tỷ lệ theo tài sản và thu nhập của công ty.",
+    "heading_4": "Trái phiếu",
+    "description_4": "Trái phiếu là tài sản do chính phủ và doanh nghiệp phát hành và thường được coi là một khoản đầu tư dài hạn an toàn.",
+    "heading_5": "Tiền điện tử",
+    "description_5": "Tiền điện tử được mô tả như một loại tiền kỹ thuật số. Nhà đầu tư cần tìm hiểu về tiềm năng đầu tư của mỗi đồng để đạt được kết quả tốt nhất.",
+    "heading_6": "Ngoại hối",
+    "description_6": "Thị trường ngoại hối (Forex) là thị trường có tính thanh khoản cao nhất trên thế giới, và cũng là thị trường dẫn đầu xét về khối lượng giao dịch hàng ngày.",
+    "button_label": "XEM THÊM"
+  },
+  "stocks": {
+    "main_heading": "Cổ phiếu",
+    "history": {
+      "heading": "Lợi nhuận",
+      "heading_span": "cao nhất trong lịch sử",
+      "description": "Cổ phiếu là một loại chứng khoán cho phép các cổ đông nắm giữ một phần tài sản và thu nhập của tập đoàn dưới dạng cổ tức. Thị trường chứng khoán là thị trường thứ cấp, nghĩa là bạn không mua cổ phiếu trực tiếp từ công ty mà là thông qua một cổ đông hiện có. Nhà đầu tư kiếm được lợi nhuận thông qua đầu tư vào đúng công ty hứa hẹn tăng giá cổ phiếu và chi trả cổ tức thường xuyên.",
+      "button_label": "ĐĂNG KÝ"
+    },
+    "heading": "Ưu điểm",
+    "heading_1": "Không giới hạn đầu tư",
+    "heading_2": "Dễ dàng Mua và Bán",
+    "heading_3": "Đòn bẩy tối đa 1:50",
+    "heading_4": "Dự đoán dễ dàng hơn",
+    "heading_5": "Không có phí",
+    "heading_6": "Thị trường toàn cầu",
+    "trading_condition": "Điều kiện giao dịch"
+  },
+  "indices": {
+    "main_heading": "Chỉ số",
+    "portfolio": {
+      "heading": "Đa dạng hóa",
+      "heading_span": "danh mục đầu tư",
+      "description": "Truy cập vào mọi lĩnh vực của thị trường toàn cầu. Hãy kiên cường trước sự biến động của một cổ phiếu và kiếm lợi nhuận từ các chuyển động lên và xuống của thị trường. Một Chỉ số là giá trị trung bình của cổ phiếu từ các công ty hàng đầu trong một lĩnh vực nhất định của nền kinh tế. Đặc điểm tuyệt vời của Chỉ số là yêu cầu quản lý rất ít và cung cấp sự đa dạng hóa với chi phí thấp.",
+      "button_label": "ĐĂNG KÝ"
+    },
+    "heading": "Ưu điểm",
+    "heading_1": "Phí chênh lệnh thấp",
+    "heading_2": "Phân phối có trọng số",
+    "heading_3": "Tùy chọn nhị phân",
+    "heading_4": "Đòn bẩy tối đa 1: 100",
+    "heading_5": "Không có phí",
+    "heading_6": "Đa dạng hóa danh mục đầu tư",
+    "trading_condition": "Điều kiện giao dịch"
+  },
+  "bonds": {
+    "main_heading": "Trái phiếu",
+    "interest": {
+      "heading": "Lãi suất",
+      "heading_span": "cố định",
+      "description": "Trái phiếu là một loại chứng khoán do chính phủ hoặc tập đoàn phát hành và thường được coi là một khoản đầu tư dài hạn an toàn. Trái phiếu cho phép bạn nhận được thu nhập thường xuyên dưới hình thức lãi suất cố định. Toàn bộ số tiền sẽ được hoàn trả cho bạn vào ngày đáo hạn của trái phiếu, ngoài ra còn đền bù cho bạn bằng tiền lãi hàng năm đều đặn. Trái phiếu mang lại cho bạn sự ổn định mà các khoản đầu tư khác không thể có được.",
+      "button_label": "ĐĂNG KÝ"
+    },
+    "heading": "Ưu điểm",
+    "heading_1": "Thu nhập dự đoán",
+    "heading_2": "Nguy cơ thấp",
+    "heading_3": "Đòn bẩy tối đa 1: 100",
+    "heading_4": "Dự trữ tài sản",
+    "heading_5": "Không có phí",
+    "heading_6": "Lãi suất cố định",
+    "trading_condition": "Điều kiện giao dịch"
+  },
+  "commodities": {
+    "main_heading": "Hàng hóa",
+
+    "high": {
+      "heading": "Tính minh bạch ",
+      "heading_span": "cao",
+      "description": "Hàng hóa liên quan đến việc buôn bán nguyên liệu thô hoặc các sản phẩm nông nghiệp chính như Dầu, Vàng và Cà phê trên khắp thế giới trên các sàn giao dịch hàng hóa. Cách giao dịch hàng hóa phố biến nhất là thông qua hợp đồng tương lai, hợp đồng mua hoặc bán một loại hàng hóa cụ thể với mức giá được xác định trước tại một thời điểm cụ thể trong tương lai. Giao dịch hàng hóa giúp ổn định danh mục đầu tư của bạn vì biến động giá của chúng thường trái ngược với biến động giá của cổ phiếu.",
+      "button_label": "ĐĂNG KÝ"
+    },
+
+    "heading": "Ưu điểm",
+    "heading_1": "Mức ký quỹ thấp",
+    "heading_2": "Minh bạch",
+    "heading_3": "Đòn bẩy tối đa 1: 100",
+    "heading_4": "Đa dạng hóa danh mục đầu tư",
+    "heading_5": "Thị trường 24 giờ",
+    "heading_6": "Không có phí",
+
+    "trading_condition": "Điều kiện giao dịch"
+  },
+  "cryptocurrencies": {
+    "main_heading": "Tiền Điện tử",
+
+    "high": {
+      "heading": "Biến động",
+      "heading_span": "cao",
+      "description": "Tiền điện tử được mô tả như là một loại tiền kỹ thuật số. Công cụ tài chính này đã gây sốt trên toàn thế giới như một hình thức đầu tư có vẻ sinh lời và mang lại lợi nhuận rất cao. Mặc dù nhiều người đã kiếm được lợi nhuận đáng kể và vẫn đang tiếp tục như vậy từ việc giao dịch các loại tiền điện tử biến động cao, mỗi nhà giao dịch nên tự mình thận trọng nghiên cứu đối với từng khoản đầu tư của mình.",
+      "button_label": "ĐĂNG KÝ"
+    },
+
+    "heading": "Ưu điểm",
+    "heading_1": "Biến động mạnh",
+    "heading_2": "Thanh khoản cao",
+    "heading_3": "Mua hoặc bán",
+    "heading_4": "Thị trường 24/7",
+    "heading_5": "Có thể tối ưu đòn bẩy",
+    "heading_6": "Không mất phí",
+
+    "trading_condition": "Điều kiện giao dịch"
+  },
+  "forex": {
+    "main_heading": "Ngoại hối",
+
+    "high": {
+      "heading": "Đòn bẩy",
+      "heading_span": "cao nhất",
+      "description": "Thị trường ngoại hối (Forex) là thị trường có tính thanh khoản cao nhất trên thế giới và cũng dẫn đầu về khối lượng giao dịch hàng ngày. Forex có khối lượng giao dịch khoảng 5 triệu đô la Mỹ mỗi ngày. Quy mô của thị trường giúp bạn dễ dàng mở và đóng các vị thế giao dịch. ComfyFX cung cấp cho bạn quyền truy cập vào hơn 100 công cụ giao dịch để giúp bạn thành công trong thị trường lớn nhất thế giới.",
+      "button_label": "ĐĂNG KÝ"
+    },
+
+    "heading": "Ưu điểm",
+    "heading_1": "Hơn 50 cặp Forex",
+    "heading_2": "Thanh khoản cao",
+    "heading_3": "Phí chênh lệch thấp",
+    "heading_4": "Thị trường 24 giờ",
+    "heading_5": "Đòn bẩy tối đa 1: 500",
+    "heading_6": "Không có phí",
+
+    "trading_condition": "Điều kiện giao dịch"
+  },
+  "platforms": {
+    "main_heading": "Nền tảng",
+    "grow": {
+      "heading": "Xem nguồn vốn",
+      "heading_span": "của bạn lớn mạnh",
+      "description": "Regardless of your experience level, we have the perfect account that matches your trading goals and capacity.",
+      "desktop": {
+        "heading": "Desktop Trader",
+        "description": "Giao dịch bằng MT5: nền tảng giao dịch tiên tiến, phổ biến nhất cung cấp vô vàn khả năng cho các nhà giao dịch; môi trường giao dịch trực quan và ưu tiên bảo mật. Ngoài ra, ComfyFX cung cấp sự hỗ trợ cần thiết 24 giờ một ngày, 5 ngày một tuần.",
+        "heading_1": "Cập nhật mới nhất",
+        "heading_2": "Cấu hình đầy đủ",
+        "heading_3": "Hoạt động liền mạch",
+        "heading_4": "Bảo mật mạnh mẽ",
+        "heading_5": "Phân tích kỹ thuật",
+        "heading_6": "Thân thiện với người dùng"
+      },
+      "webtrader": {
+        "heading": "Webtrader",
+        "description": "Giao dịch mà không phải tải xuống bất kỳ phần mềm nào, chỉ cần khởi chạy MT5 Webtrader để truy cập tất cả các chức năng tương tự. Thứ duy nhất bạn cần là một trình duyệt web trên bất kỳ thiết bị nào có kết nối internet an toàn. Đăng ký hoặc đăng nhập vào tài khoản hiện có để bắt đầu giao dịch trực quan với mức độ bảo vệ dữ liệu cao.",
+        "heading_1": "Giao dịch trực tiếp",
+        "heading_2": "Truy cập thuận tiện",
+        "heading_3": "Lịch sử giao dịch",
+        "heading_4": "Dữ liệu được mã hóa",
+        "heading_5": "Sao chép giao dịch",
+        "heading_6": "Thân thiện với người dùng"
+      },
+
+      "mobile": {
+        "heading": "Mobile Trader",
+        "description": "Giao dịch ở bất cứ đâu có kết nối internet. Có sẵn để tải xuống miễn phí trên Google Play. Tận hưởng sự linh hoạt của giao dịch không giới hạn trên Điện thoại và Máy tính bảng, có thể tải xuống từ bất kỳ thiết bị nào. Mobile Trader cũng cung cấp đầy đủ các chức năng với điều khiển một chạm.",
+        "heading_1": "Giao dịch một chạm",
+        "heading_2": "Các chỉ số phổ biến",
+        "heading_3": "Thực thi thời gian thực",
+        "heading_4": "Tổng quan giao dịch",
+        "heading_5": "Phân tích kỹ thuật",
+        "heading_6": "Truy cập thuận tiện"
+      },
+      "button_label": "TÌM HIỂU THÊM"
+    },
+    "utilize": {
+      "heading": "Tận dụng các công cụ giao dịch của chúng tôi",
+      "heading_1": "Ngày lễ",
+      "description_1": "Luôn cập nhật các ngày lễ trên toàn cầu có thể ảnh hưởng đến giao dịch của bạn.",
+      "heading_2": "Rollover",
+      "description_2": "Rollover là gia hạn việc thực thi (thanh toán) của một vị thế đang mở cho đến ngày giao dịch tiếp theo.",
+      "heading_3": "Cổ tức",
+      "description_3": "Hai ngày quan trọng nhất cần lưu ý là \"ex-dividend\" và \"payment\"."
+    }
+  },
+  "desktop": {
+    "main_heading": "Desktop Trader",
+    "trade": {
+      "heading": "Giao dịch bằng MT5 Desktop Trader: nền tảng giao dịch tiên tiến và phổ biến nhất cung cấp vô vàn khả năng cho các nhà giao dịch.",
+
+      "download_for": "TẢI XUỐNG",
+      "windows": "Windows",
+
+      "download_for2": "TẢI XUỐNG",
+      "macos": "MacOS",
+
+      "heading_1": "Cấu hình",
+      "heading_2": "Đảm bảo",
+      "heading_3": "Liền mạch",
+      "heading_4": "Phân tích",
+
+      "description_1": "Chỉ cần điều chỉnh cài đặt để phù hợp với nhu cầu giao dịch của bạn.",
+      "description_2": "Tất cả dữ liệu của bạn được mã hóa với giao thức SSL mới nhất.",
+      "description_3": "Thực thi và quản lý tất cả các giao dịch của bạn dễ dàng ở một nơi.",
+      "description_4": "Hoàn hảo cho việc nghiên cứu biểu đồ và giao dịch kỹ thuật."
+    }
+  },
+  "mobile": {
+    "main_heading": "Mobile Trader",
+    "section_2": {
+      "heading": "Tận hưởng sự linh hoạt khi giao dịch mà không bị hạn chế trên Điện thoại & Máy tính bảng, cung cấp đầy đủ các chức năng với điều khiển một chạm.",
+
+      "donwload_on_the": "Download on The",
+      "app_store": "App Store",
+
+      "android_app_on": "Android app On",
+      "google_play": "Google Play",
+
+      "heading_1": "Mã hóa an toàn",
+      "heading_2": "Theo dõi dễ dàng",
+      "heading_3": "Không một rắc rối",
+      "heading_4": "Thực thi theo thời gian thực",
+      "heading_5": "Các chỉ số phổ biến",
+      "heading_6": "Giao dịch một chạm",
+
+      "description_1": "Tất cả dữ liệu của bạn được mã hóa với giao thức SSL mới nhất.",
+      "description_2": "Xem tất cả các giao dịch của bạn trong một màn hình duy nhất.",
+      "description_3": "Giao dịch khi đang di chuyển và giám sát tất cả các giao dịch từ thiết bị di động của bạn.",
+      "description_4": "Thực hiện giao dịch ngay lập tức mà không có sợ bỏ lỡ một cơ hội nào.",
+      "description_5": "Sử dụng chỉ số để đánh giá các chuyển động của thị trường và xác định đúng thời điểm để ra/vào thị trường.",
+      "description_6": "Quản lý giao dịch đơn giản từ lòng bàn tay của bạn."
+    }
+  },
+  "webtrader": {
+    "main_heading": "Webtrader",
+    "launch_webtrader": "Khởi chạy Webtrader",
+    "section_2": {
+      "heading": "Giao dịch mà không cần phải tải xuống bất kỳ phần mềm nào, chỉ cần khởi chạy MT5 Webtrader thông qua kết nối internet an toàn để truy cập vào tài khoản giao dịch của bạn.",
+
+      "button_label": "KHỞI CHẠY",
+
+      "heading_1": "Tiện lợi",
+      "heading_2": "Đảm bảo",
+      "heading_3": "Thân thiện người dùng",
+      "heading_4": "Liền mạch",
+
+      "description_1": "Chỉ cần đăng nhập trên bất kỳ trình duyệt web nào và bạn đã sẵn sàng giao dịch.",
+      "description_2": "Tất cả dữ liệu được mã hóa với giao thức SSL mới nhất.",
+      "description_3": "Giao diện điều khiển đơn giản, thực thi lệnh giao dịch nhanh chóng và trực quan.",
+      "description_4": "Thực thi và quản lý tất cả các giao dịch của bạn dễ dàng ở một nơi."
+    }
+  },
+  "tradingtools": {
+    "main_heading": "Công cụ giao dịch ",
+
+    "section_2": {
+      "heading": "Đưa ra quyết định giao dịch tốt hơn với các",
+      "heading_span": " công cụ của chúng tôi",
+      "description": "Nhận thông báo về những ngày quan trọng hay giải thích các biệt ngữ giao dịch để đạt kết quả tốt hơn và xem lợi nhuận của bạn tăng vọt.",
+
+      "heading_1": "Ngày lễ",
+      "heading_2": "Rollover",
+      "heading_3": "Cổ tức",
+      "heading_4": "Chú giải",
+
+      "description_1": "Luôn cập nhập các ngày lễ trên toàn cầu có thể ảnh hưởng đến giao dịch của bạn",
+      "description_2": "Rollover là gia hạn việc thực thi (thanh toán) của một vị thế đang mở cho đến ngày giao dịch tiếp theo.",
+      "description_3": "Hai ngày quan trọng nhất cần lưu ý là \"ex-dividend\" và \"payment\".",
+      "description_4": "Tham khảo bảng chú giải tập hợp định nghĩa các thuật ngữ giao dịch phong phú của chúng tôi để hiểu rõ hơn về thị trường tài chính.",
+
+      "button_label": "TÌM HIỂU THÊM"
+    }
+  },
+  "holidays": {
+    "main_heading": "Holidays",
+
+    "heading": "Luôn cập nhập danh sách",
+    "heading_span": "các ngày lễ ",
+
+    "description": "Luôn cập nhập các ngày lễ trên toàn cầu có thể ảnh hưởng đến giao dịch của bạn"
+  },
+  "rollover": {
+    "main_heading": "Rollover",
+
+    "heading": "Theo dõi các ngày ",
+    "heading_span": "rollover quan trọng",
+
+    "description": "Rollover là gia hạn việc thực thi (thanh toán) của một vị thế đang mở cho đến ngày giao dịch tiếp theo."
+  },
+  "dividends": {
+    "main_heading": "Dividends",
+
+    "heading": "Theo dõi ngày chia cổ tức để lên",
+    "heading_span": "chiến lược giao dịch tốt nhất",
+
+    "description": "Hai ngày quan trọng nhất cần lưu ý là \"ex-dividend\" và \"payment\"."
+  },
+  "privacy_policy": {
+    "main_heading": "Chính sách bảo mật",
+    "section_2": {
+      "heading": "Việc bảo vệ sự riêng tư và bảo vệ thông tin cá nhân và tài chính của Khách hàng là ưu tiên hàng đầu của chúng tôi.",
+      "heading_span": "financiera de nuestros Clientes es nuestra máxima prioridad.",
+      "heading1": "Vui lòng xem Tuyên bố về Chính sách Bảo mật sau, trong đó giải thích rõ ràng cách chúng tôi, tại ACE HOLDINGS LIMITED (“ACE HOLDINGS LIMITED”), thu thập, xử lý, lưu trữ và bảo vệ thông tin Khách Hàng của chúng tôi.",
+      "description_1": "Bằng cách mở một tài khoản, Khách hàng chấp thuận đồng ý thu thập, xử lý, lưu trữ và sử dụng thông tin cá nhân của ACE HOLDINGS LIMITED như được giải thích bên dưới."
+    },
+    "main_section": {
+      "heading_1": "1. Thu thập thông tin cá nhân",
+      "description_1": "ACE HOLDINGS LIMITED thu thập thông tin cần thiết để mở, giao dịch và bảo vệ tài sản của bạn và bảo mật thông tin của bạn và cung cấp cho bạn các dịch vụ mà bạn yêu cầu. Năm vòng kết nối sẽ thu thập thông tin từ bạn và có thể trong một số trường hợp thu thập thông tin từ các ngân hàng và / hoặc các cơ quan tín dụng có liên quan và / hoặc các nguồn khác giúp chúng tôi mô tả các yêu cầu và sở thích của bạn và cung cấp dịch vụ tốt hơn cho bạn.",
+
+      "heading_2": "Thông tin mà ACE HOLDINGS LIMITED thu thập có thể bao gồm:",
+      "description_2": "Thông tin cá nhân mà bạn cung cấp cho chúng tôi trong mẫu đơn của bạn, như tên, địa chỉ, ngày sinh, địa chỉ email, nguồn thu nhập và tổng nguồn thu nhập của bạn … để dễ dàng đánh giá đơn của bạn. Thông tin bạn cung cấp cho chúng tôi cũng được sử dụng cho mục đích giao tiếp với bạn.",
+      "description_3": "Thông tin về giao dịch: thông tin về khối lượng dự kiến và giá trị của các giao dịch của bạn với chúng tôi và thông tin về thu nhập được cung cấp để giúp xây dựng hồ sơ kinh tế của bạn.",
+      "description_4": "Thông tin thẩm định: Thông tin cần thiết để xác minh danh tính của bạn, chẳng hạn như thẻ căn cước, hộ chiếu hoặc giấy phép lái xe. Điều này cũng bao gồm thông tin cơ bản mà chúng tôi nhận được về bạn từ hồ sơ công cộng hoặc từ các thực thể khác không liên kết với ACE HOLDINGS LIMITED.",
+
+      "heading_3": "2. SỬ DỤNG THÔNG TIN CÁ NH N / OPT OUT",
+      "description_5": "ACE HOLDINGS LIMITED chỉ sử dụng thông tin cá nhân theo yêu cầu để cung cấp dịch vụ và bảo mật có chất lượng cho bạn. Thông tin này giúp cải thiện dịch vụ, tùy chỉnh trải nghiệm duyệt web và cho phép chúng tôi thông báo cho bạn về các sản phẩm, dịch vụ hoặc khuyến mãi bổ sung có liên quan đến bạn và các sản phẩm và dịch vụ bạn yêu cầu và bạn đồng ý cho chúng tôi sử dụng dữ liệu này cho các mục đích đó.",
+      "description_6": "Mặc dù bạn không bắt buộc phải cung cấp cho ACE HOLDINGS LIMITED bất kỳ thông tin cá nhân nào mà chúng tôi có thể yêu cầu, vui lòng lưu ý rằng việc không làm như vậy có thể dẫn đến ACE HOLDINGS LIMITED không thể mở tài khoản của bạn hoặc cung cấp cho bạn dịch vụ mà bạn yêu cầu.",
+      "description_7": "Mặc dù chúng tôi cố gắng đảm bảo rằng tất cả thông tin mà chúng tôi nắm giữ về bạn là hiện tại, chính xác và đầy đủ, chúng tôi khuyên bạn nên liên hệ ngay với chúng tôi nếu có bất kỳ chi tiết cá nhân nào của bạn đã thay đổi.",
+
+      "heading_4": "3. BẢO VỆ THÔNG TIN CÁ NH N",
+      "description_8": "Bất kỳ thông tin cá nhân nào bạn cung cấp cho chúng tôi sẽ được coi là bí mật và chỉ được chia sẻ trong ACE HOLDINGS LIMITED và các chi nhánh của nó và sẽ không được tiết lộ cho bất kỳ bên thứ ba nào ngoại trừ theo bất kỳ thủ tục pháp lý hoặc tố tụng pháp lý nào.",
+      "description_9": "Thông tin cá nhân mà bạn cung cấp liên quan đến việc đăng ký bản thân là một người sử dụng RosyFX được bảo vệ theo nhiều cách. Bạn có thể truy cập thông tin đăng ký của mình thông qua mật khẩu do bạn lựa chọn. Mật khẩu này được mã hóa và chỉ dành cho bạn và sẽ không được tiết lộ cho bất cứ ai khác.",
+      "description_10": "Thông tin đăng ký được lưu trữ an toàn trên các máy chủ an toàn mà chỉ những người có thẩm quyền mới được truy cập thông qua mật khẩu. ACE HOLDINGS LIMITED mã hóa tất cả thông tin cá nhân khi nó được chuyển đến ACE HOLDINGS LIMITED và do đó làm cho mọi nỗ lực cần thiết để ngăn chặn các bên trái phép xem bất kỳ thông tin như vậy.",
+
+      "heading_5": "4. CÁC ĐỐI TƯỢNG VÀ ĐỐI TÁC",
+      "description_11": "ACE HOLDINGS LIMITED có thể chia sẻ thông tin với các đối tác, chi nhánh và liên minh trong trường hợp thông tin đó được yêu cầu hợp lý bởi liên kết đó để:",
+      "description_12": "Mua thêm các sản phẩm và dịch vụ tương tự đáp ứng nhu cầu của bạn và được cung cấp theo cách thức hữu ích và có liên quan (chỉ khi bạn cho phép chúng tôi làm như vậy); Và / hoặc",
+      "description_13": "Tài khoản khách hàng.",
+
+      "heading_6": "5. CÁC BÊN THỨ BA LIÊN KẾT KHÔNG THAM GIA",
+      "description_14": "ACE HOLDINGS LIMITED không bán, cấp phép, cho thuê hoặc tiết lộ thông tin cá nhân cho các bên thứ ba trừ khi được mô tả trong Tuyên bố về Quyền riêng tư này.",
+      "description_15": "ACE HOLDINGS LIMITED có quyền tiết lộ thông tin khi cần thiết cho các cơ quan báo cáo tín dụng hoặc cơ quan thu nợ theo yêu cầu hợp lý để cung cấp dịch vụ cho bạn.",
+      "description_16": "Để giúp chúng tôi cải tiến dịch vụ của chúng tôi, ACE HOLDINGS LIMITED có thể thu hút các bên thứ ba để giúp thực hiện các chức năng nội bộ nhất định như xử lý tài khoản, hoàn thành, dịch vụ khách hàng, khảo sát sự hài lòng của khách hàng hoặc các hoạt động thu thập dữ liệu khác có liên quan đến hoạt động kinh doanh của chúng tôi. Việc sử dụng thông tin được chia sẻ cũng có thể được sử dụng để cung cấp tư vấn chuyên nghiệp, pháp lý hoặc kế toán cho ACE HOLDINGS LIMITED. Việc sử dụng thông tin chia sẻ được giới hạn trong việc thực hiện những điều trên và không được phép cho bất kỳ mục đích nào khác. Tất cả các bên thứ ba mà ACE HOLDINGS LIMITED chia sẻ thông tin cá nhân được yêu cầu để bảo vệ thông tin cá nhân đó phù hợp với tất cả các quy định có liên quan và theo cách tương tự như cách mà ACE HOLDINGS LIMITED bảo vệ giống nhau. ACE HOLDINGS LIMITED sẽ không chia sẻ thông tin cá nhân với các bên thứ ba mà họ cho là sẽ không cấp cho Khách hàng của mình mức độ bảo vệ bắt buộc.",
+      "description_17": "Trường hợp bạn đã giới thiệu với chúng tôi bởi Người giới thiệu kinh doanh, Người giới thiệu kinh doanh như vậy có thể có quyền truy cập thông tin của bạn. Bạn bằng cách này rõ ràng và dứt khoát đồng ý chia sẻ thông tin với Người giới thiệu kinh doanh đó.",
+      "description_18": "Bạn thừa nhận rằng để cung cấp dịch vụ cho bạn, bạn cần chuyển thông tin ra bên ngoài Khu vực Kinh tế Châu u và bạn đồng ý chuyển.",
+
+      "heading_7": "6. QUY ĐỊNH TIẾT LỘ",
+      "description_19": "ACE HOLDINGS LIMITED có quyền tiết lộ thông tin cá nhân cho bên thứ ba nếu luật pháp, quy định, cơ quan pháp luật hoặc cơ quan chính phủ khác thuộc thẩm quyền có thẩm quyền yêu cầu nhằm bảo vệ các quyền của chúng tôi và / hoặc tuân thủ các thủ tục tố tụng như vậy. Việc tiết lộ như vậy sẽ xảy ra trên cơ sở ‘cần phải biết’, trừ khi có sự chỉ dẫn của cơ quan quản lý hoặc cơ quan nhà nước khác. Trong các trường hợp như vậy, ACE HOLDINGS LIMITED sẽ thông báo rõ ràng cho bên thứ ba về tính bí mật của thông tin.",
+
+      "heading_8": "7. GIỚI HẠN TRÁCH NHIỆM",
+      "description_20": "ACE HOLDINGS LIMITED không chịu trách nhiệm về chính sách bảo mật hoặc nội dung của các liên kết RosyFX và không kiểm soát việc sử dụng hoặc bảo vệ thông tin được cung cấp bởi Khách hàng hoặc được thu thập bởi các trang web đó. Bất cứ khi nào Khách hàng chọn liên kết đến một trang web đồng thương hiệu hoặc đến một trang web được liên kết, Khách hàng có thể được yêu cầu cung cấp đăng ký hoặc thông tin khác. Xin lưu ý rằng thông tin đó được ghi lại bởi bên thứ ba và sẽ được điều chỉnh bởi chính sách bảo mật của bên thứ ba đó.",
+
+      "heading_9": "8. SỬ DỤNG “COOKIES”",
+      "description_21": "ACE HOLDINGS LIMITED sử dụng cookie để bảo đảm hoạt động giao dịch của bạn và để tăng cường hiệu suất của trang web RosyFX. Cookie được sử dụng bởi ACE HOLDINGS LIMITED không chứa thông tin cá nhân hoặc thông tin nhạy cảm khác.",
+      "description_22": "ACE HOLDINGS LIMITED có thể chia sẻ thống kê sử dụng trang web với các công ty quảng cáo có uy tín và với các công ty tiếp thị có liên quan. Thông tin được thu thập bởi công ty quảng cáo không phải là nhận dạng cá nhân.",
+      "description_23": "Để quản lý và cải tiến trang web của RosyFX, ACE HOLDINGS LIMITED có thể sử dụng bên thứ ba để theo dõi và phân tích thông tin sử dụng và thống kê về khối lượng. Bên thứ ba có thể sử dụng cookie để theo dõi hành vi và có thể thiết lập cookie thay vì ACE HOLDINGS LIMITED. Các cookie này không chứa bất kỳ thông tin nhận dạng cá nhân nào.",
+
+      "heading_10": "9. BÁO CÁO QUYỀN TUYÊN BỐ",
+      "description_24": "Thỉnh thoảng, ACE HOLDINGS LIMITED có thể cập nhật Bản tuyên bố Chính sách Bảo mật này. Trong trường hợp ACE HOLDINGS LIMITED thay đổi cơ bản Bản tuyên bố về Chính sách Bảo mật này bao gồm cách chúng tôi thu thập, xử lý hoặc sử dụng thông tin cá nhân của bạn, Tuyên bố về Chính sách Bảo mật sửa đổi sẽ được đăng trên trang web Khách hàng đồng ý chấp nhận đăng tải Báo cáo Chính sách Bảo mật sửa đổi trên trang web như thông báo thực tế cho Khách Hàng. Bất kỳ tranh chấp nào về Tuyên bố Chính sách Bảo mật của chúng tôi đều phải tuân theo thông báo này và Thỏa thuận khách hàng của chúng tôi. ACE HOLDINGS LIMITED khuyến khích Khách hàng kiểm tra lại và xem lại chính sách này một cách định kỳ để Khách hàng luôn biết được ACE HOLDINGS LIMITED thu thập thông tin nào, ACE HOLDINGS LIMITED sử dụng nó như thế nào và những người mà ACE HOLDINGS LIMITED có thể tiết lộ thông tin này.",
+
+      "heading_11": "10. THỎA THUẬN",
+      "description_25": "Tôi đã đọc, hiểu và đồng ý với các điều khoản của Tuyên bố về Chính sách Bảo mật này và tôi xác nhận rằng tôi có toàn quyền và có thẩm quyền để bị ràng buộc bởi các điều khoản của Tuyên bố về Chính sách Bảo mật này.",
+      "description_26": "Đối với bất kỳ mối quan tâm khác xin",
+      "description_27": "vui lòng Liên hệ."
+    }
+  },
+  "refund_policy": {
+    "main_heading": "CHÍNH SÁCH HOÀN TRả ",
+
+    "header_1": "YÊU C ̀U HOÀN TRả",
+    "header_span": "& THU HỒI THANH TOÁN",
+
+    "main_description": "Và chúng tôi cam kết bảo vệ lợi ích tốt nhất của khách hàng một cách cực kỳ nghiêm túc.",
+
+    "description_1": "Khách hàng có thể rút số tiền còn lại từ tài khoản giao dịch của họ bất cứ lúc nào. Khi khách hàng gửi yêu cầu đổi thưởng, RosyFX sẽ cố gắng xử lý yêu cầu đổi thưởng trong vòng một đến hai ngày làm việc. Để đẩy nhanh quá trình, Khách hàng nên đảm bảo rằng biểu mẫu quy đổi có các chi tiết chính xác và đã được hoàn thành toàn bộ.",
+    "description_2": "RosyFX phải đảm bảo rằng người gửi là Khách hàng trước khi cung cấp bất kỳ số tiền nào vào Tài khoản giao dịch của Khách hàng, nếu không, Công ty có quyền hoàn trả/gửi lại số tiền ròng nhận được cho người chuyển tiền theo cùng một phương thức như đã nhận sau khi khách hàng thực hiện đầy đủ Quy trình KYC theo chính sách KYC và AML của chúng tôi.",
+    "description_3": "RosyFX không chấp nhận bất kỳ khoản hoàn trả nào cho một người hoặc tổ chức không phải là người hoặc tổ chức có tên xuất hiện trên Tài khoản trừ khi bộ phận tuân thủ của RosyFX đã phê duyệt cụ thể khoản thanh toán đó.",
+    "description_4": "Những sai lầm của Công ty trong quá trình chuyển tiền sẽ được hoàn trả cho Khách hàng. Điều này được hiểu rằng nếu Khách hàng cung cấp sai hướng dẫn chuyển khoản, Công ty có thể không sửa được lỗi và Khách hàng có thể phải chịu tổn thất.",
+    "description_5": "RosyFX không chịu trách nhiệm đối với bất kỳ khoản phí nào do bên trung gian và các nhà cung cấp dịch vụ thanh toán khác tính, bao gồm nhưng không giới hạn đối với phí tỷ giá hối đoái, phí rút tiền và bất kỳ khoản phí hành chính nào khác. Để biết thêm thông tin về phí và lệ phí, vui lòng liên hệ với dịch vụ khách hàng tại support@RosyFX.com hoặc +61 862 302 765.",
+
+    "heading_2": "hủy bỏ",
+    "description_6": "Khách hàng có thể hủy đăng ký tài khoản bất cứ lúc nào. RosyFX có thể yêu cầu lý do cho quyết định hủy của khách hàng nhằm nỗ lực cải thiện các dịch vụ cung cấp cho khách hàng. RosyFX không được hủy bất kỳ tài khoản nào có số dư tài khoản hoặc các vị trí mở. Khách hàng được yêu cầu đổi tiền và đóng các vị trí mở hiện tại trước khi tài khoản bị hủy. Để biết thêm thông tin về việc hủy đơn hàng, khách hàng nên đọc thỏa thuận khách hàng của RosyFX."
+  },
+  "aml_kyc_policy": {
+    "main_heading": "Biết chính sách khách hàng của bạn",
+
+    "heading": "Bảo mật khách hàng là một",
+    "heading_span": "Cân nhắc chính cho RosyFX",
+
+    "main_description": "Và chúng tôi cam kết bảo vệ lợi ích tốt nhất của khách hàng một cách cực kỳ nghiêm túc.",
+
+    "description_1": "Chúng tôi đã triển khai một loạt các quy trình KYC (Biết khách hàng của bạn) được thiết kế để bảo mật thông tin cá nhân của khách hàng đồng thời giữ cho công ty tuân thủ các chính sách, phương pháp hay nhất và tuân thủ dành cho các công ty dịch vụ tài chính. Những điều này nhằm mục đích ngăn chặn mọi trường hợp đánh cắp danh tính, rửa tiền, lừa đảo hoặc hoạt động khủng bố.",
+    "description_2": "Chúng tôi hoạt động trên cơ sở Không khoan nhượng nghiêm ngặt. Bất kỳ hoạt động gian lận nào sẽ được ghi lại và sẽ dẫn đến việc đóng ngay lập tức mọi tài khoản giao dịch liên quan đến hoạt động đó. Tiền gửi vào bất kỳ tài khoản nào như vậy sẽ bị mất.",
+    "description_3": "Các thủ tục này bảo mật dữ liệu cá nhân của bạn và các giao dịch tài chính của bạn vẫn an toàn. Nếu không hoàn thành các thủ tục KYC của chúng tôi, hoạt động giao dịch của bạn sẽ bị hạn chế và bạn sẽ không thể rút tiền từ tài khoản của mình.",
+    "description_4": "Việc mở và cấp tiền cho một tài khoản giao dịch với chúng tôi sẽ yêu cầu nộp các tài liệu sau:",
+
+    "1": {
+      "heading_1": "Giấy tờ chứng minh danh tính (ảnh màu hoặc bản quét), có thể gửi những giấy tờ sau:",
+      "passport": "Hộ chiếu",
+      "nid": "Chứng minh nhân dân",
+      "driving_license": "Bằng lái xe",
+
+      "heading_2": "Giấy tờ chứng minh danh tính phải có những nội dung rõ ràng sau:",
+      "description_1": "Họ và tên",
+      "description_2": "Ngày sinh",
+      "description_3": "Ngày phát hành và hết hạn",
+      "description_4": "Xóa ảnh",
+      "description_5": "Thời hạn hiệu lực tối thiểu của giấy tờ tùy thân phải còn ít nhất 6 tháng trước ngày hết hạn."
+    },
+    "2": {
+      "heading_1": "Ảnh màu của tài liệu xác nhận địa chỉ của bạn và không quá 90 ngày kể từ ngày cấp. Ảnh phải hiển thị đầy đủ địa chỉ cư trú, họ và tên, ngày cấp và tem hoặc mã vạch chính thức của bạn. Bạn có thể gửi:",
+      "description_1": "hóa đơn tiện ích",
+      "description_2": "sao kê ngân hàng",
+      "description_3": "Giấy chứng nhận cư trú",
+      "description_4": "Thỏa thuận pháp lý"
+    },
+    "3": {
+      "heading_1": "Ảnh màu của cả hai mặt của (các) thẻ đã ký mà bạn đã sử dụng để gửi tiền.",
+      "description_1": "Để bảo mật cho bạn, vui lòng che số CVV và các chữ số thứ bảy đến mười hai trong số/các thẻ của bạn, để lộ sáu chữ số đầu và bốn chữ số cuối trên cả hai mặt của/các thẻ của bạn. Tên của chủ thẻ và ngày hết hạn phải được hiển thị.",
+      "description_2": "Gửi các tài liệu được yêu cầu ở định dạng hình ảnh PDF / JPEG / JPG / PNG cho bộ phận tuân thủ thông qua tài khoản người dùng.",
+      "description_3": "Gửi tài liệu xác minh của bạn càng sớm càng tốt sau khi kích hoạt tài khoản giao dịch của bạn. Xin lưu ý rằng việc thiếu xác minh của bạn có thể dẫn đến các hạn chế đối với tài khoản giao dịch của bạn.",
+      "description_4": "Hãy cân nhắc rằng nếu thiếu xác minh, mọi yêu cầu rút tiền từ tài khoản giao dịch của bạn sẽ không được xử lý."
+    }
+  },
+  "risk_disclaimer": {
+    "main_heading": "Tuyên bố từ chối trách nhiệm rủi ro",
+
+    "section_1": {
+      "heading": "Giao dịch là rất",
+      "heading_span": "Đầu cơ và rủi ro",
+
+      "description_1": "Xét đến việc RosyFX (“RosyFX”) đồng ý ký kết các hợp đồng chênh lệch (“OTC”) phi tập trung (“CFD”) và các hợp đồng ngoại hối (“Hợp đồng FX”) với những người ký tên dưới đây (“sau đây gọi là “Khách hàng”, “bạn”, “của bạn”), Khách hàng thừa nhận, hiểu và đồng ý rằng: Giao dịch rất mang tính đầu cơ và rủi ro.",
+      "description_2": {
+        "main_description": "Giao dịch Hợp đồng CFD và FX mang tính đầu cơ cao, tiềm ẩn rủi ro thua lỗ đáng kể và không phù hợp với tất cả các nhà đầu tư mà chỉ dành cho những khách hàng:",
+        "description_1": "hiểu và sẵn sàng chấp nhận các rủi ro kinh tế, pháp lý và các rủi ro khác có liên quan;",
+        "description_2": "có kinh nghiệm và hiểu biết về giao dịch phái sinh và các loại tài sản cơ sở;",
+        "description_3": "có khả năng về mặt tài chính để chấp nhận các khoản lỗ đáng kể vượt quá số tiền ký quỹ hoặc tiền đặt cọc vì các nhà đầu tư có thể mất tổng giá trị của hợp đồng chứ không chỉ số tiền ký quỹ hoặc tiền đặt cọc."
+      },
+      "description_3": "Cả CFD và Hợp đồng ngoại hối đều không phải là khoản đầu tư thích hợp cho quỹ hưu trí. Giao dịch CFD và FX là một trong những loại đầu tư rủi ro nhất và có thể dẫn đến thua lỗ lớn. Khách hàng đại diện, đảm bảo và đồng ý rằng Khách hàng hiểu những rủi ro này, sẵn sàng và có khả năng, về mặt tài chính và mặt khác, để chấp nhận rủi ro khi giao dịch CFD và Hợp đồng FX và việc Khách hàng mất toàn bộ số dư tài khoản sẽ không thay đổi lối sống của Khách hàng."
+    },
+    "section_2": {
+      "heading_1": "Rủi ro liên quan đến các vị trí CFD dài hạn, tức là đối với Người mua CFD",
+      "description_1": "Mua CFD có nghĩa là bạn đang mua CFD trên thị trường bằng cách suy đoán rằng giá thị trường của tài sản cơ sở sẽ tăng giữa thời điểm mua và bán. Là chủ sở hữu của một vị thế mua, nhìn chung bạn sẽ kiếm được lợi nhuận nếu giá thị trường của tài sản cơ bản tăng lên trong khi vị thế mua CFD của bạn được mở. Ngược lại, nhìn chung bạn sẽ bị lỗ nếu giá thị trường của tài sản cơ bản giảm trong khi vị thế mua CFD của bạn được mở. Do đó, khoản lỗ tiềm năng của bạn có thể lớn hơn số tiền ký quỹ ban đầu được gửi. Ngoài ra, bạn có thể bị lỗ do đóng vị thế của mình, trong trường hợp bạn không có đủ thanh khoản cho số tiền ký quỹ trên tài khoản của mình để duy trì vị thế mở.",
+
+      "heading_2": "Rủi ro liên quan đến các vị trí CFD ngắn, tức là đối với người bán CFD",
+      "description_2": "Bán khống CFD có nghĩa là bạn đang bán CFD trên thị trường bằng cách suy đoán rằng giá thị trường của tài sản cơ sở sẽ giảm giữa thời điểm mua và bán. Là chủ sở hữu của một vị thế bán, nhìn chung bạn sẽ kiếm được lợi nhuận nếu giá thị trường của tài sản cơ bản giảm trong khi vị thế bán CFD của bạn được mở. Ngược lại, nhìn chung bạn sẽ bị lỗ nếu giá thị trường của tài sản cơ bản tăng lên trong khi vị thế bán khống CFD của bạn được mở. Do đó, khoản lỗ tiềm năng của bạn có thể lớn hơn số tiền ký quỹ ban đầu được gửi. Ngoài ra, bạn có thể bị lỗ do đóng vị thế của mình, trong trường hợp bạn không có đủ thanh khoản cho số tiền ký quỹ trên tài khoản của mình để duy trì vị thế mở.",
+
+      "heading_3": "Đòn bẩy cao và ký quỹ thấp có thể dẫn đến thua lỗ nhanh chóng",
+      "description_3": {
+        "1": "Mức độ cao của thiết bị hoặc đòn bẩy là một tính năng cụ thể của cả Hợp đồng CFD và FX. Ảnh hưởng của đòn bẩy làm cho việc đầu tư vào CFD trở nên rủi ro hơn so với đầu tư vào tài sản cơ sở.",
+        "2": "Điều này xuất phát từ hệ thống ký quỹ áp dụng cho CFD thường liên quan đến một khoản tiền gửi nhỏ so với quy mô của giao dịch, do đó, một biến động giá tương đối nhỏ trong tài sản cơ sở có thể có tác động đáng kể đến giao dịch của bạn. Điều này có thể là cả thuận lợi và bất lợi. Một biến động giá nhỏ có lợi cho bạn có thể mang lại lợi nhuận cao cho khoản tiền gửi, tuy nhiên, một biến động giá nhỏ chống lại bạn có thể dẫn đến tổn thất đáng kể. Các khoản lỗ của bạn sẽ không bao giờ vượt quá số dư trong tài khoản của bạn, vốn được cân bằng bằng 0, nếu số tiền thua lỗ cao hơn số tiền gửi. Những mất mát như vậy có thể xảy ra nhanh chóng. Đòn bẩy càng lớn thì rủi ro càng lớn. Do đó, quy mô của đòn bẩy phần nào quyết định kết quả đầu tư."
+      },
+      "heading_4": "Yêu cầu ký quỹ",
+      "description_4": "Khách hàng phải luôn duy trì yêu cầu ký quỹ tối thiểu đối với các vị thế mở của mình. Khách hàng có trách nhiệm theo dõi số dư tài khoản của mình. Khách hàng có thể nhận được lệnh gọi ký quỹ để gửi thêm tiền mặt nếu số tiền ký quỹ trong tài khoản liên quan quá thấp. RosyFX có quyền thanh lý bất kỳ hoặc tất cả các vị trí mở bất cứ khi nào yêu cầu ký quỹ tối thiểu không được duy trì và điều này có thể dẫn đến việc Hợp đồng CFD hoặc FX của Khách hàng bị đóng với mức thua lỗ mà bạn sẽ phải chịu trách nhiệm pháp lý.",
+
+      "heading_5": "Truyền đi",
+      "description_5": {
+        "1": "Sự khác biệt giữa giá dự thầu và giá chào bán của chúng tôi là “Chênh lệch giá của chúng tôi”. Chênh lệch của chúng tôi được đặt theo quyết định tuyệt đối của chúng tôi, vì chúng tôi đóng vai trò là nhà tạo lập thị trường và mọi thay đổi đều có hiệu lực ngay lập tức.",
+        "2": "Thông tin liên quan đến Chênh lệch, đòn bẩy, phí tái đầu tư và giờ giao dịch cho từng thị trường của chúng tôi được nêu trong các trang Điều kiện giao dịch CFD và Điều kiện giao dịch FX trên trang web của RosyFX."
+      },
+      "heading_6": "Thanh toán tiền mặt",
+      "description_6": "Khách hàng hiểu rằng Hợp đồng CFD và FX chỉ có thể được thanh toán bằng tiền mặt và chênh lệch giữa giá mua và giá bán quyết định phần nào kết quả đầu tư.",
+
+      "heading_7": "Xung đột lợi ích",
+      "description_7": "RosyFX là đối tác của tất cả các Giao dịch được ký kết theo Thỏa thuận khách hàng và do đó, lợi ích của RosyFX có thể xung đột với lợi ích của bạn. Chính sách Xung đột Lợi ích của chúng tôi có sẵn trên trang web của RosyFX.",
+
+      "heading_8": "Giao dịch OTC",
+      "description_8": "Khi giao dịch Hợp đồng CFD hoặc FX với chúng tôi, các giao dịch đó sẽ không được thực hiện trên một sàn giao dịch đầu tư được công nhận hoặc chỉ định và được gọi là giao dịch OTC. Tất cả các vị trí được nhập với chúng tôi phải được đóng với chúng tôi và không thể đóng với bất kỳ thực thể nào khác. Các giao dịch OTC có thể có rủi ro lớn hơn so với đầu tư vào các hợp đồng hối đoái vì không có thị trường hối đoái để đóng một vị trí mở. Có thể không thể thanh lý một vị trí hiện có, để đánh giá giá trị của vị trí phát sinh từ một giao dịch OTC hoặc để đánh giá mức độ rủi ro. Giá mua và giá bán có thể không được chúng tôi báo giá, dựa trên các chính sách khớp lệnh tốt nhất được áp dụng trên thị trường. Không có thanh toán bù trừ trung tâm và không có bảo đảm bởi bất kỳ bên nào khác về nghĩa vụ thanh toán của RosyFX đối với Khách hàng, do đó, Khách hàng gặp rủi ro tín dụng với RosyFX. Khách hàng chỉ được trông đợi vào RosyFXs để thực hiện tất cả các hợp đồng trong tài khoản của Khách hàng và để nhận lại bất kỳ khoản tiền ký quỹ hoặc tài sản thế chấp nào.",
+
+      "heading_9": "Giá, ký quỹ và định giá được đặt bởi RosyFX và có thể khác với giá được báo cáo ở những nơi khác",
+      "description_9": {
+        "1": "RosyFX sẽ cung cấp giá được sử dụng trong giao dịch, định giá vị thế của Khách hàng và xác định các yêu cầu Ký quỹ theo Chính sách và Quy trình Giao dịch cũng như Bảng Thông tin Thị trường. Hiệu suất của Hợp đồng CFD hoặc FX của bạn sẽ phụ thuộc vào giá do RosyFX đặt ra và biến động thị trường của tài sản cơ bản mà hợp đồng của bạn liên quan. Do đó, mỗi tài sản cơ bản đều mang những rủi ro cụ thể ảnh hưởng đến kết quả của CFD có liên quan.",
+        "2": "Giá của chúng tôi cho một thị trường nhất định được tính bằng cách tham chiếu đến giá của tài sản cơ bản có liên quan mà chúng tôi có được từ các nguồn tham khảo hoặc trao đổi bên ngoài của bên thứ ba. Đối với Hợp đồng CFD và FX của chúng tôi,",
+        "3": "chúng tôi thu thập dữ liệu về giá từ những người tham gia thị trường bán buôn. Mặc dù RosyFX hy vọng rằng những mức giá này sẽ tương ứng một cách hợp lý với giá có sẵn trên thị trường, nhưng giá của RosyFX có thể khác với giá có sẵn cho các ngân hàng và những người tham gia thị trường khác. RosyFX có toàn quyền quyết định trong việc thiết lập và thu tiền ký quỹ. RosyFX được phép chuyển đổi tiền trong tài khoản của Khách hàng để ký quỹ thành và từ loại ngoại tệ đó theo tỷ giá hối đoái do RosyFX toàn quyền quyết định trên cơ sở tỷ giá thị trường tiền tệ hiện hành vào thời điểm đó."
+      },
+      "heading_10": "Quyền đối với tài sản cơ sở",
+      "description_10": "Bạn không có quyền hoặc nghĩa vụ đối với các công cụ hoặc tài sản cơ bản liên quan đến Hợp đồng CFD hoặc FX của bạn. Khách hàng hiểu rằng CFD có thể có các tài sản cơ bản khác nhau, chẳng hạn như cổ phiếu, chỉ số, tiền tệ và hàng hóa, như được chỉ định trong các trang Điều kiện giao dịch CFD và Điều kiện giao dịch ngoại hối trên trang web của RosyFX.",
+
+      "heading_11": "Rủi ro tiền tệ",
+      "description_11": "Đầu tư vào Hợp đồng ngoại hối và CFD với một tài sản cơ sở được liệt kê bằng loại tiền tệ khác với loại tiền tệ cơ sở của bạn sẽ dẫn đến rủi ro tiền tệ, do thực tế là khi Hợp đồng CFD hoặc FX được thanh toán bằng loại tiền tệ khác với loại tiền tệ cơ sở của bạn, giá trị của lợi nhuận có thể bị ảnh hưởng bởi việc chuyển đổi nó thành tiền tệ cơ sở.",
+
+      "heading_12": "Giao dịch bằng một cú nhấp chuột và khớp lệnh ngay lập tức",
+      "description_12": "Hệ thống Giao dịch Trực tuyến của RosyFX cung cấp khả năng truyền lệnh ngay lập tức của Khách hàng sau khi Khách hàng nhập số tiền danh nghĩa và nhấp vào “Mua/Bán”. Điều này có nghĩa là không có cơ hội xem lại đơn đặt hàng sau khi nhấp vào “Mua/Bán” và Đơn đặt hàng Thị trường không thể bị hủy hoặc sửa đổi. Tính năng này có thể khác với các hệ thống giao dịch khác mà bạn đã sử dụng. Khách hàng nên sử dụng Hệ thống Giao dịch Demo để làm quen với Hệ thống Giao dịch Trực tuyến trước khi thực sự giao dịch trực tuyến với RosyFX. Khách hàng thừa nhận và đồng ý rằng bằng cách sử dụng Hệ thống giao dịch trực tuyến của RosyFX, Khách hàng đồng ý với hệ thống một cú nhấp chuột và chấp nhận rủi ro của tính năng truyền/thực hiện ngay lập tức này.",
+
+      "heading_13": "Đặt lệnh qua điện thoại và thực hiện ngay lập tức",
+      "description_13": "Lệnh Thị trường được thực hiện qua điện thoại thông qua Bàn giao dịch của RosyFX được hoàn thành khi nhà điều hành điện thoại của RosyFX nói “thỏa thuận” hoặc “hoàn thành” sau khi Khách hàng đặt lệnh. Sau khi có xác nhận của nhà điều hành điện thoại, Khách hàng đã mua hoặc bán và không thể hủy Lệnh thị trường. Bằng cách đặt Lệnh thị trường thông qua Bàn giao dịch RosyFX, Khách hàng thừa nhận và đồng ý với việc khớp lệnh ngay lập tức như vậy và chấp nhận rủi ro của tính năng khớp lệnh ngay lập tức này.",
+
+      "heading_14": "RosyFX không phải là cố vấn hay người được ủy thác cho khách hàng",
+      "description_14": "Khi RosyFX cung cấp các khuyến nghị chung về thị trường, các khuyến nghị chung đó không cấu thành khuyến nghị cá nhân hoặc lời khuyên đầu tư và chưa xem xét bất kỳ hoàn cảnh cá nhân hoặc mục tiêu đầu tư nào của bạn, cũng không phải là đề nghị mua hoặc bán hoặc chào mời chào hàng cho mua hoặc bán, bất kỳ Hợp đồng ngoại hối hoặc Hợp đồng tiền tệ chéo nào. Mỗi quyết định của Khách hàng khi tham gia Hợp đồng CFD hoặc FX với RosyFX và mỗi quyết định về việc liệu một giao dịch có phù hợp hoặc phù hợp với Khách hàng hay không, là một quyết định độc lập của Khách hàng. RosyFX không đóng vai trò là cố vấn hoặc là người được ủy thác cho Khách hàng. Khách hàng đồng ý rằng RosyFX không có nghĩa vụ ủy thác đối với Khách hàng và không có nghĩa vụ pháp lý liên quan đến và không chịu trách nhiệm đối với bất kỳ trách nhiệm pháp lý, khiếu nại, thiệt hại, chi phí và phí tổn nào, bao gồm cả phí luật sư, phát sinh liên quan đến việc Khách hàng tuân theo các khuyến nghị giao dịch chung của RosyFX hoặc chấp nhận hay không thực hiện bất kỳ hành động nào dựa trên bất kỳ đề xuất hoặc thông tin chung nào do RosyFX cung cấp.",
+
+      "heading_15": "Khuyến nghị không được đảm bảo",
+      "description_15": "Các khuyến nghị thị trường chung do RosyFX cung cấp chỉ dựa trên đánh giá của nhân viên RosyFX và nên được coi là như vậy. Khách hàng thừa nhận rằng Khách hàng tham gia vào bất kỳ Giao dịch nào dựa trên phán quyết của chính Khách hàng. Bất kỳ đề xuất thị trường nào được cung cấp chỉ là chung chung và có thể phù hợp hoặc không nhất quán với các vị thế thị trường hoặc ý định của RosyFX và/hoặc các chi nhánh của nó. Các khuyến nghị thị trường chung của RosyFX dựa trên thông tin được cho là đáng tin cậy, nhưng RosyFX không thể và không đảm bảo tính chính xác hoặc đầy đủ của chúng hoặc tuyên bố rằng việc tuân theo các khuyến nghị chung đó sẽ giảm hoặc loại bỏ rủi ro vốn có trong giao dịch CFD và/hoặc Hợp đồng ngoại hối.",
+
+      "heading_16": "Không đảm bảo lợi nhuận",
+      "description_16": "Không có đảm bảo về lợi nhuận cũng như tránh thua lỗ khi giao dịch Hợp đồng CFD và FX. Khách hàng không nhận được sự đảm bảo nào như vậy từ RosyFX hoặc từ bất kỳ đại diện nào của RosyFX. Khách hàng nhận thức được những rủi ro vốn có trong giao dịch Hợp đồng CFD và FX và có khả năng tài chính để chịu những rủi ro đó cũng như chịu mọi tổn thất phát sinh.",
+
+      "heading_17": "Khách hàng có thể không thể đóng các vị trí mở",
+      "description_17": "Do các điều kiện thị trường có thể gây ra bất kỳ biến động giá thị trường bất thường và nhanh chóng nào hoặc các trường hợp khác, RosyFX có thể không thể đóng vị thế của Khách hàng ở mức giá do Khách hàng chỉ định và các biện pháp kiểm soát rủi ro do RosyFX áp đặt có thể không hoạt động và Khách hàng đồng ý rằng RosyFX sẽ không chịu trách nhiệm cho việc không làm như vậy.",
+
+      "heading_18": "Giao dịch qua Internet",
+      "description_18": "Khi Khách hàng giao dịch trực tuyến (qua internet), RosyFX sẽ không chịu trách nhiệm pháp lý đối với bất kỳ khiếu nại, tổn thất, thiệt hại, chi phí hoặc phí tổn nào gây ra, trực tiếp hoặc gián tiếp, bởi bất kỳ trục trặc, gián đoạn hoặc hỏng hóc nào của bất kỳ đường truyền, hệ thống liên lạc, cơ sở máy tính hoặc phần mềm giao dịch, cho dù thuộc về RosyFX, Khách hàng, bất kỳ sàn giao dịch hay bất kỳ hệ thống thanh toán hoặc thanh toán bù trừ nào.",
+
+      "heading_19": "Đơn đặt hàng qua điện thoại",
+      "description_19": "RosyFX không chịu trách nhiệm về sự gián đoạn, hỏng hóc hoặc trục trặc của các thiết bị điện thoại và không đảm bảo tính khả dụng của điện thoại. Để tránh nghi ngờ, Khách hàng biết rằng có thể không liên lạc được với RosyFX qua điện thoại mọi lúc. Trong những trường hợp như vậy, Khách hàng sẽ đặt hàng thông qua các phương tiện khác do RosyFX cung cấp.",
+
+      "heading_20": "trích dẫn lỗi",
+      "description_20": "Nếu lỗi trích dẫn xảy ra (bao gồm cả phản hồi đối với yêu cầu của Khách hàng), RosyFX không chịu trách nhiệm pháp lý đối với bất kỳ lỗi nào dẫn đến số dư tài khoản và bảo lưu quyền thực hiện các chỉnh sửa hoặc điều chỉnh cần thiết đối với Tài khoản có liên quan. Bất kỳ tranh chấp nào phát sinh từ các lỗi báo giá như vậy sẽ được giải quyết trên cơ sở giá trị thị trường hợp lý, do RosyFX quyết định theo quyết định riêng của mình và hành động một cách thiện chí, của thị trường liên quan tại thời điểm xảy ra lỗi như vậy. Trong trường hợp thị trường phổ biến thể hiện giá khác với giá mà RosyFX đã đăng trên màn hình của chúng tôi, RosyFX sẽ cố gắng, trên cơ sở nỗ lực cao nhất, để thực hiện Giao dịch trên hoặc gần với giá thị trường phổ biến. Giá thị trường phổ biến này sẽ là giá cuối cùng được phản ánh trên báo cáo của Khách hàng. Điều này có thể hoặc không thể ảnh hưởng bất lợi đến các khoản lãi và lỗ đã thực hiện và chưa thực hiện của Khách hàng.",
+
+      "description_21": "TÔI / CHÚNG TÔI ĐÃ ĐỌC, HIỂU VÀ ĐỒNG Ý VỚI TUYÊN BỐ CÔNG BỐ RỦI RO VÀ CÁC CHÍNH SÁCH VÀ THỦ TỤC GIAO DỊCH ĐƯỢC ĐẶT TRÊN"
+    }
+  },
+  "contacts": {
+    "main_heading": "Liên hệ chúng tôi",
+    "description": "CẦN BIẾT THÊM THÔNG TIN?",
+    "heading_1": "Hãy liên hệ",
+    "description_1": "Chúng tôi kiểm tra từng tin nhắn của khách hàng và sẽ cố gắng hỗ trợ nhanh nhất có thể.",
+
+    "heading_2": "Ghé thăm văn phòng của chúng tôi",
+    "description_2": "First Floor, First St Vincent Bank Ltd Building, James Street, Kingstown, St. Vincent and the Grenadines",
+
+    "heading_3": "Email cho chúng tôi",
+    "description_3": "Chúng tôi luôn sẵn sàng hỗ trợ",
+    "mail": "support@comfyfx.com",
+
+    "heading_4": "Let's Talk",
+    "description_4": "We speak 10 languages",
+    "number": "+61 862 302 765"
+  },
+  "partners": {
+    "main_heading": "Partners",
+    "description": "Join one of the most lucrative and profitable partnership programs for IBs and Partners.",
+    "heading": "Become A",
+    "heading_span": "Partner",
+
+    "1": "1",
+    "2": "2",
+    "3": "3",
+
+    "heading_1": "ĐĂNG KÝ",
+    "heading_2": "Refer Clients",
+    "heading_3": "Start Earning",
+
+    "button_label": "MỞ TÀI KHOẢN"
+  },
+  "login": {
+    "main_heading": "Chào mừng đến với RosyFX",
+    "heading_span": "Đăng nhập của khách hàng",
+
+    "description": "Khám phá hàng loạt dịch vụ và công cụ của chúng tôi để giúp bạn đạt được mục tiêu giao dịch của mình.",
+    "email": "Thư điện tử *",
+    "password": "Mật khẩu *",
+
+    "keep_logged_in": "Giữ tôi luôn đăng nhập",
+    "forget_password": "Quên mật khẩu?",
+
+    "button_label": "Đăng nhập",
+
+    "new_user": "Người dùng mới?",
+    "create_an_account": "Tạo một tài khoản"
+  },
+  "faq": {
+    "main_heading": "Câu hỏi thường gặp",
+    "main_heading_1": "Giới thiệu ComfyFX",
+    "button_label_1": "Nạp tiền và rút tiền",
+    "button_label_2": "Thông tin tài khoản",
+    "button_label_3": "Câu hỏi giao dịch",
+
+    "section_2": {
+      "heading_1": "ComfyFX là gì?",
+      "description_1": "ComfyFX là một sàn giao dịch được cấp phép bởi Blue Sun Capital Ltd. ComfyFX là dịch vụ đầu tư chuyên về tiếp nhận và chuyển tiếp, các dịch vụ phụ trợ cấp tín dụng hoặc cho vay cho khách hàng, và dịch vụ ngoại hối liên quan đến việc cung cấp dịch vụ đầu tư.",
+
+      "heading_2": "ComfyFX là dạng môi giới nào?",
+      "description_2": "ComfyFX là Nhà môi giới chuyển tiếp STP. Xử lý trực tiếp (STP) có nghĩa là tất cả thông tin về thị trường được cung cấp bởi các nhà cung cấp tính thanh khoản (ngân hàng hoặc các nhà môi giới khác). Điều này có nghĩa là không có xung đột lợi ích giữa khách hàng và nhà môi giới.ComfyFX chỉ nhận thù lao qua việc cung cấp tiền ký quỹ cho khách hàng cuối, và do đó sẽ không nhận được bất kỳ lợi ích gì từ khả năng thua lỗ của khách hàng.",
+
+      "heading_3": "Công ty ComfyFX có được quản lý không?",
+      "description_3": {
+        "heading": "ComfyFX là một tên miền được điều hành bởi Blue Sun Capital Ltd để cung cấp các dịch vụ đầu tư:",
+        "1": "Tiếp nhận và chuyển tiếp lệnh liên quan đến một hoặc nhiều công cụ tài chính.",
+        "2": "Thực hiện lệnh thay mặt cho khách hàng.",
+
+        "heading_1": {
+          "main_heading": "Dịch vụ phụ trợ:",
+          "1": "Bảo vệ và quản lý các công cụ tài chính cho tài khoản của khách hàng, bao gồm quyền giám hộ và các dịch vụ liên quan như quản lý tiền mặt/tài sản thế chấp.",
+          "2": "Cấp tín dụng hoặc khoản vay cho nhà đầu tư để cho phép thực hiện giao dịch với một hoặc nhiều công cụ tài chính, trong đó công ty cấp tín dụng hoặc khoản vay có liên quan nhiều hơn đến giao dịch.",
+          "3": "Dịch vụ ngoại hối liên quan tới việc cung cấp dịch vụ đầu tư.",
+          "4": "Nghiên cứu đầu tư và phân tích tài chính hoặc các hình thức hỗ trợ chung khác liên quan đến các công cụ tài ",
+
+          "heading_2": "chính sau:",
+          "description_1": " Chứng khoán chuyển nhượng",
+          "description_2": "Công cụ thị trường tiền tệ",
+          "description_3": "Các đơn vị trong các doanh nghiệp đầu tư tập thể",
+          "description_4": "Hợp đồng quyền chọn, hợp đồng tương lai, hợp đồng hoán đổi, hợp đồng kỳ hạn lãi suất và các hợp đồng phái sinh khác liên quan đến chứng khoán, tiền tệ, lãi suất hoặc suất thu nhập, hoặc các công cụ phái sinh khác, chỉ số tài chính hoặc các công cụ tài chính có thể được thanh toán bằng vật chất hoặc tiền mặt.",
+          "description_5": "Hợp đồng quyền chọn, hợp đồng tương lai, hợp đồng hoán đổi, hợp đồng kỳ hạn lãi suất và các hợp đồng phái sinh khác liên quan đến hàng hoá phải được thanh toán bằng tiền mặt hoặc có thể được thanh toán bằng tiền mặt theo lựa chọn của một trong các bên (nếu không thì bởi lý do sự kiện chấm dứt). *",
+          "description_6": "Hợp đồng quyền chọn, hợp đồng tương lai, hợp đồng hoán đổi và các hợp đồng phái sinh khác liên quan đến hàng hoá có thể được thanh toán bằng vật chất với điều kiện là chúng được giao dịch trên thị trường được quản lý và/hoặc một MTF.",
+          "description_7": "Hợp đồng quyền chọn, hợp đồng tương lai, hợp đồng hoán đổi và các hợp đồng phái sinh khác liên quan đến hàng hoá có thể được thanh toán bằng vật chất nếu không được đề cập đến ở mục 6 phần III và không nhằm mục đích thương mại, có đặc điểm của các công cụ tài chính phái sinh khác, cho dù chúng được bù trừ và thanh toán thông qua các trung tâm thanh toán bù trừ được công nhận hay phải chịu gọi ký quỹ định kỳ.",
+          "description_8": "Công cụ phái sinh chênh lệch",
+          "description_9": "Hợp đồng tài chính chênh lệch",
+          "description_10": "Hợp đồng quyền chọn, hợp đồng tương lai, hợp đồng hoán đổi, hợp đồng kỳ hạn lãi suất và bất kỳ hợp đồng phái sinh nào khác liên quan đến các biến số khí hậu, giá cước vận chuyển, hệ số khí thải hoặc tỷ lệ lạm phát hoặc các số liệu thống kê kinh tế chính thức khác phải được thanh toán bằng tiền mặt hoặc có thể thanh toán bằng tiền mặt theo lựa chọn của một trong các bên liên quan (nếu không thì bởi lý do sự kiện chấm dứt), cũng như các hợp đồng phái sinh khác có liên quan đến tài sản, quyền, nghĩa vụ, chỉ số và các công cụ không được đề cập trong Phần này, có đặc điểm của các công cụ tài chính phái sinh khác, cho dù được giao dịch trên thị trường được quản lý hay MTF, được bù trừ và thanh toán thông qua các trung tâm thanh toán bù trừ được công nhận hoặc chịu gọi ký quỹ định kỳ.",
+          "description_11": "* Công cụ tài chính này chỉ được cung cấp cho các dịch vụ ngoại hối khi chúng được kết nối với việc cung cấp dịch vụ đầu tư."
+        }
+      },
+
+      "heading_4": "Giải pháp bảo mật nào được ComfyFX cung cấp khi giao dịch?",
+      "description_4": "ComfyFX hiểu mức độ an toàn thiết yếu của tiền của bạn. Việc tuân thủ nghiêm ngặt các quy định an toàn tài chính đã được triển khai cả trong lẫn ngoài, với các biện pháp bảo vệ được xây dựng trong hệ thống để đảm bảo trải nghiệm giao dịch hiệu quả.",
+
+      "heading_5": "Blue Sun Capital Ltd được thành lập khi nào?",
+      "description_5": "Blue Sun Capital Ltd được thành lập bởi một nhóm các nhà giao dịch chuyên nghiệp, quản lý đầu tư và kỹ sư phần mềm vào năm 2014.",
+
+      "heading_6": "ComfyFX cung cấp những loại tài khoản giao dịch nào?",
+      "description_6": "ComfyFX cung cấp 2 loại tài khoản giao dịch bao gồm Tài khoản Demo và Tài khoản Live.",
+
+      "heading_7": "Tôi mới bắt đầu giao dịch ngoại hối, ComfyFX có phù hợp với tôi không?",
+      "description_7": "Từ người mới đến chuyên gia, ComfyFX phục vụ tất cả nhà giao dịch Forex thuộc mọi cấp độ. Để đảm bảo trải nghiệm giao dịch hiệu quả nhất, chúng tôi cung cấp hỗ trợ 24/5 đa ngôn ngữ. ComfyFX cung cấp các công cụ dễ dàng sử dụng và một nền tảng linh hoạt để đảm bảo tất cả các nhu cầu giao dịch trực tuyến của khách hàng được đáp ứng."
+    },
+    "section_3": {
+      "heading": "Deposits and",
+      "heading_span": "Withdrawals",
+      "button_label": "Deposits and Withdrawals",
+
+      "heading_1": "Có những phương thức thanh toán nào để nạp tiền vào tài khoản?",
+      "description_1": {
+        "main_description": "ComfyFX chấp nhận nhiều tùy chọn thanh toán, chẳng hạn như:",
+        "1": "Thẻ Tín dụng/Ghi nợ (Visa, Master Card)",
+        "2": "Chuyển khoản",
+
+        "3": "Để có danh sách đầy đủ các tùy chọn thanh toán, vui lòng đăng nhập vào tài khoản của bạn và truy cập trang nạp tiền."
+      },
+
+      "heading_2": "Số tiền ký gửi tối thiểu để giao dịch trực tuyến với ComfyFX là bao nhiêu?",
+      "description_2": "Số tiền ký gửi tối thiểu để mở tài khoản với ComfyFX là 100$/100€/100£.",
+
+      "heading_3": "Mất bao lâu tiền nạp sẽ xuất hiện trong tài khoản của tôi?",
+      "description_3": {
+        "main_description": "Thời gian để tiền nạp xuất hiện trong tài khoản của bạn phụ thuộc vào tùy chọn thanh toán được sử dụng:",
+
+        "1": "1. Thẻ tín dụng/thẻ ghi nợ mất khoảng 24 giờ để xử lý (kể từ thời điểm thực hiện)",
+        "2": "2. Tiền gửi chuyển khoản mất khoảng 1 - 2 ngày làm việc để xử lý (kể từ thời điểm thực hiện)"
+      },
+
+      "heading_4": "Làm sao để rút tiền từ tài khoản của tôi?",
+      "description_4": {
+        "description_1": "Để rút tiền, bạn cần đăng nhập vào tài khoản của mình và đặt yêu cầu rút tiền bằng cách làm theo hướng dẫn hoặc điền vào mẫu đơn yêu cầu rút tiền. Bạn cũng có thể scan và gửi đơn yêu cầu tới địa chỉ email: support@comfyfx.com. Để yêu cầu rút tiền của bạn được xử lý một cách nhanh chóng và hiệu quả, vui lòng tham khảo các nguyên tắc sau:",
+        "description_2": "Yêu cầu rút tiền thường được xử lý trong vòng ba ngày làm việc kể từ khi nhận được tất cả các thông tin cần thiết.",
+        "description_3": "Tiền có thể được chuyển trực tiếp vào tài khoản ngân hàng của bạn bằng cách chuyển khoản hoặc trả lại vào thẻ tín dụng. Tuy nhiên, việc rút tiền chỉ có thể được thực hiện bằng chính phương thức bạn đã sử dụng để nạp tiền. Ví dụ: nếu bạn gửi bằng thẻ tín dụng, tiền của bạn chỉ có thể được trả lại cho cùng thẻ tín dụng đó.",
+        "description_4": "Để rút tiền từ tài khoản, bạn phải duy trì các yêu cầu ký quỹ của mình trong trường hợp có các lệnh đang mở. Nếu bạn yêu cầu rút tiền từ tài khoản và chúng tôi không thể xét duyệt nếu không đóng một số lệnh đang mở, chúng tôi sẽ không thể thực hiện yêu cầu cho đến khi bạn đã đóng đủ các lệnh để được phép rút tiền.",
+        "description_5": "Xin lưu ý: Tuân thủ các quy định về phòng chống rửa tiền quốc tế, ComfyFXchỉ được phép chuyển tiền vào tài khoản ngân hàng hoặc thẻ tín dụng mang tên bạn - tên được sử dụng cho khoản tiền nạp ban đầu của bạn. Các bản sao thẻ tín dụng phải được cung cấp khi đăng ký và được chấp thuận bởi bộ phận xét duyệt của ComfyFX."
+      },
+
+      "heading_5": "Khi rút tiền, mất bao lâu để tôi nhận được tiền?",
+      "description_5": {
+        "description_1": "Điều quan trọng là ComfyFX đảm bảo tiền của bạn được trả nhanh chóng và hiệu quả. Chuyển tiền thông thường mất khoảng ba đến sáu ngày hành chính để phê duyệt; tuy nhiên, xin lưu ý rằng có một số yếu tố ảnh hưởng đến tốc độ tài khoản của bạn được tín dụng/ghi nợ. Các yếu tố này liên quan, nhưng không giới hạn ở dịch vụ cụ thể mà bạn sử dụng để chuyển tiền/yêu cầu tiền.",
+        "description_2": "Lệnh chuyển khoản cho yêu cầu rút tiền được phê duyệt sẽ được chuyển đến ngân hàng của chúng tôi trong cùng ngày được chấp thuận và thường được gửi từ ngân hàng của chúng tôi trong cùng ngày. Chuyển khoản thường được thực hiện giữa một số ngân hàng ở một số quốc gia và việc này có thể mất nhiều thời gian hơn vì các tổ chức tài chính nước ngoài thường yêu cầu một vài ngày làm việc để chuyển tiền trên toàn thế giới. Sau khi được xử lý, đối với mọi giao dịch rút tiền qua chuyển khoản ngân hàng hoặc thẻ tín dụng, vui lòng cho phép tối đa 7 ngày làm việc để tiền đến tài khoản ngân hàng của bạn. Xin lưu ý:",
+        "1": " Tuân thủ các quy định chống rửa tiền quốc tế. ",
+
+        "2": " ComfyFX chỉ cho phép tiền được chuyển vào tài khoản ngân hàng hoặc thẻ tín dụng mang tên bạn được sử dụng cho khoản tiền gửi ban đầu của bạn. ",
+        "3": " Các bản sao thẻ tín dụng phải được cung cấp khi đăng ký và được phê duyệt bởi bộ phận tuân thủ của ComfyFX. "
+      },
+      "heading_6": "Tôi có thể liên hệ với ai về tài khoản của mình để rút tiền?",
+      "description_6": {
+        "1": "Người Quản Lý Tài Khoản của bạn sẵn sàng hỗ trợ với bất kỳ câu hỏi nào. Để nhận được phản hồi nhanh, bạn có thể liên hệ với Người Quản Lý Tài Khoản của mình qua email hoặc điện thoại.",
+        "2": "Nếu Người Quản Lý Tài Khoản của bạn không khả dụng, đội ngũ hỗ trợ của chúng tôi sẽ có mặt để trả lời tất cả các câu hỏi. Luôn có một nhân viên túc trực để hỗ trợ tất cả các yêu cầu của bạn. Hãy liên hệ với chúng tôi bất cứ lúc nào qua email support@comfyfx.com"
+      }
+    },
+    "section_4": {
+      "heading": "Làm sao để mở tài khoản?",
+      "description": "Mở tài khoản với ComfyFX thật dễ dàng. Chỉ cần nhấn vào liên kết “Mở Tài Khoản Giao Dịch” và điền thông tin theo yêu cầu. Khi tài khoản đã được tạo thành công, bạn cần gửi giấy tờ xác minh để hoàn tất quá trình đăng ký. Những hồ sơ này có thể được gửi qua fax, chụp hình hoặc gửi qua email. Ngay sau khi hồ sơ được xác minh, bạn có thể nạp tiền vào tài khoản của mình và bắt đầu giao dịch.",
+
+      "heading_1": "Những giấy tờ gì được yêu cầu để mở tài khoản với ComfyFX?",
+      "description_1": {
+        "1": "Các giấy tờ sau đây được yêu cầu để mở tài khoản:",
+
+        "2": "1. Giấy tờ nhận dạng như hộ chiếu, bằng lái xe hoặc căn cước công dân",
+        "3": "2. Giấy tờ chứng minh cư trú như hóa đơn dịch vụ hoặc sao kê ngân hàng (Phải không quá 6 tháng)"
+      },
+
+      "heading_2": "Tôi đã đăng ký nhưng không thể đăng nhập vào tài khoản của mình, tôi phải làm sao?",
+      "description_2": "Vui lòng liên hệ với đội ngũ hỗ trợ của ComfyFX qua chức năng nhắn tin trực tiếp hoặc gửi email về địa chỉ: support@comfyfx.com",
+
+      "heading_3": "Công ty của tôi có thể mở tài khoản với ComfyFX không?",
+      "description_3": "ComfyFX chỉ chấp nhận tài khoản công ty sau khi thực hiện một quy trình xét duyệt nghiêm ngặt. Nếu bạn quan tâm đến việc đăng ký, vui lòng liên hệ với chúng tôi qua email support@comfyfx.com để biết thêm thông tin.",
+
+      "heading_4": "Tôi có thể mở một tài khoản liên kết không?",
+      "description_4": "Có. Để biết thêm thông tin, vui lòng liên hệ với chúng tôi qua email support@comfyfx.com",
+
+      "heading_5": "Làm sao để thay đổi thông tin chi tiết tài khoản của tôi?",
+      "description_5": "Để thay đổi chi tiết tài khoản của bạn, vui lòng liên hệ với Người Quản lý Quan Hệ Khách Hàng hoặc thành viên nhóm hỗ trợ của chúng tôi. Bạn có thể gửi email cho chúng tôi qua địa chỉ support@comfyfx.com",
+
+      "heading_6": "ComfyFX có tính phí hoa hồng hoặc phí giao dịch không?",
+      "description_6": "ComfyFX KHÔNG tính phí hoa hồng hoặc phí giao dịch cho các giao dịch của bạn. ComfyFX được chia phần cho các dịch vụ cung cấp thông qua spread giá Bán/Mua.",
+
+      "heading_7": "Có phải ComfyFX thực hiện các khoản khấu trừ cho mục đích thuế?",
+      "description_7": "ComfyFX không khấu trừ thuế từ tài khoản của khách hàng. Khách hàng có trách nhiệm thực hiện nghĩa vụ thuế của chính mình theo luật pháp địa phương.",
+
+      "heading_8": "Điều gì xảy ra với các vị thế đang mở của tôi vào cuối mỗi ngày giao dịch?",
+      "description_8": "Tất cả các vị thế mở được tự động gia hạn hoặc hoán đổi sang ngày làm việc tiếp theo. Theo thông lệ, tất cả các giao dịch thực hiện trên thị trường Forex được xử lý trong khoảng thời gian hai ngày làm việc (bắt đầu khi việc giao dịch diễn ra). Để tránh việc thực thi giao dịch, các lệnh được tự động đóng cho ngày giao dịch ban đầu và mở lại cho ngày giao dịch tiếp theo. Để mang lại lợi thế tối đa cho khách hàng, tỷ giá mở và đóng khi gia hạn được giữ như tỷ giá lệnh đang chạy. Một khoản phí sau đó được thêm hoặc trừ vào tài khoản khách hàng dựa trên chênh lệch lãi suất giữa hai loại tiền tệ được giao dịch.",
+
+      "heading_9": "Sẽ có người quản lý các khoản đầu tư của tôi?",
+      "description_9": {
+        "1": "Không. ComfyFX không quản lý tiền của khách hàng của mình, vì điều này có thể tạo ra xung đột lợi ích. Để duy trì 100% công bằng, chúng tôi không quản lý tiền.",
+        "2": "Tuy nhiên, bạn sẽ được chỉ định Người Quản Lý Quan Hệ Khách Hàng để hỗ trợ trong khi bạn quản lý các khoản đầu tư của mình,"
+      },
+      "heading_10": "Yêu cầu ký quỹ của ComfyFX là bao nhiêu?",
+      "description_10": "Khách hàng được hỗ trợ sử dụng đòn bẩy lên tới 500:1 khi giao dịch, tùy thuộc vào loại tài sản và quy mô của giao dịch. Đòn bẩy 500:1 có nghĩa là khách hàng có thể mở một lệnh giao dịch gấp tới 500 lần số lượng tiền nạp của mình. Ví dụ: nếu khách hàng nạp 1,000 đô la, họ có thể mở giao dịch trị giá lên tới 500,000 đô la.",
+
+      "heading_11": "Giao dịch Forex/CFD có rủi ro không?",
+      "description_11": "Điều đáng lưu ý là giao dịch Ngoại tệ & CFD có mức độ rủi ro cao và có thể dẫn đến tổn thất tài chính nghiêm trọng. Giao dịch ngoại tệ & CFD không phù hợp với tất cả mọi người. Đòn bẩy cao và biến động mạnh liên quan đến giao dịch Forex & CFD có nghĩa là các giao dịch có thể dẫn đến thua lỗ nặng cũng như lợi nhuận đáng kể. Chúng tôi khuyên bạn nên giao dịch hết sức thận trọng và cẩn thận. Để được giúp đỡ và hướng dẫn, hãy đảm bảo tận dụng tối đa tất cả các dịch vụ của chúng tôi và nhóm hỗ trợ được đào tạo chuyên sâu. Chúng tôi cũng có một thư viện tài nguyên đào tạo toàn diện có sẵn trên trang web. Để giúp giảm thiểu khả năng thua lỗ, chúng tôi cũng cung cấp các công cụ giao dịch thiết yếu như lệnh cắt lỗ. Tuy nhiên, các công cụ này không loại bỏ yếu tố rủi ro đáng kể liên quan đến giao dịch ngoại hối. Để tìm hiểu thêm về các rủi ro liên quan đến giao dịch Forex & CFD, vui lòng truy cập trang tuyên bố rủi ro.",
+
+      "heading_12": "Tôi có thể giao dịch vào thời gian nào?",
+      "description_12": "Khung giờ giao dịch khác nhau giữa các công cụ tài chính. Để biết thêm thông tin về giờ giao dịch, vui lòng truy cập trang Công Cụ Giao Dịch.",
+
+      "heading_13": "Tại sao tôi phải trả lời bảng câu hỏi?",
+      "description_13": "Nhà môi giới có nghĩa vụ phải tuân theo các quy định của luật pháp, và phải thực hiện thủ tục xác minh tài khoản khách hàng. Chúng tôi phải thu nhận đủ thông tin từ khách hàng để theo dõi mối quan hệ kinh doanh đang diễn ra theo chính sách chống rửa tiền, thông tin này là cần thiết để xác minh."
+    },
+    "section_5": {
+      "heading_1": "Những nền tảng giao dịch nào khả dụng?",
+      "description_1": {
+        "title": "ComfyFX cung cấp 3 nền tảng giao dịch:",
+
+        "1": "MetaTrader 5: tận dụng lợi thế của tính năng giao dịch bằng một cú nhấp chuột, thực thi lệnh tốt nhất, phân tích kỹ thuật tiên tiến và khả năng tự động hóa chưa từng có!",
+        "2": "MT5 WebTrader: một nền tảng web thân thiện với người dùng, đồng bộ hóa tất cả các giao dịch với tài khoản MT5 của bạn.",
+        "3": "Ứng dụng điện Thoại &amp; Máy Tính Bảng: một nền tảng giao dịch được tối ưu hóa cho máy tính bảng và di động được đồng bộ hóa hoàn toàn với tài khoản MT5 của bạn.",
+
+        "description": "Để tìm hiểu thêm về các nền tảng giao dịch, vui lòng truy cập trang Nền tảng giao dịch."
+      },
+
+      "heading_2": "Cấu hình hệ thống đề nghị đế sử dụng nền tảng giao dịch là gì?",
+      "description_2": {
+        "title": "Cấu hình yêu cầu đối với máy tính bàn là:",
+
+        "1": "Vi xử lý: Intel Pentium IV 3.0GHz",
+        "2": "Bộ nhớ: RAM 512 MB hoặc cao hơn",
+        "3": "Màn hình: Độ phân giải tối thiểu 800×600",
+        "4": "Hệ điều hành: Microsoft Windows XP, Windows 2000",
+        "5": "Trình duyệt web: Microsoft Internet Explorer 6.X",
+        "6": "Kết nối Internet: Kết nối internet băng thông rộng với tốc độ tải xuống tối thiểu 1,5 MB Lưu ý: Các hệ thống không đáp ứng những yêu cầu này có thể bị hạn chế chức năng."
+      },
+
+      "heading_3": "Dừng giao dịch/Gọi ký quỹ là gì?",
+      "description_3": {
+        "1": "Gọi ký quỹ ở mức 60% tỉ lệ ký quỹ. Nếu chạm mức gọi ký quỹ, bạn bắt buộc phải đóng một số lệnh đang chạy của mình hoặc gửi thêm tiền để củng cố các vị thế hiện tại.",
+        "2": "Dừng giao dịch ở mức 40% tỷ lệ ký quỹ. Nếu mức ký quỹ giảm xuống 40%, các lệnh của bạn sẽ bắt đầu tự động đóng. Trước tiên luôn là những vị thế với mức lỗ cao nhất."
+      },
+
+      "heading_4": "Trailing stop là gì?",
+      "description_4": {
+        "1": "Trailing Stop là một lệnh cắt lỗ tự động điều chỉnh chính nó khi tỷ giá thị trường di chuyển theo hướng lệnh chạy của bạn. Giá dừng sẽ theo sau giá tăng, cho phép bạn thu được nhiều lợi nhuận hơn trong khi đảm bảo rằng nếu giá giảm đột ngột, bạn vẫn được bảo vệ bởi lệnh Dừng lỗ tự động.",
+        "2": "Lưu Ý Quan Trọng đối với Nền Tảng MetaTrader 5: Vì Trailing Stop hoạt động ở phía thiết bị đầu cuối của máy khách, không giống như Cắt Lỗ và Chốt Lời hoạt động ở phía máy chủ, nó sẽ không hoạt động nếu thiết bị khách hàng không hoạt động. ",
+        "3": "Nếu thiết bị đầu cuối của khách hàng bị đóng, chỉ có Cắt Lỗ được đặt bởi Trailing Stop trước khi thiết bị đầu cuối bị đóng có thể kích hoạt."
+      },
+
+      "heading_5": "Forex là gì?",
+      "description_5": "Thị Trường Ngoại Hối (Forex hoặc FX) là thị trường tài chính lớn nhất và thanh khoản nhất trên thế giới, với khối lượng doanh thu hàng ngày khoảng 4 nghìn tỷ đô la Mỹ. Giao dịch ngoại hối là giao dịch mua và bán của một quốc gia đối với một quốc gia khác. Để tìm hiểu thêm về thị trường Forex, vui lòng tham khảo trang ngoại hối Forex.",
+
+      "heading_6": "Spread là gì?",
+      "description_6": "Spread là khác biết giữa giá đặt (giá bán) và giá chào bán (giá mua). Ví dụ: Nếu báo giá cho cặp EUR/USD là 1.2910 so với 1.2913 thì mức chênh lệch là 3 pip.",
+
+      "heading_7": "Pip là gì?",
+      "description_7": "Pip là từ viết tắt của Price Interest Point. Điều này thể hiện giá trị đo lường nhỏ nhất đối với các loại tiền Forex.",
+
+      "heading_8": "Lệnh Cắt Lỗ hoạt động như thế nào?",
+      "description_8": {
+        "1": "Lệnh cắt lỗ được sử dụng để giảm rủi ro bằng cách đóng giao dịch thua lỗ khi thị trường vượt qua giá trị kích hoạt được xác định trước bởi nhà giao dịch. ComfyFX sẽ cố gắng hết sức để thực hiện giao dịch của bạn với mức giá yêu cầu. ",
+        "2": "Tuy nhiên, vì lệnh sẽ đóng giao dịch của bạn ở mức giá khả dụng tốt nhất sau khi được kích hoạt, lệnh cắt lỗ đối mặt với nguy cơ khoảng trống giá. Điều này có nghĩa là ComfyFX không thể đảm bảo mức dừng lỗ."
+      },
+
+      "heading_9": "Khi nào thị trường Forex mở cửa giao dịch?",
+      "description_9": "Thị trường Forex mở cửa giao dịch 24 giờ một ngày, năm ngày một tuần. Sàn mở cửa vào tối Chủ Nhật lúc 22:00 GMT khi thị trường châu Á mở cửa và kết thúc vào tối thứ Sáu khi thị trường New York đóng cửa.",
+
+      "heading_10": "Rollover là gì?",
+      "description_10": {
+        "1": "Rollover là khi tiền lãi được trả hoặc khấu trừ từ các lệnh chạy. Tiền tệ giao dịch luôn liên quan đến hai loại tiền tệ khác nhau với lãi suất riêng. Khi bạn mua một loại tiền tệ có lãi suất cao hơn loại tiền bán ra, bạn sẽ được trả lãi.",
+        "2": "Tuy nhiên, khi bạn mua một loại tiền tệ có lãi suất thấp hơn loại tiền bán ra, bạn sẽ trả lãi và tiền sẽ được khấu trừ từ tài khoản của bạn. Rollover chỉ áp dụng cho giao dịch qua đêm."
+      }
+    }
+  },
+  "register": {
+    "main_heading": "Tạo tài khoản",
+    "heading_span": "Bắt đầu giao dịch ngoại hối, kim loại và CFD",
+
+    "live": "Tài khoản trực tiếp",
+    "demo": "Tài khoản Demo",
+
+    "note": "* Các mục đã chọn là bắt buộc",
+
+    "first_name": "Họ *",
+    "last_name": "tên họ *",
+
+    "username": "Tên người dùng/Email *",
+    "form_control": "điều khiển biểu mẫu",
+
+    "phone": "Số điện thoại *",
+    "referal": "Giấy giới thiệu (Nếu có)",
+
+    "income": "Tổng thu nhập hàng năm ước tính",
+    "address_1": "địa chỉ 1 *",
+    "address_2": "Địa chỉ 2",
+
+    "country": "Quốc gia *",
+    "zip_code": "Mã Bưu Chính *",
+
+    "register_as_company": "Đăng ký làm công ty?",
+    "date_birth": "Ngày sinh *",
+
+    "account_type": "Kiểu tài khoản *",
+    "currency": "Tiền tệ *",
+
+    "leverage": "Tận dụng",
+
+    "password": "Mật khẩu",
+
+    "placeholder_password": "Mật khẩu",
+
+    "1": "Mật khẩu khu vực của thành viên. Để trống để tự động tạo'",
+    "2": "Chọn tham gia nhận bản tin?",
+
+    "declare": "Tôi tuyên bố rằng tôi đã đọc kỹ và hiểu đầy đủ",
+    "privacy_policy": "Chính sách bảo mật",
+    "risk": "Tuyên bố rủi ro",
+    "terms_conditions": "Các điều khoản và điều kiện",
+    "agree": "mà tôi hoàn toàn đồng ý.",
+
+    "button_label": "ĐĂNG KÝ"
+  },
+  "glossary": {
+    "main_heading": "Bảng chú giải",
+
+    "heading": "Làm quen với các",
+    "heading_span": "điều khoản giao dịch",
+    "description": "Sử dụng bộ sưu tập định nghĩa giao dịch rộng lớn này để hiểu thị trường tài chính.",
+    "load_more": "TẢI THÊM",
+
+    "terms": {
+      "term_1": {
+        "name": "ADI",
+        "text": "ADI đại diện cho chỉ số xu hướng trung bình. Chỉ số này được sử dụng như thước đo kĩ thuật về xu hướng mạnh hay yếu trên thị trường tài chính."
+      },
+      "term_2": {
+        "name": "Giao Dịch Ẩn Danh",
+        "text": "Nhà giao dịch có thể chọn không tiết lộ danh tính khi thực hiện đặt lệnh hay đặt giá trên thị trường thương mại."
+      },
+      "term_3": {
+        "name": "Sự Tăng Giá Trị",
+        "text": "Sự gia tăng giá trị tiền tệ của bất kỳ công cụ tài chính nào để đáp ứng với thị trường."
+      },
+      "term_4": {
+        "name": "Kiếm Lời Chênh Lệch Giá",
+        "text": "Việc mua và bán đồng thời một tài sản để tăng lợi nhuận với rủi ro tối thiểu."
+      },
+      "term_5": {
+        "name": "Chào Bán",
+        "text": "Giá thấp nhất người bán sẵn sàng bán tài sản tài chính, còn được gọi là chào giá."
+      },
+      "term_6": {
+        "name": "Tài Sản",
+        "text": "Công cụ mà một hợp đồng dựa trên. Đây có thể là một cổ phiếu, trái phiếu, hoặc hàng hóa."
+      },
+      "term_7": {
+        "name": "Chiến Lược Tài Sản",
+        "text": "Một chiến lược đầu tư nhằm mục đích cân bằng rủi ro và lấy lợi nhuận bằng cách phân phối tài sản của danh mục đầu tư theo mục tiêu của nhà giao dịch và khả năng chịu rủi ro."
+      },
+      "term_8": {
+        "name": "Đúng Giá",
+        "text": "Thuật ngữ này đề cập đến _x005F giao dịch hoàn vốn , có nghĩa là nó không lợi nhuận hay thua lỗ."
+      },
+      "term_9": {
+        "name": "Người Uỷ Thác",
+        "text": "Một cá nhân được phép thực hiện giao dịch trên thị trường tài chính thay mặt cho nhà giao dịch."
+      },
+      "term_10": {
+        "name": "Đại Lý Uỷ Quyền",
+        "text": "Đơn vị được xác nhận tham gia vào các giao dịch ngoại tệ."
+      },
+      "term_11": {
+        "name": "Lệch Thị Trường",
+        "text": "Sự diễn đạt khi giá mua hay bán lệch khỏi giá thị trường tài sản."
+      },
+      "term_12": {
+        "name": "Các Đồng Tiền Ảo (Altcoin)",
+        "text": "Thuật ngữ này đề cập đến tiền điện tử của thị trường thấp. Nó có nguồn gốc như là một thuật ngữ để mô tả tất cả các tiền điện tử 'các đồng tiền ảo chọn lựa' khác với bitcoin."
+      },
+      "term_13": {
+        "name": "Cặp Tiền Úc (Aussie)",
+        "text": "Một thuật ngữ cho cặp tiền tệ AUD/USD."
+      },
+      "term_14": {
+        "name": "Balance of Payments (BOP)",
+        "text": "A record that tracks a country's transactions over a particular period of time."
+      },
+      "term_15": {
+        "name": "Cán Cân Thanh Toán",
+        "text": "Bản ghi theo dõi giao dịch thương mại của một quốc gia trong một khoảng thời gian cụ thể."
+      },
+      "term_16": {
+        "name": "Cán Cân Thương Mại",
+        "text": "Sự khác biệt về giá trị giữa nhập khẩu và xuất khẩu của một quốc gia trong một khoảng thời gian cụ thể."
+      },
+      "term_17": {
+        "name": "Lãi Suất Ngân Hàng",
+        "text": "Lãi suất mà ngân hàng trung ương của một quốc gia cho vay đối với các ngân hàng thương mại trong nước."
+      },
+      "term_18": {
+        "name": "Biểu Đồ Cột",
+        "text": "Một sơ đồ chung được sử dụng để nghiên cứu động thái giá của các cặp tiền tệ."
+      },
+      "term_19": {
+        "name": "Tiền Tệ Gốc",
+        "text": "Một thuật ngữ được sử dụng trong giao dịch Ngoại Hối. Khi trích dẫn các cặp tiền tệ, nó là loại tiền tệ đầu tiên mà bạn giao dịch giữa tiền tệ thứ cấp/báo giá. Ví dụ: EUR/USD - Euro là tiền tệ cơ bản và Đô la Mỹ là đơn vị tiền tệ báo giá."
+      },
+      "term_20": {
+        "name": "Nhà Giao Dịch Bear",
+        "text": "Một nhà đầu tư tin rằng giá của một tài sản cụ thể sẽ giảm và cố gắng thu lợi từ sự sụt giảm giá cổ phiếu."
+      },
+      "term_21": {
+        "name": "Thị Trường Bear",
+        "text": "Thị trường tài chính trong đó giá tài sản đang giảm, khuyến khích bán."
+      },
+      "term_22": {
+        "name": "Trả Giá (Bid)",
+        "text": "Giá bán của một tài sản tài chính cụ thể."
+      },
+      "term_23": {
+        "name": "Chỉ Số Lớn",
+        "text": "Hai hoặc ba chữ số đầu tiên của tỷ giá hoặc giá ngoại tệ."
+      },
+      "term_24": {
+        "name": "Cổ Phiếu Blue Chip",
+        "text": "Cổ phần của các công ty được thành lập tốt, được coi là một khoản đầu tư đáng tin cậy."
+      },
+      "term_25": {
+        "name": "Hoà Vốn",
+        "text": "Đây là thực hiện giao dịch không có lợi nhuận hoặc thua lỗ khi thực hiện một giao dịch."
+      },
+      "term_26": {
+        "name": "Hiệp Định Bretton Woods",
+        "text": "Một thỏa thuận cho một hệ thống tiền tệ quốc tế. Thỏa thuận này đã được ký kết vào năm 1944 tại Hoa Kỳ."
+      },
+      "term_27": {
+        "name": "Nhà Môi Giới",
+        "text": "Một người mua và bán tài sản tài chính với tư cách là một trung gian giữa các thương nhân bán lẻ và các tập đoàn tài chính đã thành lập."
+      },
+      "term_28": {
+        "name": "Nhà Giao Dịch Bull",
+        "text": "Một nhà đầu tư tin rằng giá của một tài sản cụ thể tăng mạnh và cố gắng kiếm lời từ việc tăng giá cổ phiếu."
+      },
+      "term_29": {
+        "name": "Thị Trường Bull",
+        "text": "Thị trường tài chính trong đó giá tài sản đang tăng, khuyến khích mua."
+      },
+      "term_30": {
+        "name": "Khối Block",
+        "text": "Một tập hợp dữ liệu xác định các giao dịch cùng diễn ra trong một khoảng thời gian cụ thể. Sau khi được xuất bản, các khối block không thể thay đổi và do đó được liên kết với các khối khác để tạo chuỗi dữ liệu."
+      },
+      "term_31": {
+        "name": "Blockchain",
+        "text": "Một hồ sơ của các giao dịch thực hiện bằng tiền điện tử được ghi lại theo thứ tự thời gian."
+      },
+      "term_32": {
+        "name": "Bảng",
+        "text": "Một thuật ngữ cho tiền tệ của Vương quốc Anh, viết tắt của Đồng Bảng Anh."
+      },
+      "term_33": {
+        "name": "Lệnh Mua Giới Hạn",
+        "text": "Lệnh mua đảm bảo bằng hoặc thấp hơn giá đã chỉ định."
+      },
+      "term_34": {
+        "name": "CCI",
+        "text": "CCI là viết tắt của chỉ số kênh hàng hóa Commodity Channel Index. Đây là một công cụ kĩ thuật giao dịch thường được sử dụng để đo lường khi một công cụ tài chính đã bị mua quá mức hoặc bán quá mức."
+      },
+      "term_35": {
+        "name": "CFD",
+        "text": "CFD là viết tắt của Contract for Difference. Đây là một hợp đồng giữa một nhà đầu tư và một tổ chức đầu tư. Vào cuối hợp đồng, các bên liên quan đến việc trao đổi chênh lệch tiền tệ giữa giá mở cửa và giá đóng cửa của công cụ tài chính liên quan trong hợp đồng."
+      },
+      "term_36": {
+        "name": "Hoa Hồng",
+        "text": "Một khoản phí trả cho công ty môi giới thực hiện một giao dịch."
+      },
+      "term_37": {
+        "name": "Hàng Hoá",
+        "text": "Thuật ngữ đề cập đến nguyên liệu thô bao gồm kim loại quý, dầu và cà phê."
+      },
+      "term_38": {
+        "name": "Các Cặp Hàng Hoá",
+        "text": "Các cặp ngoại hối có tương quan chặt chẽ với biến động hàng hóa trên thị trường tài chính toàn cầu. Ba cặp này là USD/CAD, AUD/USD và NZD/USD."
+      },
+      "term_39": {
+        "name": "Đồng Tiền Đối Ứng Counter Currency",
+        "text": "Một thuật ngữ được sử dụng trong giao dịch Ngoại hối. Khi trích dẫn các cặp tiền tệ, nó là loại tiền tệ thứ hai mà bạn so sánh với đồng tiền cơ bản."
+      },
+      "term_40": {
+        "name": "CPI",
+        "text": "CPI là chỉ số giá tiêu dùng Consumer Price Index. Một phép đo thống kê kiểm tra những thay đổi trong sức mua của một đồng tiền và tỷ lệ lạm phát."
+      },
+      "term_41": {
+        "name": "Giao Dịch Tiền Tệ Chéo",
+        "text": "Một giao dịch liên quan đến hai hoặc nhiều loại tiền tệ được giao dịch cùng một lúc."
+      },
+      "term_42": {
+        "name": "Tiền Tệ",
+        "text": "Một tài sản tài chính có thể được giao dịch, thường theo cặp."
+      },
+      "term_43": {
+        "name": "Giao Dịch Tiền Tệ",
+        "text": "Việc trao đổi một loại tiền tệ với một đồng tiền khác."
+      },
+      "term_44": {
+        "name": "Tập Trung Hoá",
+        "text": "Bất kỳ hệ thống nào được kiểm soát bởi các bên đáng tin cậy, chẳng hạn như các ngân hàng hoặc phát hành tiền. Tất cả các tài sản tài chính khác với tiền điện tử đều có thị trường tập trung."
+      },
+      "term_45": {
+        "name": "Cáp Cable",
+        "text": "Một thuật ngữ trong giao dịch ngoại hối cho cặp tiền tệ GBP/USD (Bảng Anh và Đô la Mỹ)"
+      },
+      "term_46": {
+        "name": "Tương Quan",
+        "text": "Một thuật ngữ thống kê để thiết lập mối quan hệ giữa hai hoặc nhiều tài sản độc lập."
+      },
+      "term_47": {
+        "name": "Ngày Giao Dịch",
+        "text": "Đây là khi các lệnh trên thị trường được mở và đóng cửa trong cùng một ngày, thay vì giữ qua đêm."
+      },
+      "term_48": {
+        "name": "Phân Cấp",
+        "text": "Tiền điện tử đã cho phép phân cấp thị trường. Không giống như tất cả các tài sản tài chính khác, tiền điện tử không cần phải được giao dịch bởi một bên đáng tin cậy."
+      },
+      "term_49": {
+        "name": "Thâm Hụt",
+        "text": "Điều này xảy ra khi các khoản nợ (lỗ) vượt quá tài sản (lợi nhuận)."
+      },
+      "term_50": {
+        "name": "Nhà Giao Dịch Demo",
+        "text": "Một tài khoản sử dụng tiền ảo, cho phép một nhà đầu tư tiềm năng thích nghi với giao dịch trên thị trường trước khi đầu tư tiền thật."
+      },
+      "term_51": {
+        "name": "Khấu Hao",
+        "text": "Việc giảm giá trị tiền tệ của bất kỳ công cụ tài chính nào để đáp ứng với thị trường."
+      },
+      "term_52": {
+        "name": "Phái Sinh",
+        "text": "Hợp đồng tài chính có giá trị phát sinh từ tài sản _x005F ước tính."
+      },
+      "term_53": {
+        "name": "Cổ Tức",
+        "text": "Một phần lợi nhuận của công ty được trả cho các cổ đông theo lịch thường xuyên."
+      },
+      "term_54": {
+        "name": "DAX",
+        "text": "Chỉ số chứng khoán hàng đầu của Đức được gọi là Deutsche Aktien Exchange, hoặc DAX."
+      },
+      "term_55": {
+        "name": "Bàn Giao Dịch",
+        "text": "Đây là nơi một đại lý thực hiện các giao dịch."
+      },
+      "term_56": {
+        "name": "Độ Sâu Thị Trường",
+        "text": "Khối lượng lệnh mua và bán mở cho một cặp tiền tệ cụ thể tại một thời điểm cụ thể."
+      },
+      "term_57": {
+        "name": "Thu nhập trên mỗi cổ phiếu (EPS)",
+        "text": "Phần lợi nhuận của công ty được phân bổ cho mỗi cổ phần của cổ phiếu phổ thông."
+      },
+      "term_58": {
+        "name": "Nhà Môi Giới ECN",
+        "text": "ECN là viết tắt của mạng truyền thông điện tử Electronic Communication Networks. Nhà môi giới ECN là một chuyên gia tài chính sử dụng ECN để cho phép khách hàng truy cập trực tiếp vào các thị trường."
+      },
+      "term_59": {
+        "name": "Chuyên Gia Tư Vấn",
+        "text": "Một robot giao dịch tự động trong nền tảng giao dịch cho phép các quy trình phân tích và giao dịch được thực hiện với kiểm soát thủ công hạn chế."
+      },
+      "term_60": {
+        "name": "Thời Gian Hết Hạn",
+        "text": "Ngày và giờ mà giao dịch liên quan đến công cụ tài chính hết hạn."
+      },
+      "term_61": {
+        "name": "Ngân Hàng Trung Ương Châu Âu (ECB)",
+        "text": "Ngân Hàng Trung Ương Châu Âu chịu trách nhiệm về chính sách tiền tệ của các quốc gia đã sử dụng đồng Euro làm tiền tệ."
+      },
+      "term_62": {
+        "name": "Ngoại Lai",
+        "text": "Đồng tiền ngoại lai là những loại tiền được giao dịch ít hơn so với các loại tiền tệ chính."
+      },
+      "term_63": {
+        "name": "Dữ Trữ Liên Bang",
+        "text": "Ngân hàng trung ương của Hoa Kỳ, chịu trách nhiệm giám sát hệ thống tài chính của đất nước. Đây là sự tổ chức tài chính hàng đầu trên thế giới."
+      },
+      "term_64": {
+        "name": "Kĩ Thuật Fibonacci",
+        "text": "Một công cụ kỹ thuật phổ biến được các nhà phân tích sử dụng để xác định các mức hỗ trợ và kháng cự tiềm năng dựa trên các số chính."
+      },
+      "term_65": {
+        "name": "Lệnh Fill",
+        "text": "Hành động thực hiện một giao dịch trên một nền tảng giao dịch."
+      },
+      "term_66": {
+        "name": "Công Cụ Tài Chính",
+        "text": "Các tài sản được sử dụng trong một giao dịch. Đây có thể là một cổ phiếu, trái phiếu hoặc hàng hóa."
+      },
+      "term_67": {
+        "name": "Trì Trệ",
+        "text": "Điều này mô tả một tình huống khi một nhà giao dịch không có bất kỳ lệnh nào đang chạy trên thị trường."
+      },
+      "term_68": {
+        "name": "Ngoại Hối",
+        "text": "Một thuật ngữ trao đổi ngoại hối."
+      },
+      "term_69": {
+        "name": "Phân Tích Cơ Bản",
+        "text": "Một phương pháp phân tích thị trường được sử dụng để đánh giá các yếu tố kinh tế, tài chính và các yếu tố định tính và định lượng khác có ảnh hưởng đến hiệu suất của một công cụ tài chính cụ thể."
+      },
+      "term_70": {
+        "name": "Fiat",
+        "text": "Đây là thuật ngữ được sử dụng để mô tả các loại tiền tệ truyền thống trái ngược với tiền điện tử."
+      },
+      "term_71": {
+        "name": "FUD",
+        "text": "FUD là từ viết tắt của từ sợ hãi Fear, không chắc chắn uncertainty và nghi ngờ doubt. Nó thường được sử dụng bởi các nhà giao dịch để tham khảo thái độ tiêu cực xung quanh tiền điện tử."
+      },
+      "term_72": {
+        "name": "Gap",
+        "text": "Chênh lệch giá trị giữa giá đóng cửa của một kỳ giao dịch và giá mở của kỳ giao dịch sau."
+      },
+      "term_73": {
+        "name": "GDP",
+        "text": "GDP là viết tắt của Tổng Sản Phẩm Quốc Nội Gross Domestic Product. Nó xác định tổng giá trị dịch vụ của một quốc gia và hàng hóa được sản xuất trong một khoảng thời gian cụ thể và được sử dụng để đánh giá tình trạng kinh tế của một quốc gia."
+      },
+      "term_74": {
+        "name": "GTC",
+        "text": "GTC là viết tắt của Good Till Cancelled. Đây là một lệnh để mua hoặc bán một tài sản tài chính cụ thể ở một mức giá cụ thể, chỉ có hiệu lực cho đến khi một nhà giao dịch chọn hủy nó."
+      },
+      "term_75": {
+        "name": "Phương Pháp Hedging",
+        "text": "Một chiến lược được sử dụng để giảm rủi ro thua lỗ khi giao dịch trên thị trường tài chính."
+      },
+      "term_76": {
+        "name": "Thuật Ngữ In the Money",
+        "text": "Một cụm từ để mô tả một thương nhân tạo ra lợi nhuận."
+      },
+      "term_77": {
+        "name": "Chỉ Số",
+        "text": "Một trọng số trung bình của giá cổ phiếu được chọn trước sử dụng để đo lường một phần của thị trường chứng khoán. Một số chỉ số phổ biến là NASDAQ, Dow Jones và S&P 500."
+      },
+      "term_78": {
+        "name": "Lạm Phát",
+        "text": "Việc tăng giá hàng hóa và dịch vụ của một quốc gia, điều này sẽ làm giảm giá trị mua của đồng tiền quốc gia đó."
+      },
+      "term_79": {
+        "name": "Tỷ Giá Liên Ngân Hàng",
+        "text": "Lãi suất cho các khoản vay mà một ngân hàng sẽ cung cấp cho một ngân hàng khác."
+      },
+      "term_80": {
+        "name": "Ký Quỹ Ban Đầu",
+        "text": "Khoản tiền gửi đầu tiên mà khách hàng nạp, sau đó xác định mức giao dịch tối đa của họ."
+      },
+      "term_81": {
+        "name": "Yêu cầu ký quỹ ban đầu",
+        "text": "Số tiền tối thiểu cho một khoản tiền gửi để được thực hiện lệnh giao dịch."
+      },
+      "term_82": {
+        "name": "Lãi Suất",
+        "text": "Lệ phí trả cho việc vay tiền. Lãi suất dao động khi chúng bị ảnh hưởng bởi Ngân Hàng Trung Ương và lạm phát."
+      },
+      "term_83": {
+        "name": "Môi Giới Được Giới Thiệu",
+        "text": "Một nhà môi giới có mối quan hệ trực tiếp với khách hàng, nhưng ủy thác các giao dịch và giao dịch cho một nhà môi giới khác."
+      },
+      "term_84": {
+        "name": "Yên Nhật",
+        "text": "Đồng Tiền Nhật Bản."
+      },
+      "term_85": {
+        "name": "Jobber",
+        "text": "Một thuật ngữ được sử dụng cho một nhà giao dịch có ý định kiếm lợi nhuận tích lũy bằng cách mở và đóng các lệnh ngắn hạn."
+      },
+      "term_86": {
+        "name": "Lệnh Kill",
+        "text": "Một đơn đặt hàng không thể khớp thị trường sẽ bị hủy hoặc bị giết."
+      },
+      "term_87": {
+        "name": "Kiwi",
+        "text": "Một thuật ngữ cho Đô la New Zealand."
+      },
+      "term_88": {
+        "name": "Chỉ Số Trì Trệ",
+        "text": "Thống kê hiện thị thay đổi sau khi xu hướng trong nền kinh tế đã bắt đầu thay đổi."
+      },
+      "term_89": {
+        "name": "Chỉ Số Dẫn Dắt",
+        "text": "Thống kê giúp dự báo xu hướng hiệu quả kinh tế của một quốc gia."
+      },
+      "term_90": {
+        "name": "Đòn Bẩy",
+        "text": "Một công cụ tài chính cho phép một nhà đầu tư tham gia vào thị trường vượt quá vốn ban đầu của họ."
+      },
+      "term_91": {
+        "name": "Thanh Khoản",
+        "text": "Mức độ mà một tài sản có thể được mua hoặc bán mà không ảnh hưởng đến giá của nó."
+      },
+      "term_92": {
+        "name": "Lênh Mua",
+        "text": "Mở một lệnh mua trên thị trường được gọi là 'đặt lệnh mua'"
+      },
+      "term_93": {
+        "name": "Lệnh Giới Hạn",
+        "text": "Một cách để mua hoặc bán một tài sản một mức giá xác định hoặc tốt hơn."
+      },
+      "term_94": {
+        "name": "Biểu đồ đường",
+        "text": "Một loạt các đường kết nối nhiều mức giá trong một khoảng thời gian cụ thể."
+      },
+      "term_95": {
+        "name": "Lot",
+        "text": "Số lượng đơn vị tiêu chuẩn cần thiết để giao dịch một tài sản tài chính, được xác định để trao đổi."
+      },
+      "term_96": {
+        "name": "Ký Quỹ",
+        "text": "Số lượng tiền gửi cần thiết để đảm bảo các lệnh đang chạy trên thị trường được duy trì hoạt động."
+      },
+      "term_97": {
+        "name": "Tài Khoản Ký Quỹ",
+        "text": "Một tài khoản được cung cấp bởi các nhà môi giới cho phép các nhà đầu tư mua chứng khoán vay vốn."
+      },
+      "term_98": {
+        "name": "Gọi Ký Quỹ",
+        "text": "Yêu cầu được đưa ra bởi một nhà môi giới để nhà giao dịch thực hiện một khoản tiền gửi bổ sung bù đắp những tổn thất có thể xảy ra."
+      },
+      "term_99": {
+        "name": "Nhà Cái",
+        "text": "Một hãng môi giới mua và bán tài sản tài chính tạo tính thanh khoản cho thị trường."
+      },
+      "term_100": {
+        "name": "Giá Thị Trường",
+        "text": "Giá hiện tại của một tài sản tài chính đang được giao dịch trên thị trường."
+      },
+      "term_101": {
+        "name": "Rủi Ro Thị Trường",
+        "text": "Rủi ro tiềm ẩn có thể thua lỗ khi đầu tư vào một tài sản cụ thể."
+      },
+      "term_102": {
+        "name": "Của Tôi Mine và Của Bạn Yours",
+        "text": "Điều khoản được sử dụng để mô tả ý định mua hoặc bán. 'Của tôi' được sử dụng khi mua và 'của bạn' được sử dụng khi bán."
+      },
+      "term_103": {
+        "name": "Thị Trường Tiền Tệ",
+        "text": "Một phân khúc của thị trường tài chính liên quan đến các giao dịch của tài sản tài chính có kỳ hạn nhanh và thanh khoản cao."
+      },
+      "term_104": {
+        "name": "Đường trung bình động hội tụ phân kỳ (MACD)",
+        "text": "Một chỉ số kỹ thuật được sử dụng để xác định xu hướng của thị trường."
+      },
+      "term_105": {
+        "name": "Khai Thác/Đào",
+        "text": "Nhiệm vụ của Khai Thác là giữ an toàn cho các blockchain bằng cách xác nhận các giao dịch và mốc thời gian."
+      },
+      "term_106": {
+        "name": "Đòn Bẩy Tối Đa",
+        "text": "Số lượng đòn bẩy lớn nhất có sẵn theo khoản tiền gửi ban đầu."
+      },
+      "term_107": {
+        "name": "MetaTrader4",
+        "text": "Nền tảng giao dịch tiên tiến được sử dụng để cung cấp dịch vụ môi giới cho các nhà giao dịch với nhiều tài sản tài chính."
+      },
+      "term_108": {
+        "name": "Chính Sách Tiền Tệ",
+        "text": "Chính sách liên quan đến lãi suất và cung ứng tiền được đặt ra bởi ngân hàng trung ương của một quốc gia cụ thể."
+      },
+      "term_109": {
+        "name": "Trung Bình Động",
+        "text": "Một chỉ số kỹ thuật được sử dụng để lọc ra những bất thường để cho phép tập trung vào thống kê trung bình của đường cong ban đầu."
+      },
+      "term_110": {
+        "name": "NASDAQ",
+        "text": "Sàn giao dịch chứng khoán điện tử lớn nhất nước Mỹ."
+      },
+      "term_111": {
+        "name": "NYSE",
+        "text": "Sàn Giao Dịch Chứng Khoán New York."
+      },
+      "term_112": {
+        "name": "Nhiễu Tạp",
+        "text": "Sự bất thường trên thị trường gây khó khăn cho việc tập trung vào thống kê trung bình được sử dụng để đưa ra quyết định giao dịch."
+      },
+      "term_113": {
+        "name": "NFP",
+        "text": "Viết tắt bảng lương phi nông nghiệp Non Farm Payroll. Một báo cáo hàng tháng được thực hiện bởi Bộ Lao Động Hoa Kỳ, được sử dụng để xác định tình trạng của thị trường lao động, ngoại trừ nông dân."
+      },
+      "term_114": {
+        "name": "Lệnh Lời Net",
+        "text": "A trader who bases investment decisions on how global news announcements impact the markets."
+      },
+      "term_115": {
+        "name": "NOK",
+        "text": "Giá trị của một lệnh sau khi trừ khoản đầu tư ban đầu."
+      },
+      "term_116": {
+        "name": "Nhà Giao Dịch Tin Tức",
+        "text": "Một nhà giao dịch ra các quyết định đầu tư dựa trên tin tức toàn cầu tác động đến thị trường."
+      },
+      "term_117": {
+        "name": "NOK",
+        "text": "Biểu tượng tiền tệ cho Krone Na Uy."
+      },
+      "term_118": {
+        "name": "NZD",
+        "text": "Biểu tượng tiền tệ cho Đô la New Zealand."
+      },
+      "term_119": {
+        "name": "Lệnh Mở",
+        "text": "Một lệnh đang chạy trên thị trường cho đến khi nhà giao dịch chọn đóng nó."
+      },
+      "term_120": {
+        "name": "Lệnh",
+        "text": "Một yêu cầu cho một nhà môi giới để thực hiện một giao dịch công cụ tài chính với giá đặt trước."
+      },
+      "term_121": {
+        "name": "Hết Tiền",
+        "text": "Một thuật ngữ được sử dụng để mô tả thua lỗ trong giao dịch."
+      },
+      "term_122": {
+        "name": "Lệnh Qua Đêm",
+        "text": "Một lệnh được giữ cho đến ngày giao dịch tiếp theo."
+      },
+      "term_123": {
+        "name": "Giao Dịch Quá Khả Năng",
+        "text": "Thói quen mạo hiểm khi tham gia vào các giao dịch quá mức mà không có nghiên cứu thích hợp."
+      },
+      "term_124": {
+        "name": "Đặt Giá",
+        "text": "Mức giá được đặt bởi một người bán sẵn sàng bán."
+      },
+      "term_125": {
+        "name": "Lựa Chọn",
+        "text": "Cơ hội, nhưng không phải là nghĩa vụ, để thực hiện một giao dịch liên quan đến một tài sản."
+      },
+      "term_126": {
+        "name": "Oscillators",
+        "text": "Các công cụ phân tích kỹ thuật sử dụng một chỉ số dao động giữa quá mức mua và bán, được sử dụng để thể hiện tín hiệu mua và bán."
+      },
+      "term_127": {
+        "name": "Hủy Lệnh khác (OCO)",
+        "text": "Hai giao dịch được gửi cùng một lúc, khi đó một giao dịch hoàn thành sẽ tự động hủy giao dịch kia."
+      },
+      "term_128": {
+        "name": "Thanh Toán",
+        "text": "Tổng số tiền kiếm được từ một giao dịch thành công."
+      },
+      "term_129": {
+        "name": "PIP",
+        "text": "Viết tắt cho Percentage In Point. Đơn vị đo lường nhỏ nhất được sử dụng trong giao dịch Forex để xác định tỷ giá hối đoái giữa nhiều loại tiền tệ."
+      },
+      "term_130": {
+        "name": "Nền Tảng",
+        "text": "Hệ thống được sử dụng để thực hiện các giao dịch cung cấp bởi một công ty môi giới."
+      },
+      "term_131": {
+        "name": "Hệ Số Giá Trên Lợi Nhuận (P/E)",
+        "text": "Hệ Số được sử dụng để định giá một công ty bằng cách so sánh giá cổ phiếu hiện tại của nó với thu nhập trên mỗi cổ phiếu."
+      },
+      "term_132": {
+        "name": "Giá Trị Gốc",
+        "text": "Vốn khởi đầu mà nhà giao dịch đầu tư cho các giao dịch trên thị trường tài chính."
+      },
+      "term_133": {
+        "name": "Đặt Lệnh",
+        "text": "Một thỏa thuận cho phép người bán tùy chọn bán một tài sản tài chính ở một mức giá xác định trong một khoảng thời gian cụ thể. Người bán tuy nhiên không bắt buộc phải bán tài sản."
+      },
+      "term_134": {
+        "name": "Key Cá Nhân",
+        "text": "Chữ ký điện tử được sử dụng để mở khóa ví tiền điện tử và ký giao dịch."
+      },
+      "term_135": {
+        "name": "Key Công Khai",
+        "text": "Mã số tiền điện tử được đưa ra khi yêu cầu thanh toán."
+      },
+      "term_136": {
+        "name": "Đẩy Giá và Hạ Giá",
+        "text": "Quá trình thổi phồng giá trị tài sản bằng cách mua một số lượng lớn với hy vọng những người khác sẽ làm theo. Theo đó, người mua ban đầu sẽ bán tài sản của họ với hy vọng kiếm được lợi nhuận từ giá tăng cao."
+      },
+      "term_137": {
+        "name": "Nới Lỏng Định Lượng",
+        "text": "Một phương pháp được sử dụng bởi các ngân hàng trung ương để khuyến khích tăng trưởng kinh tế. Điều này được thực hiện bằng cách mua chứng khoán chính phủ để tăng vốn và thanh khoản trong các tổ chức tài chính."
+      },
+      "term_138": {
+        "name": "Báo Giá Tiền Tệ",
+        "text": "Một thuật ngữ được sử dụng trong giao dịch ngoại hối. Khi báo giá các cặp tiền tệ, đó là loại tiền tệ thứ hai mà bạn giao dịch so với loại tiền đầu tiên."
+      },
+      "term_139": {
+        "name": "Báo giá",
+        "text": "Giá gần đây nhất mà người mua và người bán đã đạt thỏa thuận."
+      },
+      "term_140": {
+        "name": "Tỷ Giá",
+        "text": "Tỷ giá/tỷ giá hối đoái là giá so sánh của loại tiền này với loại tiền khác."
+      },
+      "term_141": {
+        "name": "Chỉ Số Kỹ Thuật (RSI)",
+        "text": "Một chỉ số kỹ thuật đo lường nếu một công cụ tài chính đã bị mua quá mức hoặc bán quá mức."
+      },
+      "term_142": {
+        "name": "Vốn Rủi Ro",
+        "text": "Mức độ của một khoản tiền gửi mà một nhà đầu tư sẵn sàng mạo hiểm."
+      },
+      "term_143": {
+        "name": "Robot",
+        "text": "Phần mềm cho biết khi nào nên mở hoặc đóng một lệnh trên thị trường."
+      },
+      "term_144": {
+        "name": "Rollover",
+        "text": "Hành động thay đổi hợp đồng rollover trước ngày hết hạn, với một hợp đồng mới. Sự khác biệt về giá giữa hai hợp đồng được điều chỉnh."
+      },
+      "term_145": {
+        "name": "Mức Kháng Cự",
+        "text": "Giá mà tại đó một tài sản tài chính đạt đỉnh, trước khi nhiều nhà đầu tư quyết định bán tài sản."
+      },
+      "term_146": {
+        "name": "Quản Lý Rủi Ro",
+        "text": "Một hoặc nhiều chiến lược được sử dụng để giảm rủi ro tài chính khi giao dịch trên thị trường tài chính."
+      },
+      "term_147": {
+        "name": "Chiến Lược Nhỏ Scalping",
+        "text": "Một chiến lược được sử dụng bởi các nhà giao dịch thực hiện nhiều giao dịch ngắn hạn nhỏ, tìm cách tăng lợi nhuận của họ _x005F bằng cách kết hợp nhiều khoản lời nhỏ."
+      },
+      "term_148": {
+        "name": "SEC",
+        "text": "Viết tắt của Ủy ban Chứng Khoán và Sàn Giao Dịch Hoa Kỳ."
+      },
+      "term_149": {
+        "name": "Bảo Mật",
+        "text": "Bất kì tài sản tài chính nào cũng được giao dịch."
+      },
+      "term_150": {
+        "name": "Lệnh Bán",
+        "text": "Mở một lệnh bán trên thị trường được gọi là 'Đặt Lệnh Bán'"
+      },
+      "term_151": {
+        "name": "Trượt Gía",
+        "text": "Chênh lệch giá giữa một tài sản khi hiển thị giá trị và giá trị chính xác khi giao dịch xảy ra."
+      },
+      "term_152": {
+        "name": "Giá Giao Dịch",
+        "text": "Giá hiện tại một tài sản có thể được mua hoặc bán trên thị trường."
+      },
+      "term_153": {
+        "name": "Chênh Lệch",
+        "text": "Sự khác biệt về giá trị giữa giá bán và giá mua của một tài sản tài chính."
+      },
+      "term_154": {
+        "name": "Ngẫu Nhiên",
+        "text": "Một chỉ số dao động được sử dụng để xác định sự thay đổi giá của tài sản tài chính từ thời điểm kết thúc đến thời điểm tiếp theo."
+      },
+      "term_155": {
+        "name": "Cổ Phiếu",
+        "text": "Một cổ phần trong quyền sở hữu của công ty và các tài sản và nguồn thu liên quan."
+      },
+      "term_156": {
+        "name": "Lệnh Cắt Lỗ",
+        "text": "Một lệnh được đưa ra bởi một nhà môi giới để hạn chế tổn thất của nhà đầu tư bằng cách bán cho họ khi đạt đến một mức giá nhất định."
+      },
+      "term_157": {
+        "name": "Giá Cố Định",
+        "text": "Giá trị của tài sản khi được mua hoặc bán."
+      },
+      "term_158": {
+        "name": "SWAP",
+        "text": "Quá trình trao đổi giá trị tài sản của một nhà đầu tư với tài sản của nhà đầu tư khác."
+      },
+      "term_159": {
+        "name": "Uỷ Ban Chứng Khoán và Giao Dịch Hoa Kỳ (SEC)",
+        "text": "Cơ quan chính phủ Hoa Kỳ quản lý ngành chứng khoán quốc gia, thị trường chứng khoán và đại lý chứng khoán điện tử."
+      },
+      "term_160": {
+        "name": "Satoshi",
+        "text": "Tương đương với vị trí thập phân thứ tám, đây là đơn vị nhỏ nhất của bitcoin."
+      },
+      "term_161": {
+        "name": "Lệnh Chờ Bán Giá Cao",
+        "text": "Hoạt động giới hạn giá trên một giao dịch."
+      },
+      "term_162": {
+        "name": "Chờ Bán Giá Thấp",
+        "text": "Một lệnh giới hạn để thực hiện lệnh mua khi giá mua thấp hơn giá thị trường hiện tại."
+      },
+      "term_163": {
+        "name": "Lệnh Bán",
+        "text": "Bán trước và mua sau để tạo ra lãi hoặc lỗ từ chênh lệch."
+      },
+      "term_164": {
+        "name": "Spot",
+        "text": "Lấy giá trị của ngày hiện tại và bán ở mức giá đó, nhưng được giải quyết trong vòng 2 ngày."
+      },
+      "term_165": {
+        "name": "Đồng Bảng Anh",
+        "text": "Một tên cho Bảng Anh (GBP), còn được gọi là bảng Anh."
+      },
+      "term_166": {
+        "name": "Mua Giá Cao",
+        "text": "Một lệnh để mua khi giá tiền tệ cao hơn thị trường hiện tại."
+      },
+      "term_167": {
+        "name": "Phân Tích Kỹ Thuật",
+        "text": "Nghiên cứu dữ liệu thị trường trong quá khứ để tiên đoán tương lai của các công cụ tài chính."
+      },
+      "term_168": {
+        "name": "Trailing Stop Loss",
+        "text": "The ability to automatically adjust the limit price threshold to be closer to a more favorable market price."
+      },
+      "term_169": {
+        "name": "Nhà Giao Dịch",
+        "text": "Một người đầu tư vào các giao dịch trên thị trường."
+      },
+      "term_170": {
+        "name": "Công cụ Trailing Stop Loss",
+        "text": "Khả năng tự động điều chỉnh ngưỡng giá giới hạn để gần với giá thị trường thuận lợi hơn."
+      },
+      "term_171": {
+        "name": "Ngày Giao Dịch",
+        "text": "Thời điểm giao dịch tài sản xảy ra."
+      },
+      "term_172": {
+        "name": "Kiếm Lời",
+        "text": "Một loại lệnh giới hạn xác định giá cụ thể để đóng một lệnh đang chạy để thu lợi nhuận."
+      },
+      "term_173": {
+        "name": "Nền Tảng Giao Dịch",
+        "text": "Một phần mềm được sử dụng bởi các nhà đầu tư để giao dịch ngoại hối."
+      },
+      "term_174": {
+        "name": "Giao Dịch",
+        "text": "Quá trình trao đổi hàng hóa, dịch vụ và tài sản tài chính giữa người mua và người bán."
+      },
+      "term_175": {
+        "name": "Xu Hướng",
+        "text": "Định hướng chung của thị trường."
+      },
+      "term_176": {
+        "name": "Định Giá Thấp",
+        "text": "Nếu tỷ giá hối đoái không vượt quá sức mua của nó, nó được coi là bị định giá thấp."
+      },
+      "term_177": {
+        "name": "Tỷ Lệ Thất Nghiệp",
+        "text": "Tỷ lệ người trong lực lượng lao động không có việc làm."
+      },
+      "term_178": {
+        "name": "Đô La Mỹ",
+        "text": "Đồng Tiền của Hợp Chủng Quốc Hoa Kỳ"
+      },
+      "term_179": {
+        "name": "Ngày Giá Trị",
+        "text": "Ngày chốt cuối cùng được quyết định bởi các bên liên quan đến một thỏa thuận tài chính."
+      },
+      "term_180": {
+        "name": "Ký Quỹ Biến Đổi",
+        "text": "Số tiền thêm cần thiết để cấu thành tổn thất khi số dư của người môi giới giảm xuống dưới mức tối thiểu bắt buộc."
+      },
+      "term_181": {
+        "name": "Biến Động",
+        "text": "Phép đo được sử dụng để mô tả sự biến động giá của một công cụ tài chính trong một khoảng thời gian cụ thể."
+      },
+      "term_182": {
+        "name": "Chuyển Khoản",
+        "text": "Quá trình chuyển tiền bằng điện tử từ tổ chức tài chính này sang tổ chức tài chính khác."
+      },
+      "term_183": {
+        "name": "Nhóm Ngân Hàng Thế Giới",
+        "text": "Một tổ chức hỗ trợ cung cấp tư vấn tài chính và kỹ thuật cho các nước đang phát triển trên toàn thế giới."
+      },
+      "term_184": {
+        "name": "Ví",
+        "text": "Nơi lưu trữ tiền điện tử. Có năm loại ví tiền điện tử; ví phần mềm, ví di động, ví web, ví giấy và ví phần cứng."
+      },
+      "term_185": {
+        "name": "Thị Trường Biến Động Whipsaw",
+        "text": "Biến động giá diễn ra đảo chiều nhanh và sắc."
+      },
+      "term_186": {
+        "name": "X",
+        "text": "Mô tả một quỹ tương hỗ, đây là một biểu tượng cổ phiếu NASDAQ."
+      },
+      "term_187": {
+        "name": "XE",
+        "text": "Viết tắt của Xpress Engine. Một trang web tài chính nổi bật cung cấp các công cụ hữu ích cho các nhà giao dịch."
+      },
+      "term_188": {
+        "name": "XAG",
+        "text": "Biểu tượng tiền tệ cho kim loại bạc quý. Bạc có thể được sử dụng trong các trao đổi tài chính và thường duy trì mức giá cao."
+      },
+      "term_189": {
+        "name": "XAU/USD",
+        "text": "Tỷ giá vàng (XAU) với đô la Mỹ (USD) có thể được theo dõi trực tuyến và luôn thay đổi."
+      },
+      "term_190": {
+        "name": "Đường Cong Lãi Suất Trái Phiếu",
+        "text": "Việc sử dụng biểu đồ để thể hiện mối tương quan giữa lãi suất và thời gian rollover của tài sản nợ với nhà giao dịch."
+      },
+      "term_191": {
+        "name": "Zero-Bound",
+        "text": "Khi lãi suất gần bằng không phần trăm, khiến các ngân hàng trung ương gặp khó khăn trong việc đo lường sự mở rộng của nền kinh tế."
+      }
+    }
+  }
+}

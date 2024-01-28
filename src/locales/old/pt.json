@@ -1,0 +1,1803 @@
+{
+  "header": {
+    "en": "English (English)",
+    "es": "Español (Spanish)",
+    "vi": "Tiếng Việt (Vietnamese)",
+    "pt": "Portuguese (Brazil)",
+    "accounts": "Contas",
+    "accounts-1": "Conta First Class",
+    "accounts-2": "Conta Pro",
+    "accounts-3": "Conta Standard",
+    "accounts-4": "Conta Demo",
+
+    "instruments": "Instrumentos",
+    "instruments-1": "Ações",
+    "instruments-2": "Índices",
+    "instruments-3": "Títulos",
+    "instruments-4": "Matérias Primas",
+    "instruments-5": "Criptomoedas",
+
+    "platforms": "Plataformas",
+    "platforms-1": "Desktop Trader",
+    "platforms-2": "Webtrader",
+    "platforms-3": "Mobile Trader",
+
+    "trading": "Trading Tools",
+    "trading-1": "Feriados",
+    "trading-2": "Rollover",
+    "trading-3": "Dividendos",
+    "trading-4": "Glossário",
+
+    "policies": "Políticas",
+    "policies-1": "Termos e Condições",
+    "policies-2": "Política de Privacidade",
+    "policies-3": "Isenção de responsabilidade de risco",
+    "policies-4": "Politica conheça seu cliente",
+    "policies-5": "Politica de reembolso",
+
+    "about": "Sobre Nós",
+    "about-1": "Entre em contato",
+    "about-2": "FAQ",
+
+    "partners": "Parceiros",
+    "login": "Login de Cliente",
+    "register": "Registrar"
+  },
+  "home-page": {
+    "hero-section": {
+      "heading": "Aumente o seu capital com",
+      "sub-heading": "Explore a nossa gama de serviços e ferramentas para ajudá-lo a atingir os seus objetivos de trading",
+      "button-label": "REGISTRAR"
+    },
+    "benefits-section": {
+      "heading": "Benefícios do",
+      "reliable-title": "Sistema Confiável",
+      "reliable-description": "Negocie no MT4, uma plataforma popular de trading utilizada por traders experientes e também por iniciantes.",
+      "encrypted-title": " Dados Criptografados",
+      "encrypted-description": "Asseguramos que a sua informação pessoal está segura com o protocolo SSL (Secure Sockets Layer).",
+      "trading-title": "Ferramentas de Trading",
+      "trading-description": "Controle o mercado financeiro com as nossas ferramentas de trading, incluindo gráficos e notícias atuais.",
+      "exceptional-title": "Serviço Excepcional",
+      "exceptional-description": "Fornecemos um ótimo suporte e assistência técnica 24 horas por dia, 5 dias por semana.",
+      "multiple-title": "Múltiplas Plataformas",
+      "multiple-description": "Negocie de forma conveniente em um dispositivo de sua preferência, seja no seu celular, tablet ou computador."
+    },
+    "platforms-section": {
+      "heading": "Nossas Plataformas",
+      "sub-heading": "Temos a plataforma perfeita para cada tipo de trader. Com 3 plataformas de onde escolher, o trading online se torna mais acessível do que nunca.",
+      "desktop-heading": "Desktop",
+      "desktop-description": "Negocie utilizando o MT4: a plataforma mais popular de trading que ofereçe possibilidades abrangentes para traders",
+      "webtrader-heading": "Webtrader",
+      "webtrader-descdription": "Negocie sem baixar nenhum software, apenas execute para acessar as mesmas funções.",
+      "mobile-heading": "Mobile Trader",
+      "mobile-description": "Negocie de forma confortável, em qualquer lugar com a app, disponível para Android e iOS.",
+      "button-label": "SAIBA MAIS"
+    },
+    "compatible-section": {
+      "heading": "Compatível com a maioria dos",
+      "heading-span": "sistemas operativos",
+      "sub-heading": "Estes são os requisitos mínimos para que o MetaTrader 4 possa funcionar perfeitamente no seu sistema. Qualquer versão mais recente também suportam a plataforma MT4 sem esforço.",
+      "li-internet": "Velocidade da Internet: 56 kbps",
+      "li-screen": "1024 x 768 Resulução de Ecrã",
+      "button-label": "PLATAFORMAS"
+    },
+    "how-to-start-section": {
+      "heading": "Como Começar",
+      "register-heading": "Registrar",
+      "register-description": "Preencha o formulário de registro com a sua informação pessoal para abrir a sua conta RosyFX.",
+      "verify-heading": "Verificar",
+      "verify-descdription": "Digitalize e envie todos os documentos de verificação necessários para completar a criação da sua conta.",
+      "deposit-heading": "Depósito",
+      "deposit-description": "Deposite na sua conta através de transferência bancária, cartão de crédito ou através de um serviço de pagamento online.",
+      "button-label": "ABRIR UMA CONTA"
+    }
+  },
+  "footer": {
+    "heading": "RosyFX é um domínio operado pela ACE HOLDINGS LIMITED.",
+    "sub-heading": "A negociação de moedas estrangeiras (Forex) e de Contratos por Diferença (CFD’s) são operações altamente especulativas, de alto risco e podem não ser indicadas para todos os perfis de investidores. É possível ocorrer perdas de parte ou de todo o dinheiro investido, portanto, você não deve especular com um capital que você não pode se dar ao luxo de perder. Esteja ciente dos riscos associados à negociação com margem.",
+    "sub-heading-2": "Este site é comercializado e operado pela ACE HOLDINGS LIMITED que está localizada em 10 Town Gate, Leeds, England, LS20 9JA, Company number 13403160. Restrições de Jurisdição: Nós não abrimos contas para residentes em certas jurisdições incluindo os EUA. Para mais detalhes acesse os Termos & Condições.",
+    "visit-heading": "Visite-Nos",
+    "touch-heading": "Entrar em contato",
+    "touch-description": "Falamos 10 idiomas",
+    "email-heading": "Envia-nos um email",
+    "email-description": "Estamos prontos para ajudar"
+  },
+  "account": {
+    "main_heading": "Contas",
+    "trader_profile": {
+      "heading": "Desde Novatos a Experts",
+      "sub_heading": "Para todos os perfis de trader",
+      "description": "Independente da sua experiência como trader, temos a conta perfeita que se encaixa às suas capacidades e objetivos.",
+      "heading_1": "Conta de demonstração",
+      "details_1": "Pratique negociação em condições reais de mercado com zero riscos, aprendendo a analisar mercados reais, desenvolver uma estratégia de negociação e criar um portfólio. Os traders avançados podem se beneficiar explorando particularidades ou negociando com quantias maiores.",
+      "heading_2": "Conta padrão",
+      "details_2": "Novos comerciantes ou indivíduos que preferem negociar com quantias menores desfrutarão dos benefícios desta conta. É ideal para testar diferentes técnicas e estratégias, construir um plano de negócios e monitorar o progresso para aprimorar suas habilidades de negociação.",
+      "heading_3": "Conta profissional",
+      "details_3": "Esta conta é excelente para clientes que desejam usufruir do pacote completo da nossa gama de produtos e serviços. Isso inclui os serviços oferecidos a você pelo seu assistente pessoal de negociação, que fornecerá conselhos perspicazes para fazer o melhor investimento.",
+      "heading_4": "Conta First Class",
+      "details_4": "Esta conta é excelentes para clientes que gostariam de aproveitar o pacote total da nossa gama de produtos e serviços. Isto inclui serviços oferecidos pelo seu assistente pessoal de trading que irá aconselhá-lo em fazer os melhores investimentos.",
+      "button_label": "SAIBA MAIS"
+    },
+    "why_choose": {
+      "heading": "Porque escolher Pro?",
+      "heading_1": "Suporte Técnico 24/5",
+      "heading_2": "Vários pares de moedas",
+      "heading_3": "MetaTrader 4",
+      "heading_4": "Webtrader",
+      "heading_5": "Android & iOS",
+      "heading_6": "Assistente Pessoal de Trading",
+      "heading_7": "Ferramentas de negociação",
+      "heading_8": "Controle total"
+    },
+    "account_breakdown": {
+      "heading": "Fechar a conta"
+    }
+  },
+  "first_class_account": {
+    "main_heading": "Conta First Class",
+    "trade_beyond": {
+      "heading": "Negocie",
+      "heading_span": "além",
+      "description": "Para os clientes que têm experiência suficiente e conhecimento sobre lucrar com o trading, está na hora de ir Pro. Esta conta é excelentes para clientes que gostariam de aproveitar o pacote total da nossa gama de produtos e serviços. Isto inclui serviços oferecidos pelo seu assistente pessoal de trading que irá aconselhá-lo em fazer os melhores investimentos.",
+      "button_label": "REGISTRAR"
+    },
+    "benefits": {
+      "heading": "Benefícios de uma conta First Class",
+      "heading_1": "Maior Stop Out",
+      "heading_2": "Maiores Ordens Máximas",
+      "heading_3": "Acesse todas as funções",
+      "heading_4": "Assistente pessoal de trading"
+    },
+    "account_breakdown": {
+      "heading": "Fechar a conta"
+    }
+  },
+  "pro_account": {
+    "main_heading": "Conta Pro",
+    "trade_for_returns": {
+      "heading": "Negocie pelos",
+      "heading_span": "Rendimentos",
+      "description": "Gostaria de receber um extra? A nossa conta Pro é aconselhável para os clientes que negociam num nível avançado. Os traders seniors podem agora entrar no mercado com um volume máximo maior. Em adição a todos os benefícios que uma conta Standard tem, os clientes têm direito a um assistente pessoal de trading que pode ajudar a personalizar as preferências de trading de acordo com os objetivos financeiros.",
+      "button_label": "REGISTRAR PRO"
+    },
+    "benefits": {
+      "heading": "Benefícios de uma conta Pro",
+      "heading_1": "Suporte Técnico 24/5",
+      "heading_2": "Vários pares de moeda",
+      "heading_3": "Acesse todas as funções",
+      "heading_4": "Assistente pessoal de trading"
+    },
+    "account_breakdown": {
+      "heading": "Fechar a conta"
+    }
+  },
+  "standard_account": {
+    "main_heading": "Conta Standard",
+    "trade_for_experience": {
+      "heading": "Negocie pela",
+      "heading_span": "Experiência",
+      "description": "Perfeita para novos trader que experimentaram a conta Demo e gostariam de ganhar mais confiança ao negociar com dinheiro real. Traders iniciantes ou individuos que preferem negociar com montantes baixos irão apreciar os benefícios desta conta. É ideal para testar técnicas e estratégias diferentes, contruir um plano de negócio e monitorar o progresso para poder melhorar as suas habilidades de trading.",
+      "button_label": "REGISTRAR STANDARD"
+    },
+    "benefits": {
+      "heading": "Benefícios de uma Conta Standard",
+      "heading_1": "Suporte Técnico 24/5",
+      "heading_2": "Várias moedas",
+      "heading_3": "Acesso a todas as plataformas",
+      "heading_4": "Acesso a ferramentas de negociação"
+    },
+    "account_breakdown": {
+      "heading": "Fechar a conta"
+    }
+  },
+  "demo_account": {
+    "main_heading": "Conta Demo",
+    "trade_for_free": {
+      "heading": "Negocie",
+      "heading_span": "gratuitamente",
+      "description": "Ideal para os que são novos no traing e gostariam de ir com calma e negociar sem arriscar o seu dinheiro. Experimente negociar com condições reais de mercado e sem riscos, aprenda a analisar os mercados reais, desenvolva uma estratégia de trading e crie o seu portfólio. Traders avançados podem se beneficiar ao explorar particularidades ou negociar com maiores montantes.",
+      "button_label": "REGISTRAR DEMO"
+    },
+    "benefits": {
+      "heading": "Benefícios de uma Conta Demo",
+      "heading_1": "Suporte Técnico 24/5",
+      "heading_2": "Condições de mercado reais",
+      "heading_3": "Acesse a todas as plataformas",
+      "heading_4": "Acesse às ferramentas de negociação"
+    },
+    "account_breakdown": {
+      "heading": "Fechar a conta"
+    }
+  },
+  "instruments": {
+    "main_heading": "Instrumentos",
+    "explore": {
+      "heading": "Explore o",
+      "heading_span": "Mercado Financeiro",
+      "description": "Como todo mundo tem uma estratégia diferente no que se refere a lidar com negociações, a RosyFX oferece uma grande variedade de instrumentos financeiros para que os traders possam escolher. Temos serviços disponíveis que se adapta a todos, incluindo para traders diários e ativos que preferem mercados de alta liquidez ou até investidores pacientes, com um planejamento a longo termo. É essencial estudar o que cada instrumento tem a oferecer em relação às suas vantagens e escolher os que se adequam melhor ao seu estilo de negociação.",
+      "button_label": "REGISTRAR"
+    },
+    "heading_1": "Matérias Primas",
+    "description_1": "As Matérias Primas (Commodities) envolvem o comercio de materiais ou produtos agrícolas no mundo todo nas bolsas de mercadorias.",
+    "heading_2": "Índices",
+    "description_2": "Em vez de se tornar vulnerável às volatilidade de uma ação, você pode lucrar com os movimentos de setores inteiros no mercado global.",
+    "heading_3": "Ações",
+    "description_3": "Ações são um tipo de segurança que permite que o seu detentor tenha direito a uma porção dos ativos de uma empresa e ganhos na forma de dividendos.",
+    "heading_4": "Títulos",
+    "description_4": "Títulos são tesouros emitidos por governos e empresas e geralmente são considerados um tipo de investimento seguro e a longo termo.",
+    "heading_5": "Criptomoedas",
+    "description_5": "As criptomoedas são melhores descritas como dinheiro digital. Um deverá compreender o seu potencial de investimento, que poderá fornecer o melhor resultado.",
+    "button_label": "VER"
+  },
+  "stocks": {
+    "main_heading": "Ações",
+    "history": {
+      "heading": "Maiores Retornos",
+      "heading_span": "Históricos",
+      "description": "Ações são um tipo de segurança que permite que o seu detentor tenha direito a uma porção dos ativos de uma empresa e ganhos na forma de dividendos. O mercado de ações é um mercado secundário, isso significa que você não compra ações diretaente de uma empresa, mas sim de um acionista existente. Um investidor lucra investindo nas empresas certas que prometem um aumento no preço da ação e dividendos regulares.",
+      "button_label": "REGISTRAR"
+    },
+    "heading": "Vantagens",
+    "heading_1": "Sem limite de investimento",
+    "heading_2": "Fácil de Comprar & Vender",
+    "heading_3": "Alavancagem máxima de 1:50",
+    "heading_4": "Fácil de Prever",
+    "heading_5": "Sem Taxas",
+    "heading_6": "Mercados Globais",
+    "trading_condition": "Condições de Trading"
+  },
+  "indices": {
+    "main_heading": "Índices",
+    "portfolio": {
+      "heading": "Para Diversificação de",
+      "heading_span": "Portfólio",
+      "description": "Obtenha acesso nos setores dos mercados globais. Em vez de se tornar vulnerável às volatilidade de uma ação, você pode lucrar com os movimentos de subida ou descida do mercado. Um Índice é uma média das ações das principais empresas neste setor da economia. O melhor desses instrumentos é que requerem pouquíssimo gerenciamento e oferecem diversificação numa fração de custo.",
+      "button_label": "REGISTRAR"
+    },
+    "heading": "Vantagens",
+    "heading_1": "Spreads ajustados",
+    "heading_2": "Distribuição ponderada",
+    "heading_3": "Opções binárias",
+    "heading_4": "Alavancagem máxima de 1:100",
+    "heading_5": "Sem Taxas",
+    "heading_6": "Diversificação de Portfólio",
+    "trading_condition": "Condições de Trading"
+  },
+  "bonds": {
+    "main_heading": "Títulos",
+    "interest": {
+      "heading": "Para Juros",
+      "heading_span": "Fixos",
+      "description": "Títulos são tesouros emitidos por governos e empresas e geralmente são considerados um tipo de investimento seguro e a longo termo. Os Títulos te permitem receber um rendimento de forma regular na forma de juros fixos. O valor total será pago na data de expiração do título, compensando adicionalmente com retornos regulares anuais. Títulos oferecem a estabilidade que outros investimentos não oferecem.",
+      "button_label": "REGISTRAR"
+    },
+    "heading": "Vantagens",
+    "heading_1": "Ganhos Previsíveis",
+    "heading_2": "Baixo Risco",
+    "heading_3": "Alavancagem máxima de 1:100",
+    "heading_4": "Preservação de capital",
+    "heading_5": "Sem Taxas",
+    "heading_6": "Juros Fixos",
+    "trading_condition": "Condições de Trading"
+  },
+  "commodities": {
+    "main_heading": "Matérias Primas",
+
+    "high": {
+      "heading": "Para uma alta",
+      "heading_span": "transparência",
+      "description": "As Matérias Primas (Commodities) envolve o comercio de materiais ou produtos agrícolas tais como trigo, metais e café, no mundo inteiro nas bolsas de commodities. A forma mais popular de negociar matérias primas é através de futuros, contratos de compra ou venda de uma matéria prima específica com um preço pré determinado em uma data específica no futuro. Negociar matérias primas ajuda a estabilizar o seu portfólio pois o movimento do preço é tipicamente o oposto do que há em estoque.",
+      "button_label": "REGISTRAR"
+    },
+
+    "heading": "Vantagens",
+    "heading_1": "Margens Baixas",
+    "heading_2": "Transparência",
+    "heading_3": "Alavancagem máxima de 1:100",
+    "heading_4": "Diversificação de Portfólio",
+    "heading_5": "Mercado de 24 horas",
+    "heading_6": "Sem Taxas",
+
+    "trading_condition": "Condições de Trading"
+  },
+  "cryptocurrencies": {
+    "main_heading": "Criptomoedas",
+
+    "high": {
+      "heading": "Por maior",
+      "heading_span": "Volatilidade",
+      "description": "As criptomoedas são melhores descritas como dinheiro digital. A introdução desta medida financeira apanhou o mundo de surpresa por parecer um investimento lucrativo e vertiginoso. Enquanto muitos conseguem viver consideravelmente e continuam vivendo de trading da volatilidade de criptomoedas, devemos aprender o seu potencial de investimento que podem nos trazer o melhor resultado.",
+      "button_label": "REGISTAR"
+    },
+
+    "heading": "Vantagens",
+    "heading_1": "Volatilidade",
+    "heading_2": "Alta Liquidez",
+    "heading_3": "Operações longas ou curtas",
+    "heading_4": "Mercado 24/7",
+    "heading_5": "Exposição de Alavancagem",
+    "heading_6": "Zero taxas",
+
+    "trading_condition": "Condições de Trading"
+  },
+  "platforms": {
+    "main_heading": "Plataformas",
+    "grow": {
+      "heading": "Veja os seu negócios",
+      "heading_span": "crescerem",
+      "description": "Independentemente do seu nível de experiência, temos a conta perfeita que corresponde aos seus objetivos e capacidade de negociação.",
+      "desktop": {
+        "heading": "Desktop",
+        "description": "Negocie no MT4: a plataforma mais popular e avançada que oferece possibilidades abrangentes para todos os traders, um ambiente intuitivo e prioriza a segurança quando se trata de gerenciamento de conta. Adicionalmente, a RosyFX irá proporcionar com todo o prazer qualquer assistência necessária ao utilizar a ferramenta, disponível 24 horas por dia, 5 dias na semana.",
+        "heading_1": "Últimas Atualizações",
+        "heading_2": "Totalmente Configurável",
+        "heading_3": "Operação ininterrupta",
+        "heading_4": "Alta Segurança",
+        "heading_5": "Análise Técnica",
+        "heading_6": "Fácil de Usar"
+      },
+      "webtrader": {
+        "heading": "Webtrader",
+        "description": "Negocie sem ter que baixar software, apenas arranque o MT4 para acessar as mesmas funções. Tudo o que você precisa é de um browser de web em qualquer dispositivo com uma conexão de internet segura. Apenas precisa registrar ou entrar em uma conta já existente para negociar facilmente com um alto nível de proteção de dados.",
+        "heading_1": "Negocie Diretamente",
+        "heading_2": "Acesso conveniente",
+        "heading_3": "Histórico de transações",
+        "heading_4": "Dados Criptografados",
+        "heading_5": "Cópia de negociações",
+        "heading_6": "Fácil de usar"
+      },
+      "mobile": {
+        "heading": "Mobile",
+        "description": "Negocie confortavelmente em qualquer lugar com conexão de internet. Está disponível para baixar na Google Play e na AppStore. Disfrute da flexilidade de negociar sem restrições no Trader Mobile & Tablet, que está disponível para baixar em todos os dispositivos. O Trader Mobile também oferece uma grande variedade de funções com o controle de um toque.",
+        "heading_1": "Trading em um clique",
+        "heading_2": "Indicadores Populares",
+        "heading_3": "Ações em tempo real ",
+        "heading_4": "Transações resumidas",
+        "heading_5": "Análise Técnica",
+        "heading_6": "Acesso conveniente"
+      },
+      "button_label": "LER MAIS"
+    },
+    "utilize": {
+      "heading": "Utilize as nossas ferramentas de trading",
+      "heading_1": "Férias",
+      "description_1": "Mantenha-se atualizado dos feriados públicos em todo o mundo que possam afetar as suas negociações.",
+      "heading_2": "Rollover",
+      "description_2": "Rollover é extender o pagamento de uma posição aberta até o próximo dia de trading.",
+      "heading_3": "Dividendos",
+      "description_3": "As datas mais importantes a se lembrar são as datas de “Ex-dividendos” e “Pagamentos”."
+    }
+  },
+  "desktop": {
+    "main_heading": "Desktop Trader",
+    "trade": {
+      "heading": "Negocie no MT4: a plataforma mais popular e avançada que oferece possibilidades abrangentes para todos os traders.",
+
+      "download_for": "Download For",
+      "windows": "Windows",
+
+      "download_for2": "Download for",
+      "macos": "MacOS",
+
+      "heading_1": "Configurável",
+      "heading_2": "Seguro",
+      "heading_3": "Sem interrupções",
+      "heading_4": "Analítico",
+
+      "description_1": "Ajuste as configurações para se adaptar às suas necessidades.",
+      "description_2": "Todos os seus dados são criptografados com o protocolo SSL mais recente.",
+      "description_3": "Opere e gerencie todas as suas negociações sem esforço em apenas um lugar.",
+      "description_4": "Perfeito para estudar gráficos e transações técnicamente."
+    }
+  },
+  "mobile": {
+    "main_heading": "comerciante móvel",
+    "section_2": {
+      "heading": "Disfrute da flexibilidade de negociar sem restrições no Trader Mobile & Tablet, que oferece uma ampla gama de funções controladas por apenas um toque. Recomendamos aos usuários que conectem ao servidor GoPartners' para uma experiência de trading optimizada já que a Gonnaflex opera no servidor GoPartners' MT4.",
+
+      "donwload_on_the": "Download on The",
+      "app_store": "App Store",
+
+      "android_app_on": "Android app On",
+      "google_play": "Google Play",
+
+      "heading_1": "Criptografia Segura",
+      "heading_2": "Revisão Fácil",
+      "heading_3": "Sem complicações",
+      "heading_4": "Ações em Tempo Real",
+      "heading_5": "Indicadores Populares",
+      "heading_6": "Trading em um clique",
+
+      "description_1": "Todos os seus dados são criptografados com o protoloco SSL mais recente.",
+      "description_2": "Observe todas as suas transações de forma resumida em apenas um ecrã.",
+      "description_3": "Negocie no monitor em movimento e monitorize todas as suas transações apartir do seu dispositivo.",
+      "description_4": "Execute negócios instantaneamente sem o stress de perder uma oportunidade.",
+      "description_5": "Utilize para medir os movimentos de mercado para poder sair e entrar no momento certo.",
+      "description_6": "Comandos diretos para gerenciar as suas negociações."
+    }
+  },
+  "webtrader": {
+    "main_heading": "Webtrader",
+    "launch_webtrader": "Iniciar Webtrader",
+
+    "section_2": {
+      "heading": "Negocie sem ter que baixar softwares, apenas execute o MT4 MetaTrader utilizando uma conexão de internet segura para acessar a sua conta de negociação.",
+
+      "button_label": "EXECUTAR",
+
+      "heading_1": "Conveniente",
+      "heading_2": "Seguro",
+      "heading_3": "Fácil de usar",
+      "heading_4": "Sem interrupções",
+
+      "description_1": "Apenas inicie sessão em qualquer browser de web e estará preparado para negociar.",
+      "description_2": "Todos os seus dados estão seguros com o protocolo mais recente SSL.",
+      "description_3": "Comandos diretos para executar as suas ordens de forma intuitiva.",
+      "description_4": "Opere e gerencie todas as suas negociações sem esforço em apenas um lugar."
+    }
+  },
+  "tradingtools": {
+    "main_heading": "Ferramentas de Negociação",
+
+    "section_2": {
+      "heading": "Tome as melhores ",
+      "heading_span": "decisões com as nossas ferramentas",
+      "description": "Obtenha resultados melhores e veja os seus lucros aumentando ao se manter atualizado com as datas importantes e termos de negociação.",
+
+      "heading_1": "Feriados",
+      "heading_2": "Dividendos",
+      "heading_3": "Dividendos",
+      "heading_4": "Glossary",
+
+      "description_1": "Mantenha-se atualizado dos feriados publicos em torno do globo que podem afetar as suas negociações.",
+      "description_2": "Rollover é extender o pagamento de uma posição aberta até o próximo dia de trading.",
+      "description_3": "As datas mais importantes a se lembrar são as datas de 'Ex-dividendos' e 'Pagamentos'.",
+      "description_4": "Use esta extensa coleção de definições de negociação para entender os mercados financeiros.",
+
+      "button_label": "LER MAIS"
+    }
+  },
+  "holidays": {
+    "main_heading": "Feriados",
+
+    "heading": "Esteja atualizado com os feriados",
+    "heading_span": "públicos listados",
+
+    "description": "Mantenha-se atualizado sobre os feriados em todo o mundo que podem afetar seus negócios."
+  },
+  "rollover": {
+    "main_heading": "Rollover",
+
+    "heading": "Mantenha-se atualizado das datas",
+    "heading_span": "importantes de rollover",
+
+    "description": "Rollover é extender o pagamento de uma posição aberta até o próximo dia de trading."
+  },
+  "dividends": {
+    "main_heading": "Dividendos",
+
+    "heading": "Monitorize as datas de dividendo para",
+    "heading_span": "negociações estratégicas",
+
+    "description": "As datas mais importantes a se lembrar são as datas de 'Ex-dividendos' e 'Pagamentos'."
+  },
+  "privacy_policy": {
+    "main_heading": "Política de Privacidade",
+    "section_2": {
+      "heading": "A proteção da privacidade e a salvaguarda das informações pessoais e ",
+      "heading_span": "financeiras dos nossos Clientes é a nossa maior prioridade.",
+      "heading1": "Por favor, veja a seguinte Declaração de Política de Privacidade que explica claramente como nós, na ACE HOLDINGS LIMITED (“ACE HOLDINGS LIMITED”), coletamos, processamos, armazenamos e protegemos as informações de nossos clientes.",
+      "description_1": "Ao abrir uma conta, o Cliente concorda com a coleta, processamento, armazenamento e uso de informações pessoais pela ACE HOLDINGS LIMITED conforme explicado abaixo."
+    },
+    "main_section": {
+      "heading_1": "1. COLETA DE INFORMAÇÕES PESSOAIS",
+      "description_1": "A ACE HOLDINGS LIMITED coleta as informações necessárias para abrir, transacionar e proteger seus ativos e sua privacidade e para fornecer os serviços de que você precisa. Para esse fim, a ACE HOLDINGS LIMITED coleta informações suas e pode, em determinadas circunstâncias, coletar informações de bancos e/ou agências de crédito relevantes e/ou outras fontes que nos ajudem a traçar seus requisitos e preferências e fornecer melhores serviços a você.",
+
+      "heading_2": "As informações que a ACE HOLDINGS LIMITED coleta podem incluir:",
+      "description_2": "Informações de inscrição Informações pessoais que você nos fornece em seu formulário de inscrição, como seu nome, endereço, data de nascimento, endereço de e-mail, renda e fonte de renda, etc., a fim de facilitar a avaliação de sua inscrição. As informações que você nos fornece também são usadas para fins de comunicação com você.",
+      "description_3": "Informações sobre transações Informações sobre o volume e valor antecipado de suas transações conosco e informações de receita fornecidas para permitir a construção de seu perfil econômico.",
+      "description_4": "Informações de verificação Informações necessárias para verificar sua identidade, como carteira de identidade, passaporte ou carteira de motorista. Isso também inclui informações básicas que recebemos sobre você de registros públicos ou de outras entidades não afiliadas à ACE HOLDINGS LIMITED.",
+
+      "heading_3": "2. USO DE INFORMAÇÕES PESSOAIS/EXCLUIR",
+      "description_5": "A ACE HOLDINGS LIMITED usa informações pessoais apenas conforme necessário para fornecer um serviço de qualidade e segurança a você. Esta informação ajuda a melhorar os serviços, personalizar a experiência de navegação e permite-nos informá-lo sobre produtos, serviços ou promoções adicionais relevantes para si e os produtos e serviços de que necessita e consente que utilizemos esses dados para esses fins.",
+      "description_6": "Embora você não seja obrigado a fornecer à ACE HOLDINGS LIMITED nenhuma das informações pessoais que possamos solicitar, observe que se não o fizer, a ACE HOLDINGS LIMITED não poderá abrir sua conta ou fornecer o serviço necessário.",
+      "description_7": "Embora tentemos garantir que todas as informações que mantemos sobre você sejam atuais, precisas e completas, pedimos que você entre em contato conosco imediatamente se algum de seus dados pessoais for alterado.",
+
+      "heading_4": "3. PROTEÇÃO DE INFORMAÇÕES PESSOAIS",
+      "description_8": "Qualquer informação pessoal que você nos fornecer será tratada como confidencial e compartilhada apenas dentro da ACE HOLDINGS LIMITED e suas afiliadas e não será divulgada a terceiros, exceto sob quaisquer procedimentos regulatórios ou legais.",
+      "description_9": "As informações pessoais que você fornece ao se registrar como usuário do RosyFX são protegidas de várias maneiras. Você pode acessar suas Informações Cadastrais por meio de uma senha selecionada por você. Esta senha é criptografada e conhecida apenas por você e não deve ser revelada a mais ninguém.",
+      "description_10": "As informações de registro são armazenadas com segurança em servidores seguros, aos quais apenas pessoas autorizadas têm acesso por meio de senha. A ACE HOLDINGS LIMITED criptografa todas as informações pessoais à medida que são transferidas para a ACE HOLDINGS LIMITED e, portanto, faz todos os esforços necessários para impedir que terceiros não autorizados visualizem essas informações.",
+
+      "heading_5": "4. AFILIADOS E PARCEIROS",
+      "description_11": "A ACE HOLDINGS LIMITED pode compartilhar informações com parceiros, afiliados e alianças caso tais informações sejam razoavelmente exigidas por tal afiliado para:",
+      "description_12": "oferecer produtos e serviços similares adicionais que atendam às suas necessidades e que sejam entregues de maneira útil e relevante (somente quando você nos autorizou a fazê-lo); e/ou",
+      "description_13": "contas de clientes de serviço.",
+
+      "heading_6": "5. TERCEIROS NÃO AFILIADOS",
+      "description_14": "A ACE HOLDINGS LIMITED não vende, licencia, aluga ou de outra forma divulga informações pessoais a terceiros, exceto conforme descrito nesta Declaração de Privacidade.",
+      "description_15": "A ACE HOLDINGS LIMITED reserva-se o direito de divulgar as informações conforme necessário para relatórios de crédito ou agências de cobrança conforme razoavelmente exigido para fornecer os serviços a você.",
+      "description_16": "Para nos ajudar a melhorar nossos serviços, a ACE HOLDINGS LIMITED pode contratar terceiros para ajudar a executar certas funções internas, como processamento de contas, atendimento, atendimento ao cliente, pesquisas de satisfação do cliente ou outras atividades de coleta de dados relevantes para nossos negócios. O uso das informações compartilhadas também pode ser usado para fornecer aconselhamento profissional, jurídico ou contábil à ACE HOLDINGS LIMITED. O uso de informações compartilhadas é estritamente limitado ao desempenho acima e não é permitido para nenhuma outra finalidade. Todos os terceiros com os quais a ACE HOLDINGS LIMITED compartilha informações pessoais são obrigados a proteger essas informações pessoais de acordo com toda a legislação relevante e de maneira semelhante à maneira como a ACE HOLDINGS LIMITED as protege. A ACE HOLDINGS LIMITED não compartilhará informações pessoais com terceiros que considere que não fornecerão aos seus clientes o nível de proteção exigido.",
+      "description_17": "Onde você foi apresentado a nós por um Apresentador de Negócios, esse Apresentador de Negócios pode ter acesso às suas informações. Você concorda de forma inequívoca e inequívoca com o compartilhamento de informações com esse Apresentador de Negócios.",
+      "description_18": "Você reconhece que, para fornecer serviços a você, pode ser necessário que as informações sejam transferidas para fora do Espaço Econômico Europeu e você concorda com essa transferência.",
+
+      "heading_7": "6. DIVULGAÇÃO REGULATÓRIA",
+      "description_19": "A ACE HOLDINGS LIMITED reserva-se o direito de divulgar informações pessoais a terceiros quando exigido por lei, regulamentação, aplicação da lei ou outra autoridade governamental de uma jurisdição competente para proteger nossos direitos e/ou cumprir tais procedimentos legais. Tal divulgação deve ocorrer com base na necessidade de conhecimento, a menos que instruído de outra forma por uma autoridade reguladora ou outra autoridade governamental. Nessas circunstâncias, a ACE HOLDINGS LIMITED deverá informar expressamente o terceiro sobre a natureza confidencial das informações.",
+
+      "heading_8": "7. RESTRIÇÃO DE RESPONSABILIDADE",
+      "description_20": "A ACE HOLDINGS LIMITED não é responsável pelas políticas de privacidade ou pelo conteúdo dos links dos sites RosyFX e não tem controle do uso ou proteção das informações fornecidas pelo Cliente ou coletadas por esses sites. Sempre que o Cliente optar por criar um link para um site de marca compartilhada ou para um site vinculado, o Cliente poderá ser solicitado a fornecer registro ou outras informações. Observe que essas informações são registradas por terceiros e serão regidas pela política de privacidade desse terceiro.",
+
+      "heading_9": "8. USO DE “COOKIES”",
+      "description_21": "A ACE HOLDINGS LIMITED usa cookies para proteger suas atividades comerciais e melhorar o desempenho do site RosyFX. Os cookies usados pela ACE HOLDINGS LIMITED não contêm informações pessoais ou outras informações confidenciais.",
+      "description_22": "A ACE HOLDINGS LIMITED pode compartilhar estatísticas de uso do site com empresas de publicidade respeitáveis e com suas empresas de marketing afiliadas. As informações coletadas pela empresa de publicidade não são pessoalmente identificáveis.",
+      "description_23": "Para administrar e melhorar o site RosyFX, a ACE HOLDINGS LIMITED pode usar terceiros para rastrear e analisar informações de uso e volume estatístico. O terceiro pode usar cookies para rastrear o comportamento e pode definir cookies em nome da ACE HOLDINGS LIMITED(s). Esses cookies não contêm nenhuma informação de identificação pessoal.",
+
+      "heading_10": "9. ATUALIZAÇÕES DA DECLARAÇÃO DE PRIVACIDADE",
+      "description_24": "Periodicamente, a ACE HOLDINGS LIMITED pode atualizar esta Declaração de Política de Privacidade. Caso a ACE HOLDINGS LIMITED altere materialmente esta Declaração de Política de Privacidade, incluindo como coletamos, processamos ou usamos suas informações pessoais, a Declaração de Política de Privacidade revisada será publicada no site O cliente concorda em aceitar a publicação de uma Declaração de Política de Privacidade revisada eletronicamente no site como notificação real ao Cliente. Qualquer disputa sobre nossa Declaração de Política de Privacidade está sujeita a este Aviso e ao nosso Contrato do Cliente. A ACE HOLDINGS LIMITED incentiva o Cliente a verificar e revisar periodicamente esta política para que o Cliente sempre saiba quais informações a ACE HOLDINGS LIMITED coleta, como a ACE HOLDINGS LIMITED as usa e a quem a ACE HOLDINGS LIMITED pode divulgá-las.",
+
+      "heading_11": "10. ACORDO",
+      "description_25": "Li, compreendi e concordo com os termos desta Declaração de Política de Privacidade e confirmo que tenho plenos poderes e autoridade para cumprir os termos desta Declaração de Política de Privacidade.",
+      "description_26": "Para qualquer outra preocupação, entre em.",
+      "description_27": "contato conosco."
+    }
+  },
+  "refund_policy": {
+    "main_heading": "Política de reembolso",
+
+    "header_1": "A segurança do cliente é um",
+    "header_span": "Consideração chave para RosyFX",
+
+    "main_description": "E levamos muito a sério nosso compromisso de proteger os melhores interesses de nossos clientes.",
+
+    "description_1": "Os clientes podem retirar os fundos restantes de sua conta de negociação a qualquer momento. Quando um cliente envia o resgate, a RosyFX deve se esforçar para processar a solicitação de resgate dentro de um a dois dias úteis. A fim de agilizar o processo, os Clientes são aconselhados a garantir que o formulário de resgate contém os detalhes corretos e foi totalmente preenchido.",
+    "description_2": "A RosyFX deve estar convencida de que o remetente é o Cliente antes de disponibilizar qualquer quantia para a Conta de Negociação do Cliente, caso contrário, a Empresa se reserva o direito de reembolsar/enviar de volta o valor líquido recebido ao remetente pelo mesmo método recebido após o cliente passar por total Procedimento KYC de acordo com nossas políticas KYC e AML.",
+    "description_3": "A RosyFX não aceita nenhum reembolso a uma pessoa ou entidade que não seja a pessoa ou entidade cujo nome aparece na conta, a menos que o departamento de conformidade da RosyFX tenha aprovado especificamente o pagamento.",
+    "description_4": "Erros cometidos pela Empresa durante a transferência de fundos serão reembolsados ao Cliente. Entende-se que, caso o Cliente forneça instruções erradas para uma transferência, a Empresa pode não conseguir corrigir o erro e o Cliente pode sofrer a perda.",
+    "description_5": "A RosyFX não é responsável por quaisquer taxas cobradas por intermediários e outros provedores de serviços de pagamento, incluindo, entre outros, taxas de câmbio, taxas de retirada e quaisquer outras taxas administrativas. Para mais informações sobre cobranças e taxas, entre em contato com o atendimento ao cliente em support@RosyFX.com ou +61 862 302 765.",
+
+    "heading_2": "Cancelamento",
+    "description_6": "Os clientes podem cancelar o pedido de conta a qualquer momento. A RosyFX pode solicitar um motivo para a decisão de cancelamento do cliente em um esforço para melhorar os serviços prestados aos clientes. A RosyFX não pode cancelar nenhuma conta que tenha saldo ou posições abertas. Os clientes são obrigados a resgatar os fundos e fechar as posições abertas atuais antes que a conta seja cancelada. Para obter mais informações sobre o cancelamento do pedido, os clientes devem ler o contrato do cliente RosyFX."
+  },
+  "aml_kyc_policy": {
+    "main_heading": "Política KYC",
+
+    "heading": "A segurança do cliente é um",
+    "heading_span": "Consideração chave para RosyFX",
+
+    "main_description": "E levamos muito a sério nosso compromisso de proteger os melhores interesses de nossos clientes.",
+
+    "description_1": "Implementamos uma série de procedimentos KYC (Know Your Client) projetados para proteger as informações privadas de nossos clientes, mantendo a empresa alinhada com conformidade, melhores práticas e políticas para empresas de serviços financeiros. Eles visam prevenir qualquer ocorrência de roubo de identidade, lavagem de dinheiro, fraude ou atividade terrorista.",
+    "description_2": "Operamos em uma base estrita de tolerância zero. Qualquer atividade fraudulenta será documentada e resultará no fechamento imediato de quaisquer contas de negociação relacionadas a tal atividade. Os fundos depositados em tais contas serão perdidos.",
+    "description_3": "Esses procedimentos protegem seus dados pessoais e suas transações financeiras permanecem seguras. Sem concluir nossos procedimentos KYC, sua atividade comercial será limitada e você não poderá sacar fundos de sua conta.",
+    "description_4": "A abertura e o financiamento de uma conta de negociação conosco exigirá o envio dos seguintes documentos:",
+
+    "1": {
+      "heading_1": "Comprovante de Identidade (foto colorida ou scan), poderá ser apresentado:",
+      "passport": "Passaporte",
+      "nid": "Carteira Nacional de Identidade",
+      "driving_license": "Carteira de motorista",
+
+      "heading_2": "O documento comprovativo de identidade deve conter claramente o seguinte:",
+      "description_1": "Nome completo",
+      "description_2": "Data de nascimento",
+      "description_3": "Data de emissão e vencimento",
+      "description_4": "foto limpa",
+      "description_5": "O período mínimo de validade de um documento de identidade deve ser de pelo menos 6 meses antes da data de vencimento."
+    },
+    "2": {
+      "heading_1": "Foto colorida de um documento que comprove seu endereço e não exceda 90 dias da data de emissão. A foto deve mostrar seu endereço completo de residência, nome e sobrenome, data de emissão e carimbo oficial ou código de barras. Você pode enviar o seu:",
+      "description_1": "conta de luz",
+      "description_2": "extrato bancário",
+      "description_3": "Certificado de residência",
+      "description_4": "Acordo legal"
+    },
+    "3": {
+      "heading_1": "Fotos coloridas de ambos os lados do(s) cartão(ões) assinado(s) que você usou para depositar.",
+      "description_1": "Para sua segurança, cubra o número CVV e o sétimo ao décimo segundo dígito do(s) número(s) do(s) seu(s) cartão(ões), deixando os primeiros seis e os últimos quatro dígitos visíveis em ambos os lados do(s) seu(s) cartão(es). O(s) nome(s) do titular do cartão e a(s) data(s) de validade devem estar visíveis.",
+      "description_2": "Envie os documentos necessários nos formatos de imagem PDF / JPEG / JPG / PNG para o departamento de conformidade por meio da conta do usuário.",
+      "description_3": "Envie seus documentos de verificação o mais rápido possível após a ativação de sua conta de negociação. Observe que sua verificação ausente pode resultar em limitações em sua conta de negociação.",
+      "description_4": "Considere que, com a falta de verificação, quaisquer solicitações de retirada de sua conta de negociação não serão processadas."
+    }
+  },
+  "risk_disclaimer": {
+    "main_heading": "Isenção de responsabilidade de risco",
+
+    "section_1": {
+      "heading": "Negociar é muito",
+      "heading_span": "Negociar é muito",
+
+      "description_1": "Em consideração à RosyFX (“RosyFX”) concordar em celebrar contratos de balcão (“OTC”) para diferenças (“CFDs”) e contratos de câmbio (“Contratos FX”) com os abaixo assinados (doravante referidos como o “Cliente”, “você”, “seu”), o Cliente reconhece, entende e concorda que: A negociação é muito especulativa e arriscada.",
+      "description_2": {
+        "main_description": "A negociação de CFDs e contratos de câmbio é altamente especulativa, envolve um risco significativo de perda e não é adequada para todos os investidores, mas apenas para os clientes que:",
+        "description_1": "entendem e estão dispostos a assumir os riscos econômicos, legais e outros riscos envolvidos;",
+        "description_2": "são experientes e conhecedores da negociação de derivativos e dos tipos de ativos subjacentes;",
+        "description_3": "são financeiramente capazes de assumir perdas significativamente superiores à margem ou depósitos porque os investidores podem perder o valor total do contrato e não apenas a margem ou o depósito."
+      },
+      "description_3": "Neither CFDs nor FX Contracts are appropriate investments for retirement funds. CFD and FX transactions are among the riskiest types of investments and can result in large losses. Customer represents, warrants and agrees that Customer understands these risks, is willing and able, financially and otherwise, to assume the risks of trading CFDs and FX Contracts and that the loss of Customers entire account balance will not change Customers lifestyle."
+    },
+    "section_2": {
+      "heading_1": "Riscos relacionados a posições longas de CFD, ou seja, para compradores de CFDs",
+      "description_1": "Estar comprado em CFD significa que você está comprando os CFDs no mercado, especulando que o preço de mercado do subjacente aumentará entre o momento da compra e venda. Como proprietário de uma posição longa, você geralmente obterá lucro se o preço de mercado do subjacente subir enquanto sua posição longa de CFD estiver aberta. Pelo contrário, você geralmente sofrerá uma perda se o preço de mercado do subjacente cair enquanto sua posição longa de CFD estiver aberta. Sua perda potencial pode, portanto, ser maior do que a margem inicial depositada. Além disso, você pode sofrer uma perda devido ao fechamento de sua posição, caso não tenha liquidez suficiente para a margem em sua conta para manter sua posição aberta.",
+
+      "heading_2": "Riscos relacionados a posições curtas de CFDs, ou seja, para vendedores de CFDs",
+      "description_2": "Estar curto em CFD significa que você está vendendo os CFDs no mercado, especulando que o preço de mercado do subjacente cairá entre o momento da compra e venda. Como proprietário de uma posição curta, você geralmente obterá lucro se o preço de mercado do subjacente cair enquanto sua posição curta de CFD estiver aberta. Pelo contrário, você geralmente sofrerá uma perda se o preço de mercado do subjacente subir enquanto sua posição curta de CFD estiver aberta. Sua perda potencial pode, portanto, ser maior do que a margem inicial depositada. Além disso, você pode sofrer uma perda devido ao fechamento de sua posição, caso não tenha liquidez suficiente para a margem em sua conta para manter sua posição aberta.",
+
+      "heading_3": "Alavancagem alta e margem baixa podem levar a perdas rápidas",
+      "description_3": {
+        "1": "O alto grau de “engrenagem” ou “alavancagem” é uma característica particular dos CFDs e dos contratos FX. O efeito da alavancagem torna o investimento em CFDs mais arriscado do que o investimento no ativo subjacente.",
+        "2": "Isso decorre do sistema de margem aplicável aos CFDs, que geralmente envolve um pequeno depósito em relação ao tamanho da transação, de modo que um movimento de preço relativamente pequeno no ativo subjacente pode ter um efeito dramático desproporcional em sua negociação. Isso pode ser vantajoso e desvantajoso. Um pequeno movimento de preço a seu favor pode gerar um alto retorno sobre o depósito, no entanto, um pequeno movimento de preço contra você pode resultar em perdas significativas. Suas perdas nunca ultrapassarão o saldo de sua conta, que é zerado, caso as perdas sejam superiores ao valor depositado. Tais perdas podem ocorrer rapidamente. Quanto maior a alavancagem, maior o risco. O tamanho da alavancagem, portanto, determina em parte o resultado do investimento."
+      },
+      "heading_4": "Requisitos de Margem",
+      "description_4": "O cliente deve manter o requisito de margem mínima em suas posições abertas em todos os momentos. É responsabilidade do Cliente monitorar o saldo de sua conta. O cliente pode receber uma chamada de margem para depositar dinheiro adicional se a margem na conta em questão for muito baixa. A RosyFX tem o direito de liquidar qualquer ou todas as posições abertas sempre que o requisito de margem mínima não for mantido e isso pode resultar no fechamento dos CFDs ou Contratos FX do Cliente com prejuízo pelo qual você será responsável.",
+
+      "heading_5": "Espalhar",
+      "description_5": {
+        "1": "A diferença entre nosso preço de compra e nosso preço de venda é “Nosso Spread”. Nossos Spreads são definidos a nosso exclusivo critério, uma vez que atuamos como formadores de mercado, e quaisquer alterações entram em vigor imediatamente.",
+        "2": "Informações em relação ao nosso spread, alavancagem, taxas de rolagem e horário de negociação para cada mercado são indicadas nas páginas de condições de negociação CFD e condições de negociação FX do site da RosyFXs."
+      },
+      "heading_6": "Liquidação em dinheiro",
+      "description_6": "O cliente entende que os contratos CFD e FX só podem ser liquidados em dinheiro e a diferença entre o preço de compra e venda determina em parte o resultado do investimento.",
+
+      "heading_7": "Conflitos de interesse",
+      "description_7": "A RosyFX é a contraparte de todas as Transações realizadas sob o Contrato do Cliente e, como tal, os interesses da RosyFX podem estar em conflito com os seus. Nossa Política de Conflitos de Interesse está disponível no site da RosyFX.",
+
+      "heading_8": "Transações OTC",
+      "description_8": "Ao negociar CFDs ou contratos de câmbio conosco, essas transações não serão executadas em uma bolsa de investimento reconhecida ou designada e são conhecidas como transações OTC. Todas as posições realizadas conosco devem ser fechadas conosco e não podem ser fechadas com nenhuma outra entidade. As transações OTC podem envolver maior risco do que investir em contratos na bolsa porque não há mercado de câmbio no qual fechar uma posição aberta. Pode ser impossível liquidar uma posição existente, avaliar o valor da posição decorrente de uma transação OTC ou avaliar a exposição ao risco. Os preços de compra e venda podem não ser cotados por nós, com base nas melhores políticas de execução aplicáveis no mercado. Não há compensação central e nenhuma garantia por qualquer outra parte das obrigações de pagamento da RosyFX ao Cliente, portanto, o Cliente está exposto ao risco de crédito com a RosyFX. O cliente deve procurar apenas a RosyFXs para a execução de todos os contratos na conta do cliente e para devolução de qualquer margem ou garantia.",
+
+      "heading_9": "Preços, margem e avaliações são definidos pela RosyFX e podem ser diferentes dos preços relatados em outros lugares",
+      "description_9": {
+        "1": "A RosyFX fornecerá preços a serem usados na negociação, avaliação das posições do Cliente e determinação dos requisitos de Margem de acordo com suas Políticas e Procedimentos de Negociação e Folhas de Informações de Mercado. O desempenho do seu contrato CFD ou FX dependerá dos preços estabelecidos pela RosyFX e das flutuações do mercado no ativo subjacente ao qual seu contrato se refere. Cada ativo subjacente, portanto, carrega riscos específicos que afetam o resultado do CFD em questão.",
+        "2": "Nossos preços para um determinado mercado são calculados por referência ao preço do ativo subjacente relevante que obtemos de fontes ou bolsas de referência externas de terceiros. Para nossos contratos CFD e FX,",
+        "3": "obtemos dados de preços de participantes do mercado atacadista. Embora a RosyFX espere que esses preços estejam razoavelmente relacionados aos preços disponíveis no mercado, os preços da RosyFX podem variar dos preços disponíveis para bancos e outros participantes do mercado. A RosyFX tem considerável discrição na definição e cobrança de margem. A RosyFX está autorizada a converter fundos na conta do Cliente para margem de e para tal moeda estrangeira a uma taxa de câmbio determinada pela RosyFX a seu exclusivo critério com base nas taxas do mercado monetário então vigentes."
+      },
+      "heading_10": "Direitos aos Ativos Subjacentes",
+      "description_10": "Você não tem direitos ou obrigações em relação aos instrumentos ou ativos subjacentes relacionados aos seus CFDs ou contratos de câmbio. O Cliente entende que os CFDs podem ter diferentes ativos subjacentes, como ações, índices, moedas e commodities, conforme especificado nas páginas de Condições de Negociação de CFD e Condições de Negociação FX do site da RosyFX.",
+
+      "heading_11": "Risco Cambial",
+      "description_11": "Investir em Contratos de Câmbio e CFDs com um ativo subjacente listado em uma moeda diferente da sua moeda base envolve um risco cambial, devido ao fato de que quando o CFD ou Contrato de Câmbio é liquidado em uma moeda diferente da sua moeda base, o valor do seu retorno pode ser afetado por sua conversão para a moeda base.",
+
+      "heading_12": "Negociação com um clique e execução imediata",
+      "description_12": "O sistema de negociação on-line da RosyFX fornece transmissão imediata do pedido do cliente assim que o cliente insere o valor nocional e clica em Comprar/Vender. Isso significa que não há oportunidade de revisar a ordem após clicar em “Comprar/Vender” e as Ordens de Mercado não podem ser canceladas ou modificadas. Esse recurso pode ser diferente de outros sistemas de negociação que você usou. O cliente deve utilizar o Sistema de Negociação Demo para se familiarizar com o Sistema de Negociação Online antes de realmente negociar online com a RosyFX. O cliente reconhece e concorda que, ao usar o sistema de negociação on-line da RosyFX, o cliente concorda com o sistema de um clique e aceita o risco desse recurso de transmissão/execução imediata.",
+
+      "heading_13": "Pedidos por Telefone e Execução Imediata",
+      "description_13": "As Ordens de Mercado executadas por telefone através da Mesa de Operações da RosyFX são concluídas quando a operadora de telefonia da RosyFXs diz negócio ou concluído após a colocação de um pedido pelo Cliente. Após tal confirmação da operadora de telefonia, o Cliente comprou ou vendeu e não pode cancelar a Ordem de Mercado. Ao colocar Ordens de Mercado através do RosyFX Trading Desk, o Cliente reconhece e concorda com tal execução imediata e aceita o risco deste recurso de execução imediata.",
+
+      "heading_14": "A RosyFX não é uma consultora ou fiduciária do cliente",
+      "description_14": "Onde RosyFX fornece recomendações genéricas de mercado, tais recomendações genéricas não constituem uma recomendação pessoal ou conselho de investimento e não consideraram nenhuma de suas circunstâncias pessoais ou seus objetivos de investimento, nem é uma oferta para comprar ou vender, ou a solicitação de uma oferta para comprar ou vender, quaisquer Contratos de Câmbio ou Contratos de Moeda Cruzada. Cada decisão do Cliente de entrar em um CFD ou Contrato FX com a RosyFX e cada decisão sobre se uma transação é apropriada ou apropriada para o Cliente, é uma decisão independente feita pelo Cliente. A RosyFX não está atuando como consultora ou fiduciária do Cliente. O cliente concorda que a RosyFX não tem dever fiduciário para com o cliente e nenhuma responsabilidade em conexão e não é responsável por quaisquer responsabilidades, reclamações, danos, custos e despesas, incluindo honorários advocatícios, incorridos em conexão com o cliente seguindo as recomendações comerciais genéricas da RosyFX ou aceitando ou não tomar qualquer ação com base em qualquer recomendação genérica ou informação fornecida pela RosyFX.",
+
+      "heading_15": "As recomendações não são garantidas",
+      "description_15": "As recomendações genéricas de mercado fornecidas pela RosyFX são baseadas exclusivamente no julgamento do pessoal da RosyFX e devem ser consideradas como tal. O Cliente reconhece que o Cliente realiza quaisquer Transações confiando no próprio julgamento do Cliente. Quaisquer recomendações de mercado fornecidas são apenas genéricas e podem ou não ser consistentes com as posições de mercado ou intenções da RosyFX e/ou suas afiliadas. As recomendações genéricas de mercado da RosyFX são baseadas em informações consideradas confiáveis, mas a RosyFX não pode e não garante a precisão ou integridade das mesmas ou representa que seguir tais recomendações genéricas reduzirá ou eliminará o risco inerente à negociação de CFDs e/ou contratos FX.",
+
+      "heading_16": "Sem garantias de lucro",
+      "description_16": "Não há garantias de lucro nem de evitar perdas ao negociar CFDs e contratos de câmbio. O cliente não recebeu tais garantias da RosyFX ou de qualquer um de seus representantes. O cliente está ciente dos riscos inerentes à negociação de CFDs e contratos de câmbio e é financeiramente capaz de arcar com tais riscos e suportar quaisquer perdas incorridas.",
+
+      "heading_17": "O cliente pode não ser capaz de fechar posições abertas",
+      "description_17": "Devido às condições de mercado que podem causar flutuações incomuns e rápidas nos preços de mercado, ou outras circunstâncias, a RosyFX pode não conseguir fechar a posição do Cliente ao preço especificado pelo Cliente e os controles de risco impostos pela RosyFX podem não funcionar e o Cliente concorda que a RosyFX irá não assume nenhuma responsabilidade por uma falha em fazê-lo.",
+
+      "heading_18": "Negociação na Internet",
+      "description_18": "Quando o Cliente negociar online (através da Internet), a RosyFX não será responsável por quaisquer reclamações, perdas, danos, custos ou despesas causados, direta ou indiretamente, por qualquer mau funcionamento, interrupção ou falha de qualquer transmissão, sistema de comunicação, instalação de computador ou software de negociação, seja pertencente à RosyFX, Cliente, qualquer bolsa ou qualquer sistema de liquidação ou compensação.",
+
+      "heading_19": "Pedidos por telefone",
+      "description_19": "A RosyFX não é responsável pela interrupção, falha ou mau funcionamento das instalações telefônicas e não garante sua disponibilidade telefônica. Para evitar dúvidas, o Cliente está ciente de que a RosyFX pode não estar sempre acessível por telefone. Nesses casos, o Cliente deverá fazer seu pedido por outros meios oferecidos pela RosyFX.",
+
+      "heading_20": "Erros de Citação",
+      "description_20": "Se ocorrer um erro de cotação (incluindo respostas às solicitações do cliente), a RosyFX não é responsável por quaisquer erros resultantes nos saldos da conta e se reserva o direito de fazer as correções ou ajustes necessários na conta relevante. Qualquer disputa decorrente de tais erros de cotação será resolvida com base no valor justo de mercado, conforme determinado pela RosyFX a seu exclusivo critério e agindo de boa fé, do mercado relevante no momento em que tal erro ocorreu. Nos casos em que o mercado predominante representa preços diferentes dos preços que a RosyFX publicou em nossa tela, a RosyFX tentará, com base em seus melhores esforços, executar transações nos preços de mercado predominantes ou próximos deles. Esses preços de mercado predominantes serão os preços que, em última análise, são refletidos nas declarações do Cliente. Isso pode ou não afetar adversamente os ganhos e perdas realizados e não realizados do Cliente.",
+
+      "description_21": "EU/NÓS LEMOS, ENTENDEMOS E CONCORDAMOS COM A DECLARAÇÃO DE DIVULGAÇÃO DE RISCO E AS POLÍTICAS E PROCEDIMENTOS DE NEGOCIAÇÃO ESTABELECIDOS ACIMA"
+    }
+  },
+  "contacts": {
+    "main_heading": "Contate-nos",
+    "description": "PRECISA DE MAIS INFORMAÇÃO?",
+    "heading_1": "Entrar em contato",
+    "description_1": "Analisamos cada mensagem individualmente e faremos o possível para responder o mais rápido possível.",
+
+    "heading_2": "Visite nosso escritório",
+    "description_2": "First Floor, First St Vincent Bank Ltd Building, James Street, Kingstown, St. Vincent and the Grenadines",
+
+    "heading_3": "Envia-nos um email",
+    "description_3": "Estamos prontos para ajudar",
+    "mail": "support@rosyfx.com",
+
+    "heading_4": "Vamos conversar",
+    "description_4": "Falamos 10 línguas",
+    "number": "+61 862 302 765"
+  },
+  "partners": {
+    "main_heading": "Parceiros",
+    "description": "Junte-se a um dos programas de parceria mais lucrativos e lucrativos para IBs e Partners.",
+    "heading": "Tornar-se um",
+    "heading_span": "Parceiro",
+
+    "1": "1",
+    "2": "2",
+    "3": "3",
+
+    "heading_1": "Registro",
+    "heading_2": "Indicar clientes",
+    "heading_3": "Comece a ganhar",
+
+    "button_label": "Conta aberta"
+  },
+  "login": {
+    "main_heading": "Bem-vindo ao RosyFX",
+    "heading_span": "Login do cliente",
+
+    "description": "Explore nossa gama de serviços e ferramentas para ajudá-lo a atingir suas metas de negociação.",
+    "email": "E-mail *",
+    "password": "Senha *",
+
+    "keep_logged_in": "Mantenha-me conectado",
+    "forget_password": "Esqueceu a senha?",
+
+    "button_label": "Entrar",
+
+    "new_user": "Novo usuário?",
+    "create_an_account": "Crie a sua conta aqui"
+  },
+  "faq": {
+    "main_heading": "Perguntas frequentes",
+
+    "heading_1": "Você tem perguntas",
+    "heading_2": "Nós temos respostas",
+
+    "main_heading_1": "Sobre RosyFX",
+    "button_label_1": "Depósitos e Levantamentos",
+    "button_label_2": "Informação da conta",
+    "button_label_3": "Perguntas sobre negociação",
+
+    "section_2": {
+      "heading_1": "O que é RosyFX?",
+      "description_1": "RosyFX é um domínio operado pela ACE HOLDINGS LIMITED, para oferecer o serviço de investimento de recepção e transmissão e os serviços auxiliares de concessão de créditos ou empréstimos a clientes e serviços de câmbio em conexão com a prestação de serviços de investimento.",
+
+      "heading_2": "Que tipo de corretor é RosyFX?",
+      "description_2": "RosyFX é um corretor STP. Straight through Processing (STP) significa que todas as informações sobre o mercado são fornecidas por provedores líquidos (bancos, outras corretoras), o que significa que não existe conflito de interesses entre cliente e corretora. A RosyFX está recebendo remuneração apenas pela provisão de margem ao cliente final, e não recebendo benefícios pela perda do cliente.",
+
+      "heading_3": "RosyFX é regulamentado?",
+      "description_3": {
+        "heading": "RosyFX é um domínio operado pela ACE HOLDINGS LIMITED para oferecer os serviços de investimento de:",
+        "1": "Recepção e transmissão de ordens relativas a um ou mais instrumentos financeiros.",
+        "2": "Execution of orders on behalf of clients.",
+
+        "heading_1": {
+          "main_heading": "Serviços auxiliares de:",
+          "1": "Guarda e administração de instrumentos financeiros por conta de clientes, incluindo custódia e serviços relacionados, como gestão de caixa/garantias",
+          "2": "Concessão de créditos ou empréstimos a um investidor para permitir que ele realize uma transação em um ou mais instrumentos financeiros, onde a empresa que concede o crédito ou empréstimos está mais envolvida na transação",
+          "3": "Serviços cambiais sempre que estes estejam ligados à prestação de serviços de investimento",
+          "4": "Pesquisa de investimento e análise financeira ou outras formas de recomendação geral em relação aos seguintes",
+
+          "heading_2": "instrumentos:",
+          "description_1": "Títulos transferíveis",
+          "description_2": "Instrumentos do mercado monetário",
+          "description_3": "Unidades de participação e organismos de investimento coletivo",
+          "description_4": "Opções, futuros, swaps, contratos de taxa a termo e quaisquer outros contratos de derivativos relacionados a valores mobiliários, moedas, juros ou rendimentos, ou outros instrumentos derivativos, índices financeiros ou medidas financeiras que possam ser liquidados fisicamente ou em dinheiro.",
+          "description_5": "Opções, swaps de futuros, contratos de taxa a termo e quaisquer outros contratos de derivativos relacionados a commodities que devam ser liquidados em dinheiro ou possam ser liquidados em dinheiro por opção de uma das partes (salvo por motivo de inadimplência ou outro evento) *",
+          "description_6": "Opções, futuros, swaps, forwards e quaisquer outros contratos de derivativos relativos a commodities, que possam ser fisicamente liquidados para serem negociados em um mercado regulamentado e/ou em um MTF.",
+          "description_7": "Opções, futuros, swaps, forwards e quaisquer outros contratos derivados relativos a mercadorias, que possam ser liquidados fisicamente não mencionados no ponto 6 da Parte III e não sejam para fins comerciais, que tenham as características de outros instrumentos financeiros derivados, tendo em conta se, inter alia, eles são compensados e liquidados por meio de câmaras de compensação reconhecidas ou estão sujeitos a células de margem regulares.",
+          "description_8": "Instrumentos derivados para diferenças",
+          "description_9": "Contratos financeiros por diferenças",
+          "description_10": "Opções, futuros, swaps, contratos de taxa a termo e quaisquer outros contratos de derivativos relacionados a variáveis climáticas, taxas de frete, licenças de emissão ou taxas de inflação ou outras estatísticas econômicas oficiais que devem ser liquidadas em dinheiro ou podem ser liquidadas em dinheiro na opção de um dos pelas partes (exceto por motivo de inadimplência ou outro evento de rescisão), bem como qualquer outro contrato de derivativo relativo a ativos, direitos, obrigações, índices e medidas não mencionados nesta Parte, que tenham as características de outros instrumentos financeiros derivativos , tendo em conta se, nomeadamente, são negociados num mercado regulamentado ou num MTF, são compensados e liquidados através de câmaras de compensação reconhecidas ou estão sujeitos a células de margem regulares.",
+          "description_11": "* Este instrumento financeiro é fornecido apenas para serviços de câmbio quando estes estão ligados à prestação de serviços de investimento."
+        }
+      },
+
+      "heading_4": "Que segurança eu tenho ao negociar com RosyFX?",
+      "description_4": "Na RosyFX, entendemos que a segurança de seus fundos é uma preocupação primordial. Tenha certeza de que consideramos a implementação e o cumprimento estrito das diretrizes financeiras – tanto internas quanto externas – uma prioridade máxima, e salvaguardas concretas são construídas dentro do sistema para garantir uma experiência de negociação eficiente.",
+
+      "heading_5": "Que tipo de contas de negociação a RosyFX oferece?",
+      "description_5": "A RosyFX oferece 3 tipos de contas de negociação: conta Demo, Standard e Pro. Para saber mais sobre os tipos de conta, visite a página Contas.",
+
+      "heading_6": "Eu sou um comerciante forex novato. Posso usar RosyFX?",
+      "description_6": "De iniciantes a profissionais, a RosyFX atende a todos os níveis de traders Forex! Fornecendo suporte multilíngue 24 horas por dia, 7 dias por semana, a RosyFX oferece uma plataforma flexível com ferramentas poderosas para ajudá-lo em todas as suas necessidades de negociação online.",
+
+      "heading_7": "Quando foi fundada a Blue Sun Capital Ltd?",
+      "description_7": "A ACE HOLDINGS LIMITED foi fundada em 2020 por um grupo de traders profissionais, gerentes de investimentos e engenheiros de software."
+    },
+    "section_3": {
+      "heading": "Depósitos e",
+      "heading_span": "Retirados",
+      "button_label": "Deposits and Withdrawals",
+
+      "heading_1": "Quais métodos de pagamento posso usar para depositar fundos em minha conta?",
+      "description_1": {
+        "main_description": "RosyFX aceita uma ampla variedade de métodos de pagamento, como:",
+        "1": "Cartão de crédito/débito (Visa, MasterCard)",
+        "2": "Transferência bancária",
+
+        "3": "Para obter uma lista completa de métodos de pagamento, faça login em sua conta e vá para a página de depósito."
+      },
+
+      "heading_2": "Qual é o valor mínimo de depósito para negociação online com RosyFX?",
+      "description_2": "O valor mínimo para abrir uma conta RosyFX é de 100 $/€/£.",
+
+      "heading_3": "Quando meus fundos aparecerão em minha conta?",
+      "description_3": {
+        "main_description": "O tempo que leva para os fundos aparecerem em sua conta pode variar dependendo do método de depósito usado:",
+
+        "1": "1. Cartões de Crédito/Débito levam aproximadamente 24 horas para serem processados (a partir do momento do recebimento)",
+        "2": "2. Os depósitos por transferência bancária levam aproximadamente 1 a 2 dias úteis para serem processados (a partir do momento do recebimento)"
+      },
+
+      "heading_4": "Como faço para sacar fundos da minha conta?",
+      "description_4": {
+        "description_1": "Para sacar fundos, você pode fazer login em sua conta e fazer um saque seguindo as instruções ou preencher um formulário de solicitação de saque. Você também pode digitalizar e enviar por e-mail o formulário de solicitação para: support@rosyfx.com. Para processar sua solicitação de retirada de maneira rápida e eficiente, consulte as seguintes diretrizes:",
+        "description_2": "Os fundos podem ser transferidos diretamente para sua conta bancária por transferência eletrônica ou devolvidos para seu cartão de crédito. No entanto, uma retirada só pode ser feita usando exatamente o mesmo método usado para depositar. Por exemplo, se você depositou usando um cartão de crédito específico, seus fundos só podem ser devolvidos para esse mesmo cartão de crédito.",
+        "description_3": "Os pedidos de levantamento são normalmente processados no prazo de três dias úteis a contar da receção de toda a documentação necessária.",
+        "description_4": "Para retirar fundos de sua conta, você deve manter seus requisitos de margem caso tenha posições abertas. Se você solicitar uma retirada de fundos de sua conta e não pudermos atender sem fechar parte de suas posições abertas, não poderemos atender sua solicitação até que você tenha fechado posições suficientes para permitir sua retirada. Observação: em conformidade com os regulamentos internacionais de combate à lavagem de dinheiro, a RosyFX pode transferir fundos apenas para uma conta bancária ou cartão de crédito com seu nome que foi usado para seu depósito inicial. As cópias do cartão de crédito devem ser fornecidas no momento do registro e aprovadas pelo departamento de compliance da RosyFX."
+      },
+
+      "heading_5": "Se eu retirar fundos, quanto tempo leva para receber o dinheiro?",
+      "description_5": {
+        "description_1": "Trabalhamos muito para garantir que seus fundos sejam transferidos de maneira rápida e eficiente. Transferências regulares de dinheiro normalmente levam de três a seis dias úteis para serem aprovadas; no entanto, lembre-se de que existem vários fatores que podem afetar a velocidade com que sua conta é creditada/debitada. Esses fatores incluem, entre outros, o serviço específico que você usa para transferir/solicitar fundos.",
+        "description_2": "Os levantamentos por transferência bancária aprovados são encaminhados para o nosso banco no dia da sua aprovação e normalmente são enviados do nosso banco no mesmo dia. As transferências eletrônicas geralmente acontecem entre vários bancos em vários países, e isso pode demorar um pouco mais, pois as instituições financeiras estrangeiras geralmente exigem alguns dias úteis para enviar fundos ao redor do mundo. Depois de processado, para qualquer saque por transferência bancária ou cartão de crédito, aguarde até 7 dias úteis para que os fundos cheguem à sua conta bancária. Observe:",
+        "1": "Em conformidade com os regulamentos internacionais de combate à lavagem de dinheiro.",
+
+        "2": "A RosyFX tem permissão para transferir fundos apenas para uma conta bancária ou cartão de crédito em seu nome que foi usado para seu depósito inicial.",
+        "3": "As cópias do cartão de crédito devem ser fornecidas no momento do registro e aprovadas pelo departamento de compliance da RosyFX."
+      },
+      "heading_6": "Quem pode me ajudar com dúvidas sobre minha conta e/ou retirada?",
+      "description_6": {
+        "1": "Seu gerente de contas está pronto para ajudá-lo com qualquer dúvida que você possa ter. Para obter uma resposta rápida, você pode entrar em contato com seu gerente de conta por e-mail ou telefone.",
+        "2": "Se o seu gerente de conta não estiver disponível, nossa equipe de suporte estará à disposição para responder às suas perguntas. Tenha certeza de que há sempre um membro da equipe disponível para cuidar de todas as suas necessidades. Sinta-se à vontade para nos contatar a qualquer momento em support@rosyfx.com."
+      }
+    },
+    "section_4": {
+      "heading": "Como faço para abrir uma conta?",
+      "description": {
+        "1": "Projetado pensando em você, abrir uma conta RosyFX é fácil. Basta clicar no link abrir conta de negociação e preencher a página de informações necessárias.",
+        "2": "Depois que sua conta for criada com sucesso, você precisará enviar documentos de verificação para concluir o processo de registro. Estes podem ser enviados por fax, digitalizados ou enviados por e-mail.",
+        "3": "Assim que seus documentos forem aprovados, você poderá financiar sua conta e começar a negociar."
+      },
+
+      "heading_1": "Quais documentos são necessários para abrir uma conta RosyFX?",
+      "description_1": {
+        "1": "Para ativar a sua conta são necessários os seguintes documentos:",
+
+        "2": "Um documento de identificação, como passaporte, carteira de motorista ou identidade oficial",
+        "3": "Comprovante de endereço, como conta de serviços públicos ou extrato bancário (não deve ter mais de 6 meses)"
+      },
+
+      "heading_2": "Eu me registrei, mas não consigo fazer login na minha conta. O que devo fazer?",
+      "description_2": {
+        "1": "Após o registro, você receberá um e-mail de boas-vindas com um link de verificação.",
+        "2": "Por favor, verifique seu e-mail e siga o link. Se o link de verificação não funcionar, tente copiar e colar o link na barra de endereços do seu navegador.",
+        "3": "Se isso não resolver o problema, entre em contato com a equipe de suporte da RosyFX via chat ou e-mail em: support@rosyfx.com"
+      },
+
+      "heading_3": "Minha empresa pode abrir uma conta?",
+      "description_3": "A RosyFX considerará a aceitação de contas corporativas; no entanto, as contas corporativas só serão aceitas após passarem por um rigoroso processo de conformidade. Se você estiver interessado em se inscrever, entre em contato com support@rosyfx.com para obter mais detalhes.",
+
+      "heading_4": "Posso abrir uma conta conjunta?",
+      "description_4": "Sim, para mais informações, entre em contato com support@rosyfx.com.",
+
+      "heading_5": "Como altero os dados da minha conta?",
+      "description_5": "Para alterar os detalhes da sua conta, entre em contato com seu gerente de relacionamento com o cliente ou um membro de nossa equipe de suporte. Você pode nos enviar um e-mail em support@rosyfx.com.",
+
+      "heading_6": "A RosyFX cobra alguma comissão e/ou taxas de negociação?",
+      "description_6": "RosyFX NÃO cobra nenhuma comissão ou taxa como resultado de sua negociação. RosyFX é compensado por seus serviços através do spread Bid/Ask.",
+
+      "heading_7": "A RosyFX deduz algum valor da minha conta para fins fiscais?",
+      "description_7": "A RosyFX não deduz impostos das contas dos clientes. É responsabilidade do cliente individual lidar com suas próprias obrigações fiscais de acordo com a legislação local.",
+
+      "heading_8": "O que acontece com minhas posições abertas no final do dia de negociação?",
+      "description_8": {
+        "1": "Todas as posições abertas são automaticamente roladas ou trocadas para o próximo dia útil. Tradicionalmente, todas as negociações à vista no mercado de câmbio são realizadas por um período de dois dias úteis (quando ocorre a entrega da operação).",
+        "2": "Assim, para evitar a entrega do negócio, as posições são automaticamente fechadas para a data de negociação original e reabertas para a próxima data de negociação. Para dar o máximo de vantagem aos nossos clientes, as taxas de abertura e fechamento do rollover são mantidas iguais às taxas de posição aberta.",
+        "3": "Um prêmio é então adicionado ou subtraído com base na diferença na taxa de juros entre as duas moedas que estão sendo negociadas."
+      },
+
+      "heading_9": "Alguém vai administrar meus investimentos?",
+      "description_9": {
+        "1": "Não. A RosyFX não administra fundos para seus clientes, pois isso pode criar um conflito de interesses. Para permanecermos 100% imparciais e sempre pensando no lucro e interesse de nossos clientes, não administramos fundos.",
+        "2": "No entanto, enquanto você estiver gerenciando seus próprios investimentos, você receberá um gerente de relacionamento com o cliente para ajudá-lo ao longo do caminho.."
+      },
+      "heading_10": "Quais são seus requisitos de margem?",
+      "description_10": {
+        "1": "Os clientes da RosyFX podem negociar usando uma alavancagem de até 500:1, dependendo do ativo que desejam negociar e do tamanho da negociação. Alavancagem de 500:1 significa que um cliente pode abrir uma posição, que é até 500 vezes o tamanho de seu depósito.",
+        "2": "Por exemplo, se um cliente depositou $ 1.000, ele poderá abrir uma negociação de até $ 500.000 em valor."
+      },
+
+      "heading_11": "A negociação Forex/CFD é arriscada?",
+      "description_11": {
+        "1": "Vale a pena ter em mente que a negociação de moeda estrangeira e CFD envolve um alto grau de risco e pode resultar em graves perdas financeiras. A negociação de moeda estrangeira e CFD não é adequada para todos. O alto grau de alavancagem e volatilidade envolvidos na negociação de Forex e CFD significa que as transações podem resultar em pesadas perdas, bem como em ganhos significativos.",
+        "2": "Recomendamos que você negocie com extrema cautela e cuidado. Para obter ajuda e orientação, aproveite ao máximo todos os nossos serviços e nossa equipe de suporte altamente treinada. Também temos uma biblioteca abrangente de recursos educacionais disponíveis em nosso site.",
+        "3": "Para ajudar a minimizar possíveis perdas, também fornecemos ferramentas de negociação essenciais, como ordens de stop loss. No entanto, essas ferramentas não removem o elemento significativo de risco envolvido na negociação forex. Para saber mais sobre os riscos envolvidos na negociação de Forex e CFD, visite a página de isenção de responsabilidade de risco."
+      },
+
+      "heading_12": "A que horas posso negociar?",
+      "description_12": {
+        "1": "O horário de negociação difere de instrumento para instrumento. Mais informações sobre os horários de negociação podem ser encontradas aqui:",
+        "2": "forex"
+      },
+
+      "heading_13": "Por que tenho que preencher o questionário na página da web?",
+      "description_13": {
+        "1": "O corretor segue as leis e regulamentos, que o obrigam a processar a identificação e verificação de seus clientes e receber informações suficientes dos clientes para monitorar o relacionamento comercial contínuo dos clientes devido à política de combate à lavagem de dinheiro.",
+        "2": "Essas informações são necessárias para verificar se as providências tomadas pelo cliente estão de acordo com as informações prestadas e de acordo com as informações avaliadas pela corretora."
+      }
+    },
+    "section_5": {
+      "heading_1": "Quantas plataformas de negociação estão disponíveis?",
+      "description_1": {
+        "title": "RosyFX está oferecendo 3 plataformas de negociação:",
+
+        "1": "MetaTrader 4: aproveite a melhor execução de ordem com um clique, análise técnica avançada e recursos de automação incomparáveis!",
+        "2": "MT4 WebTrader: uma plataforma web amigável, que sincroniza todas as negociações com sua conta MT4.",
+        "3": "Mobile &Tablet Trader: uma plataforma de negociação otimizada para tablet e celular totalmente sincronizada com sua conta MT4.",
+
+        "description": "Para saber mais sobre as plataformas de negociação, visite a página Plataformas de negociação."
+      },
+
+      "heading_2": "Quais são os sistemas recomendados para negociação?",
+      "description_2": {
+        "title": "Os requisitos de PC recomendados são:",
+
+        "1": "Processador: Intel Pentium IV 3.0GHz",
+        "2": "Memória: 512 MB de RAM ou superior",
+        "3": "Monitor: Uma resolução mínima de 800x600 pixels",
+        "4": "Sistema operacional: Microsoft Windows XP, Windows 2000",
+        "5": "Navegador da Web: Microsoft Internet Explorer 6.X",
+        "6": "Conexão com a Internet: Conexão com a Internet de banda larga com velocidade mínima de download de 1,5 MB Nota: Os sistemas que não atendem a esses requisitos podem ter funcionalidade limitada."
+      },
+
+      "heading_3": "O que é stop out/chamada de margem?",
+      "description_3": {
+        "1": "A chamada de margem está em 60% do nível de margem. Se você atingir a chamada de margem, será direcionado para fechar algumas de suas posições abertas ou fazer um depósito para fortalecer suas posições abertas atuais.",
+        "2": "Stop out está em 40% do nível de margem. Se o seu nível de margem diminuir para 40%, suas posições começarão a fechar automaticamente. Primeiro estão sempre as posições fechadas com a maior perda."
+      },
+
+      "heading_4": "O que é Trailing stop?",
+      "description_4": {
+        "1": "Um Trailing Stop é uma ordem de stop-loss que se ajusta automaticamente à medida que a taxa de mercado se move na direção de sua posição aberta. O preço final literalmente acompanha o aumento dos preços, permitindo que você obtenha mais lucros enquanto garante que, se os preços caírem repentinamente, você ainda estará protegido pela ordem Stop-Loss automática.",
+        "2": "Nota importante para a plataforma MetaTrader 4: Como o Trailing Stop funciona no lado do terminal do cliente, ao contrário do Stop Loss e Take Profit que funcionam no lado do servidor, ele não funcionará se o terminal do cliente estiver fechado.",
+        "3": "Se o terminal do cliente estiver fechado, apenas o Stop Loss que foi colocado pelo Trailing Stop antes do fechamento do terminal pode ser acionado."
+      },
+
+      "heading_5": "o que é forex?",
+      "description_5": "Em suma, o mercado de câmbio, também conhecido como mercado “Forex” ou “FX“, é o maior e mais líquido mercado financeiro do mundo, com um volume diário de negócios de aproximadamente 4 trilhões de dólares americanos. Forex trading é a compra e venda da moeda de um país contra outro. Para saber mais sobre o mercado Forex, consulte a página Forex.",
+
+      "heading_6": "o que é espalhado?",
+      "description_6": "O spread é a diferença entre o preço bid (preço de venda) e o preço ask (preço de compra). Exemplo: Se a cotação do par EUR/USD for 1,2910 contra 1,2913, então o spread é de 3 pips.",
+
+      "heading_7": "o que é pip?",
+      "description_7": "Pip é um acrônimo para Price Interest Point. Isso representa o menor valor de medição para moedas Forex.",
+
+      "heading_8": "Como funciona uma ordem Stop Loss?",
+      "description_8": {
+        "1": "Ordens Stop Loss são usadas para reduzir o risco fechando uma negociação perdedora assim que o mercado passa um valor de gatilho pré-determinado pelo trader. A RosyFX fará o possível para preencher sua negociação no preço solicitado.",
+        "2": "No entanto, como a ordem fechará sua negociação com o melhor preço disponível, uma vez ativada, o Stop Loss está exposto a um mercado aberto. Por uma questão de transparência absoluta, isso significa que a RosyFX não pode garantir um Stop Loss."
+      },
+
+      "heading_9": "Quando o mercado forex está aberto para negociação?",
+      "description_9": "O mercado Forex está aberto para negociação 24 horas por dia, cinco dias por semana. O mercado abre no domingo à noite às 22:00 GMT, quando os mercados asiáticos abrem, e termina na sexta-feira à noite, quando os mercados de Nova York fecham.",
+
+      "heading_10": "o que é rollover?",
+      "description_10": {
+        "1": "Um rollover é quando os juros são pagos ou deduzidos das posições abertas. A negociação de moedas sempre envolve duas moedas diferentes com sua própria taxa de juros individual. Ao comprar uma moeda com uma taxa de juros mais alta do que a moeda vendida, você receberá juros.",
+        "2": "No entanto, quando você compra uma moeda com uma taxa de juros menor do que a moeda vendida, você pagará juros e o dinheiro será deduzido de sua conta. Um rollover aplica-se apenas a negociações durante a noite."
+      }
+    }
+  },
+  "register": {
+    "main_heading": "Criar uma conta",
+    "heading_span": "Comece a negociar Forex, metais e CFDs",
+
+    "live": "Conta ativa",
+    "demo": "Conta de Demonstração",
+
+    "note": "* Os itens selecionados são obrigatórios",
+
+    "first_name": "Primeiro nome *",
+    "last_name": "Sobrenome *",
+
+    "username": "Nome de usuário/e-mail *",
+    "form_control": "controle de formulário",
+
+    "phone": "Número de telefone *",
+    "referal": "Referência (se aplicável)",
+
+    "income": "Receita Bruta Anual Estimada",
+    "address_1": "Endereço 1 *",
+    "address_2": "Endereço 2",
+
+    "country": "País *",
+    "zip_code": "Código postal *",
+
+    "register_as_company": "Registre-se como uma empresa?",
+    "date_birth": "Data de nascimento *",
+
+    "account_type": "tipo de conta *",
+    "currency": "Moeda *",
+
+    "leverage": "Aproveitar",
+
+    "password": "Senha",
+
+    "placeholder_password": "Senha",
+
+    "1": "Senha da Área do Membro. Deixe em branco para gerar automaticamente'",
+    "2": "Opt-In para Newsletter?",
+
+    "declare": "Declaro que li atentamente e compreendi completamente",
+    "privacy_policy": "Política de Privacidade",
+    "risk": "Divulgação de risco",
+    "terms_conditions": "Termos e Condições",
+    "agree": "com o que concordo plenamente.",
+
+    "button_label": "REGISTRO"
+  },
+  "glossary": {
+    "main_heading": "Glossário",
+
+    "heading": "Familiarize-se com",
+    "heading_span": "terms de negociação",
+    "description": "Use esta extensa coleção de definições de negociação para entender os mercados financeiros.",
+    "load_more": "CARREGUE MAIS",
+
+    "terms": {
+      "term_1": {
+        "name": "ADI",
+        "text": "ADI significa Average Directional Index. É usado como um barômetro técnico da força ou fraqueza das tendências nos mercados financeiros."
+      },
+      "term_2": {
+        "name": "Negociação Anônima",
+        "text": "Os comerciantes podem optar por não revelar sua identidade ao fazer ofertas ou lances nos mercados financeiros."
+      },
+      "term_3": {
+        "name": "Agradecimento",
+        "text": "O aumento no valor monetário de qualquer instrumento financeiro em resposta ao mercado."
+      },
+      "term_4": {
+        "name": "Arbitragem",
+        "text": "A compra e venda simultânea de um ativo para aumentar os lucros com riscos mínimos."
+      },
+      "term_5": {
+        "name": "Perguntar taxa",
+        "text": "O preço mais baixo que um vendedor está disposto a vender um ativo financeiro, também conhecido como oferta."
+      },
+      "term_6": {
+        "name": "Recurso",
+        "text": "O instrumento no qual um contrato é baseado. Pode ser uma ação, título ou mercadoria."
+      },
+      "term_7": {
+        "name": "Localização do recurso",
+        "text": "Uma estratégia de investimento que visa equilibrar risco e recompensa, distribuindo os ativos de um portfólio de acordo com os objetivos e a tolerância ao risco de um trader."
+      },
+      "term_8": {
+        "name": "No Dinheiro",
+        "text": "Este term refere-se a uma negociação empatada, não significando nem lucro nem prejuízo."
+      },
+      "term_9": {
+        "name": "Procurador responsável",
+        "text": "Um indivíduo autorizado a fazer transações nos mercados financeiros em name do comerciante."
+      },
+      "term_10": {
+        "name": "Revendedor Autorizado",
+        "text": "Uma entidade certificada que realiza transações em moeda estrangeira."
+      },
+      "term_11": {
+        "name": "Longe do Mercado",
+        "text": "Uma expressão usada quando um preço de compra ou venda se desvia do preço de mercado de ativos."
+      },
+      "term_12": {
+        "name": "Altcoin",
+        "text": "Este term refere-se a criptomoedas de baixa capitalização de mercado. Originou-se como um term para descrever todas as criptomoedas 'moedas alternativas' diferentes de bitcoin."
+      },
+      "term_13": {
+        "name": "Aussie",
+        "text": "Uma gíria para o par de moedas AUD/USD."
+      },
+      "term_14": {
+        "name": "Balança de Pagamentos (BOP)",
+        "text": "Um registro que rastreia as transações de um país durante um determinado período de tempo."
+      },
+      "term_15": {
+        "name": "Balanço Comercial",
+        "text": "A diferença de valor entre as importações e exportações de um país durante um determinado período de tempo."
+      },
+      "term_16": {
+        "name": "Taxa Bancária",
+        "text": "A taxa de juros que o banco central de um país concede aos bancos comerciais domésticos."
+      },
+      "term_17": {
+        "name": "Gráficos de barras",
+        "text": "Um diagrama comum usado para estudar a ação do preço de pares de moedas."
+      },
+      "term_18": {
+        "name": "Moeda base",
+        "text": "Um term usado na negociação de câmbio. Ao cotar pares de moedas, é a primeira moeda contra a qual você negocia a moeda secundária/cotada. Exemplo: EUR/USD - o Euro é a moeda base e o dólar americano é a moeda de cotação."
+      },
+      "term_19": {
+        "name": "Urso",
+        "text": "Um investidor que acredita que o preço de um determinado ativo cairá e tenta lucrar com uma queda nos preços das ações."
+      },
+      "term_20": {
+        "name": "Mercado em baixa",
+        "text": "O mercado financeiro em que os preços dos ativos estão caindo, incentivando a venda."
+      },
+      "term_21": {
+        "name": "Oferta",
+        "text": "O preço de venda de um ativo financeiro específico."
+      },
+      "term_22": {
+        "name": "Grande Figura",
+        "text": "Os primeiros dois a três dígitos de uma taxa de câmbio ou preço."
+      },
+      "term_23": {
+        "name": "Blue Chip",
+        "text": "Ações de empresas bem estabelecidas, consideradas um investimento confiável."
+      },
+      "term_24": {
+        "name": "Empatar",
+        "text": "É quando não há lucro ou perda experimentado ao fazer uma transação."
+      },
+      "term_25": {
+        "name": "Acordo de Bretton Woods",
+        "text": "Um acordo para um sistema monetário internacional. Este acordo foi assinado em 1944 nos Estados Unidos."
+      },
+      "term_26": {
+        "name": "Corretor",
+        "text": "Uma pessoa que compra e vende ativos financeiros como intermediário entre comerciantes de varejo e corporações financeiras estabelecidas."
+      },
+      "term_27": {
+        "name": "Touro",
+        "text": "Um investidor que acredita que o preço de um determinado ativo sobe cai e tenta lucrar com um aumento nos preços das ações."
+      },
+      "term_28": {
+        "name": "Mercado em alta",
+        "text": "O mercado financeiro no qual os preços dos ativos estão subindo, incentivando a compra."
+      },
+      "term_29": {
+        "name": "Bloco",
+        "text": "Uma coleção de transações de definição de dados que ocorreram em um determinado período de tempo. Após serem publicados, os blocos não podem ser alterados e, portanto, são vinculados a outros blocos para criar uma cadeia de dados."
+      },
+      "term_30": {
+        "name": "Blockchain",
+        "text": "Um registro de transações feitas em criptomoedas que são registradas cronologicamente."
+      },
+      "term_31": {
+        "name": "Libra britânica",
+        "text": "Uma gíria para a moeda do Reino Unido, abreviação de libra esterlina."
+      },
+      "term_32": {
+        "name": "Ordem limitada de compra",
+        "text": "Uma ordem para comprar um título ou abaixo de um preço especificado."
+      },
+      "term_33": {
+        "name": "Opção de compra",
+        "text": "Um acordo que permite a um comprador a opção de comprar um ativo financeiro a um preço especificado em um determinado período de tempo. O comprador, entretanto, não é obrigado a comprar o ativo."
+      },
+      "term_34": {
+        "name": "CCI",
+        "text": "CCI significa Commodity Channel Index. Esta é uma ferramenta técnica de negociação regularmente usada para medir quando um instrumento financeiro foi sobrecomprado ou sobrevendido."
+      },
+      "term_35": {
+        "name": "CFD",
+        "text": "CFD significa Contract for Difference. Este é um contrato entre um investidor e uma instituição de investimento. Ao final do contrato, as partes envolvidas trocam a diferença monetária entre os preços de abertura e fechamento do instrumento financeiro envolvido no o contrato."
+      },
+      "term_36": {
+        "name": "Comissão",
+        "text": "Uma taxa paga à corretora que facilitou uma transação."
+      },
+      "term_37": {
+        "name": "Commodities",
+        "text": "Refere-se a matérias-primas, incluindo metais preciosos, petróleo e café."
+      },
+      "term_38": {
+        "name": "Pares de Mercadorias",
+        "text": "Os pares de câmbio que estão altamente correlacionados com as flutuações de commodities nos mercados financeiros globais. Esses três pares são USD/CAD, AUD/USD e NZD/USD."
+      },
+      "term_39": {
+        "name": "Moeda do contador",
+        "text": "Um term usado na negociação de câmbio. Ao cotar pares de moedas, é a segunda moeda que você compara com a moeda base."
+      },
+      "term_40": {
+        "name": "CPI",
+        "text": "CPI significa Índice de Preços ao Consumidor. Uma medida estatística que examina as mudanças no poder de compra de uma moeda e a taxa de inflação."
+      },
+      "term_41": {
+        "name": "Transação entre Moedas",
+        "text": "Uma transação que envolve duas ou mais moedas sendo negociadas ao mesmo tempo."
+      },
+      "term_42": {
+        "name": "Moeda",
+        "text": "Um ativo financeiro que pode ser negociado, geralmente em pares."
+      },
+      "term_43": {
+        "name": "Negociação de moeda",
+        "text": "A troca de uma moeda por outra moeda."
+      },
+      "term_44": {
+        "name": "Centralização",
+        "text": "Qualquer sistema controlado por partes confiáveis, como bancos ou transmissores de dinheiro. Todos os ativos financeiros que não sejam criptomoedas têm um mercado centralizado."
+      },
+      "term_45": {
+        "name": "Cabo",
+        "text": "Uma gíria na negociação Forex para o par de moedas GBP/USD (Libra Esterlina vs. Dólar Americano)."
+      },
+      "term_46": {
+        "name": "Correlação",
+        "text": "Um term estatístico para estabelecer uma relação entre dois ou mais ativos independentes."
+      },
+      "term_47": {
+        "name": "Dia de Negociação",
+        "text": "É quando as posições no mercado são abertas e fechadas no mesmo dia, em vez de serem mantidas durante a noite."
+      },
+      "term_48": {
+        "name": "Descentralização",
+        "text": "A criptomoeda permitiu a descentralização dos mercados. Ao contrário de todos os outros ativos financeiros, a criptomoeda não precisa ser negociada por uma parte confiável."
+      },
+      "term_49": {
+        "name": "Déficit",
+        "text": "Isso ocorre quando passivos (perdas) excedem ativos (lucros)."
+      },
+      "term_50": {
+        "name": "Comerciante de Demonstração",
+        "text": "Uma conta que usa dinheiro virtual, permitindo que um potencial investidor se acostume a negociar no mercado antes de investir dinheiro real."
+      },
+      "term_51": {
+        "name": "Depreciação",
+        "text": "A diminuição no valor monetário de qualquer instrumento financeiro em resposta ao mercado."
+      },
+      "term_52": {
+        "name": "derivado",
+        "text": "Um contrato financeiro com um valor derivado de um ativo variável subjacente."
+      },
+      "term_53": {
+        "name": "Dividendo",
+        "text": "Uma parte dos lucros de uma empresa paga aos acionistas regularmente."
+      },
+      "term_54": {
+        "name": "DAX",
+        "text": "O principal índice de ações da Alemanha é chamado Deutsche Atkien Xchange, ou DAX para abreviar."
+      },
+      "term_55": {
+        "name": "Mesa de Negociação",
+        "text": "É aqui que um dealer facilita as transações."
+      },
+      "term_56": {
+        "name": "Profundidade do Mercado",
+        "text": "O volume de ordens abertas de compra e venda para um determinado par de moedas em um determinado momento."
+      },
+      "term_57": {
+        "name": "Ganhos por ação (EPS)",
+        "text": "A parte dos lucros de uma empresa alocada para cada ação ordinária."
+      },
+      "term_58": {
+        "name": "Corretor ECN",
+        "text": "ECN significa Electronic Communication Networks. Um ECN Broker é um especialista financeiro que usa ECN's para permitir aos clientes acesso direto aos mercados."
+      },
+      "term_59": {
+        "name": "Conselheiro Especialista",
+        "text": "Um robô de negociação automatizado dentro da plataforma de negociação que permite que os processos analíticos e de negociação sejam realizados com controle manual limitado."
+      },
+      "term_60": {
+        "name": "Tempo de expiração",
+        "text": "A data e hora em que uma negociação envolvendo um instrumento financeiro expira."
+      },
+      "term_61": {
+        "name": "Banco Central Europeu (BCE)",
+        "text": "O Banco Central Europeu é responsável pela política monetária dos países que adotaram o Euro como moeda."
+      },
+      "term_62": {
+        "name": "Exótico",
+        "text": "Moedas exóticas são aquelas menos negociadas do que as principais moedas."
+      },
+      "term_63": {
+        "name": "Reserva Federal",
+        "text": "O banco central dos Estados Unidos, responsável por supervisionar o sistema financeiro do país. Esta é a principal instituição financeira do mundo."
+      },
+      "term_64": {
+        "name": "Fibonacci",
+        "text": "Uma ferramenta técnica comum usada por analistas para identificar níveis potenciais de suporte e resistência com base em números-chave."
+      },
+      "term_65": {
+        "name": "Preencher",
+        "text": "O ato de executar uma transação em uma plataforma de negociação."
+      },
+      "term_66": {
+        "name": "Instrumento Financeiro",
+        "text": "O ativo que é usado em uma negociação. Pode ser uma ação, título ou commodity."
+      },
+      "term_67": {
+        "name": "Plano",
+        "text": "Descreve uma situação em que um trader não possui nenhuma posição em execução no mercado."
+      },
+      "term_68": {
+        "name": "Forex",
+        "text": "Uma gíria para Câmbio."
+      },
+      "term_69": {
+        "name": "Análise Fundamental",
+        "text": "Um método de análise de mercado usado para avaliar fatores econômicos, financeiros e outros fatores qualitativos e quantitativos relacionados que afetam o desempenho de um determinado instrumento financeiro."
+      },
+      "term_70": {
+        "name": "Fiat",
+        "text": "Este é o term usado para descrever moedas tradicionais em oposição às criptomoedas."
+      },
+      "term_71": {
+        "name": "FUD",
+        "text": "FUD é um acrônimo que significa medo, incerteza e dúvida. É frequentemente usado por traders para fazer referência à atitude negativa em torno da criptomoeda."
+      },
+      "term_72": {
+        "name": "Falta",
+        "text": "A diferença de valor entre o preço de fechamento de um período de negociação e o preço de abertura do período de negociação seguinte."
+      },
+      "term_73": {
+        "name": "PIB",
+        "text": "PIB significa Produto Interno Bruto. Ele determina o valor total dos serviços e bens produzidos de um país em um determinado período de tempo e é usado para avaliar a situação econômica de um país."
+      },
+      "term_74": {
+        "name": "GTC",
+        "text": "GTC significa Good Till Cancelled. Esta é uma ordem para comprar ou vender um ativo financeiro específico a um preço específico, que só é válida até que um trader opte por cancelá-la."
+      },
+      "term_75": {
+        "name": "Cobertura",
+        "text": "Uma estratégia usada para reduzir o risco de perdas ao negociar nos mercados financeiros."
+      },
+      "term_76": {
+        "name": "No dinheiro",
+        "text": "Uma frase para descrever um trader obtendo lucro."
+      },
+      "term_77": {
+        "name": "Índice",
+        "text": "Uma média ponderada de preços de ações pré-selecionados que é usada para medir uma seção do mercado de ações. Alguns índices populares são NASDAQ, Dow Jones e S&P 500."
+      },
+      "term_78": {
+        "name": "Inflação",
+        "text": "Um aumento progressivo nos preços de bens e serviços dentro de um país, que por sua vez reduz o valor de compra da moeda desse país."
+      },
+      "term_79": {
+        "name": "Taxa Interbancária",
+        "text": "A taxa de juros sobre empréstimos que um banco oferecerá a outro banco."
+      },
+      "term_80": {
+        "name": "Margem inicial",
+        "text": "O primeiro depósito que um cliente faz, que então determina seu tamanho máximo de negociação."
+      },
+      "term_81": {
+        "name": "Requisito de Margem Inicial",
+        "text": "O valor mínimo para um depósito entrar em uma posição de negociação."
+      },
+      "term_82": {
+        "name": "Taxa de juros",
+        "text": "A taxa paga pelo empréstimo de dinheiro. As taxas de juros variam conforme são afetadas pelos Bancos Centrais e pela inflação."
+      },
+      "term_83": {
+        "name": "Apresentação do Corretor",
+        "text": "Uma corretora com relacionamento direto com o cliente, mas que delega as transações e negociações a outra corretora."
+      },
+      "term_84": {
+        "name": "Iene Japonês",
+        "text": "A moeda no Japão."
+      },
+      "term_85": {
+        "name": "Jobber",
+        "text": "Um term usado para um trader que pretende obter lucros acumulados abrindo e fechando posições de curto prazo."
+      },
+      "term_86": {
+        "name": "Matar",
+        "text": "Uma ordem que não puder ser totalmente atendida no mercado será cancelada ou eliminada."
+      },
+      "term_87": {
+        "name": "Kiwi",
+        "text": "Uma gíria para o dólar da Nova Zelândia"
+      },
+      "term_88": {
+        "name": "Indicadores de atraso",
+        "text": "Estatísticas que mudam depois que as tendências da economia já começaram a mudar."
+      },
+      "term_89": {
+        "name": "Indicadores Principais",
+        "text": "Estatísticas que ajudam a prever as tendências de desempenho econômico de um país."
+      },
+      "term_90": {
+        "name": "Alavancagem",
+        "text": "Uma ferramenta financeira que permite a um investidor ampliar sua exposição ao mercado além de seu capital inicial."
+      },
+      "term_91": {
+        "name": "Liquidez",
+        "text": "O grau em que um ativo pode ser comprado ou vendido sem afetar seu preço."
+      },
+      "term_92": {
+        "name": "Longo",
+        "text": "Abrir uma posição de compra no mercado é referido como 'going long'"
+      },
+      "term_93": {
+        "name": "Ordem Limite",
+        "text": "Uma direção para comprar ou vender um ativo a um preço especificado ou melhor."
+      },
+      "term_94": {
+        "name": "Gráfico de linhas",
+        "text": "Uma série de linhas conectando vários níveis de preço em um determinado período de tempo."
+      },
+      "term_95": {
+        "name": "Lote",
+        "text": "O número padrão de unidades necessárias para negociar um ativo financeiro, conforme determinado pela bolsa."
+      },
+      "term_96": {
+        "name": "Margem",
+        "text": "O tamanho do depósito necessário para garantir que as posições em execução no mercado sejam mantidas ativas."
+      },
+      "term_97": {
+        "name": "Conta de Margem",
+        "text": "Uma conta fornecida por corretores que permite aos investidores comprar títulos emprestados de fundos."
+      },
+      "term_98": {
+        "name": "Chamada de Margem",
+        "text": "A exigência feita por um corretor de que um comerciante faça um depósito adicional para cobrir possíveis perdas."
+      },
+      "term_99": {
+        "name": "Criador de Mercado",
+        "text": "Uma corretora que compra e vende ativos financeiros para fornecer liquidez aos mercados."
+      },
+      "term_100": {
+        "name": "Preço de mercado",
+        "text": "O preço atual de um ativo financeiro sendo negociado no mercado."
+      },
+      "term_101": {
+        "name": "Meu e Seu",
+        "text": "terms usados ​​para descrever a intenção de comprar ou vender. 'Meu' é usado na compra e 'seu' é usado na venda."
+      },
+      "term_102": {
+        "name": "Mercado Monetário",
+        "text": "Segmento do mercado financeiro que envolve transações de ativos financeiros com vencimentos rápidos e alta liquidez."
+      },
+      "term_103": {
+        "name": "Movendo Acerage Convergence Divergence (MACD)",
+        "text": "Um indicador técnico usado para determinar a tendência do mercado."
+      },
+      "term_104": {
+        "name": "Mineiros/Mineração",
+        "text": "O dever de um minerador é manter as blockchains seguras, confirmando as transações e marcando as entradas."
+      },
+      "term_105": {
+        "name": "Alavancagem Máxima",
+        "text": "A maior quantidade de alavancagem disponível no depósito inicial."
+      },
+      "term_106": {
+        "name": "MetaTrader4",
+        "text": "A plataforma de negociação inovadora usada para fornecer serviços de corretagem para traders em vários ativos financeiros."
+      },
+      "term_107": {
+        "name": "Policia Monetária",
+        "text": "A política relativa às taxas de juros e oferta de moeda implementada pelo banco central de um determinado país."
+      },
+      "term_108": {
+        "name": "Média Móvel",
+        "text": "Um indicador técnico usado para filtrar as anormalidades para permitir que o foco esteja na média estatística da curva original."
+      },
+      "term_109": {
+        "name": "NASDAQ",
+        "text": "A maior bolsa de valores eletrônica dos Estados Unidos."
+      },
+      "term_110": {
+        "name": "Ruído",
+        "text": "Anormalidades no mercado que dificultam o foco nas médias estatísticas usadas para tomar uma decisão de negociação."
+      },
+      "term_111": {
+        "name": "NYSE",
+        "text": "Bolsa de Valores de Nova York."
+      },
+      "term_112": {
+        "name": "NFP",
+        "text": "Significa Non Farm Payroll. Um relatório mensal feito pelo Departamento de Trabalho dos Estados Unidos, que é usado para determinar a situação do mercado de trabalho, excluindo os agricultores."
+      },
+      "term_113": {
+        "name": "Posição Líquida",
+        "text": "O valor de uma posição depois de subtrair o preço do investimento inicial."
+      },
+      "term_114": {
+        "name": "Comerciante de Notícias",
+        "text": "Um trader que baseia as decisões de investimento em como os anúncios de notícias globais impactam os mercados."
+      },
+      "term_115": {
+        "name": "NÃO",
+        "text": "O símbolo da moeda da coroa norueguesa."
+      },
+      "term_116": {
+        "name": "NZD",
+        "text": "O símbolo monetário do dólar neozelandês."
+      },
+      "term_117": {
+        "name": "Pedido Aberto",
+        "text": "Uma posição que está em execução no mercado até que o trader decida fechá-la."
+      },
+      "term_118": {
+        "name": "Pedido",
+        "text": "Um pedido a um corretor para realizar uma transação de um instrumento financeiro a um preço atual."
+      },
+      "term_119": {
+        "name": "Fora do Dinheiro",
+        "text": "Um term usado para descrever uma perda no comércio."
+      },
+      "term_120": {
+        "name": "Posição durante a noite",
+        "text": "Uma posição que é mantida aberta até o próximo dia de negociação."
+      },
+      "term_121": {
+        "name": "Overtrading",
+        "text": "O hábito arriscado de se envolver em transações comerciais excessivas sem a pesquisa apropriada."
+      },
+      "term_122": {
+        "name": "Oferta",
+        "text": "O preço definido por um vendedor pelo qual ele está disposto a vender."
+      },
+      "term_123": {
+        "name": "Opções",
+        "text": "A oportunidade, mas não a obrigação, de realizar uma transação envolvendo um ativo."
+      },
+      "term_124": {
+        "name": "Osciladores",
+        "text": "Ferramentas de análise técnica usando um indicador que flutua entre os níveis de sobrecompra e sobrevenda, usado para expressar sinais de compra e venda."
+      },
+      "term_125": {
+        "name": "Um cancela o outro pedido (OCO)",
+        "text": "Duas transações executadas ao mesmo tempo, onde a conclusão de uma cancela automaticamente a outra."
+      },
+      "term_126": {
+        "name": "Pagamento",
+        "text": "O valor total dos ganhos de uma transação bem-sucedida."
+      },
+      "term_127": {
+        "name": "PIP",
+        "text": "Significa Percentage In Point. A menor unidade de medida usada na negociação Forex para determinar as taxas de câmbio entre várias moedas."
+      },
+      "term_128": {
+        "name": "Plataforma",
+        "text": "O sistema usado para realizar transações fornecidas por uma corretora."
+      },
+      "term_129": {
+        "name": "Relação preço/lucro (P/L)",
+        "text": "A proporção usada para avaliar uma empresa comparando o preço atual da ação com o lucro por ação."
+      },
+      "term_130": {
+        "name": "Valor Principal",
+        "text": "O capital inicial que um trader investe para transações no mercado financeiro."
+      },
+      "term_131": {
+        "name": "Opção de venda",
+        "text": "Um acordo que permite a um vendedor a opção de vender um ativo financeiro a um preço especificado em um determinado período de tempo. O vendedor, entretanto, não é obrigado a vender o ativo."
+      },
+      "term_132": {
+        "name": "Chave Privada",
+        "text": "Assinatura eletrônica usada para desbloquear a carteira de criptomoedas e assinar transações."
+      },
+      "term_133": {
+        "name": "Chave pública",
+        "text": "O código da criptomoeda fornecido ao solicitar um pagamento."
+      },
+      "term_134": {
+        "name": "Bombear e despejar",
+        "text": "O processo de inflar o valor de um ativo comprando uma grande quantidade na esperança de que outros façam o mesmo. Posteriormente, o comprador inicial venderá seus ativos na esperança de lucrar com o preço inflado."
+      },
+      "term_135": {
+        "name": "Easing Quantitativo",
+        "text": "Um método usado pelos bancos centrais para estimular o crescimento econômico. Isso é feito por meio da compra de títulos do governo para aumentar o capital e a liquidez das instituições financeiras."
+      },
+      "term_136": {
+        "name": "Moeda da cotação",
+        "text": "Um term usado na negociação de câmbio. Ao cotar pares de moedas, é a segunda moeda que você negocia contra a primeira moeda."
+      },
+      "term_137": {
+        "name": "Citação",
+        "text": "O preço mais recente acordado entre comprador e vendedor."
+      },
+      "term_138": {
+        "name": "Taxa",
+        "text": "Uma taxa/taxa de câmbio é o preço comparado de uma moeda com outra."
+      },
+      "term_139": {
+        "name": "Reembolso",
+        "text": "A parcela de juros ou dividendos de um ativo que é devolvida ao investidor no final de uma negociação."
+      },
+      "term_140": {
+        "name": "Índice de Força Relativa (RSI)",
+        "text": "Um indicador técnico que mede se um instrumento financeiro foi sobrecomprado ou sobrevendido."
+      },
+      "term_141": {
+        "name": "Capital de Risco",
+        "text": "O tamanho de um depósito que um investidor está disposto a arriscar."
+      },
+      "term_142": {
+        "name": "Robô",
+        "text": "Software que indica quando abrir ou fechar uma posição no mercado."
+      },
+      "term_143": {
+        "name": "Rollover",
+        "text": "Ato de trocar um contrato vencido antes da data de vencimento, por um novo contrato. A diferença de preço entre os dois contratos é ajustada."
+      },
+      "term_144": {
+        "name": "Resistência",
+        "text": "O preço no qual um ativo financeiro atinge o pico, antes que vários investidores decidam vender o ativo."
+      },
+      "term_145": {
+        "name": "Gestão de Riscos",
+        "text": "Uma ou mais estratégias usadas para reduzir o risco financeiro ao negociar nos mercados financeiros."
+      },
+      "term_146": {
+        "name": "Escalpelamento",
+        "text": "Uma estratégia usada por traders que fazem muitas pequenas transações de curto prazo, buscando aumentar seus lucros com vários pequenos incrementos que podem ser compostos."
+      },
+      "term_147": {
+        "name": "SEC",
+        "text": "Representa a Comissão de Valores Mobiliários dos Estados Unidos."
+      },
+      "term_148": {
+        "name": "Segurança",
+        "text": "Qualquer ativo financeiro que pode ser negociado."
+      },
+      "term_149": {
+        "name": "curto",
+        "text": "Abrir uma posição de compra no mercado é referido como 'going long'"
+      },
+      "term_150": {
+        "name": "Deslizamento",
+        "text": "A diferença de preço entre o valor exibido de um ativo e o valor exato quando ocorre uma transação."
+      },
+      "term_151": {
+        "name": "Preço à Vista",
+        "text": "O preço atual que um ativo pode ser comprado ou vendido no mercado."
+      },
+      "term_152": {
+        "name": "Distribuir",
+        "text": "A diferença de valor entre o preço de venda e o preço de compra de um ativo financeiro."
+      },
+      "term_153": {
+        "name": "Estocástico",
+        "text": "Um indicador oscilante usado para determinar a mudança no preço de um ativo financeiro de um período de fechamento para o próximo."
+      },
+      "term_154": {
+        "name": "Estoque",
+        "text": "Uma participação na propriedade de uma empresa e respectivos bens e lucros."
+      },
+      "term_155": {
+        "name": "Ordem Stop Loss",
+        "text": "Uma ordem dada por um corretor para limitar a perda de um investidor, fazendo-o vender quando um título atinge um determinado preço."
+      },
+      "term_156": {
+        "name": "Preço de exercício",
+        "text": "O valor de um ativo quando ele é comprado ou vendido."
+      },
+      "term_157": {
+        "name": "TROCAR",
+        "text": "O processo de troca do valor dos ativos de um investidor com os ativos de outro investidor."
+      },
+      "term_158": {
+        "name": "Comissão de Câmbio de Valores (SEC)",
+        "text": "Agência do governo dos EUA que regula a indústria nacional de valores mobiliários, bolsas de valores e agência de valores mobiliários eletrônicos."
+      },
+      "term_159": {
+        "name": "Satoshi",
+        "text": "Equivalente à oitava casa decimal, esta é a menor unidade de bitcoin."
+      },
+      "term_160": {
+        "name": "Ordem limitada de venda",
+        "text": "O processo de limitar o preço de uma transação."
+      },
+      "term_161": {
+        "name": "Parada de venda",
+        "text": "Uma ordem de limite para se tornar uma ordem de mercado assim que cair abaixo do preço de mercado atual."
+      },
+      "term_162": {
+        "name": "Posição curta",
+        "text": "Vender primeiro e comprar depois para produzir lucro ou prejuízo com a diferença."
+      },
+      "term_163": {
+        "name": "Ponto",
+        "text": "Pegando o valor da data atual e vendendo a esse preço, mas liquidando nos dois dias seguintes."
+      },
+      "term_164": {
+        "name": "Esterlina",
+        "text": "Um name para a libra britânica (GBP), também chamada de libra esterlina."
+      },
+      "term_165": {
+        "name": "Pare de comprar",
+        "text": "Uma ordem de compra quando o preço da moeda está acima do mercado atual."
+      },
+      "term_166": {
+        "name": "Análise Técnica",
+        "text": "Estudando dados de mercado passados ​​para influenciar o futuro de instrumentos financeiros."
+      },
+      "term_167": {
+        "name": "Comerciante",
+        "text": "Uma pessoa que investe em transações nos mercados."
+      },
+      "term_168": {
+        "name": "Trailing Stop Loss",
+        "text": "A capacidade de ajustar automaticamente o limite de preço limite para estar mais próximo de um preço de mercado mais favorável."
+      },
+      "term_169": {
+        "name": "Data da transação",
+        "text": "O momento em que ocorre a negociação de ativos."
+      },
+      "term_170": {
+        "name": "Take Profit",
+        "text": "Um tipo de ordem limitada que determina o preço específico para fechar uma posição aberta para lucrar."
+      },
+      "term_171": {
+        "name": "Plataformas de negociação",
+        "text": "Um software usado por investidores para negociar forex."
+      },
+      "term_172": {
+        "name": "Transação",
+        "text": "O processo de troca de mercadorias, serviços e ativos financeiros entre um comprador e um vendedor."
+      },
+      "term_173": {
+        "name": "Tendência",
+        "text": "A direção geral do mercado."
+      },
+      "term_174": {
+        "name": "Subavaliação",
+        "text": "Se uma taxa de câmbio não supera seu poder de compra, ela é considerada desvalorizada."
+      },
+      "term_175": {
+        "name": "Taxa de Desemprego",
+        "text": "A taxa de pessoas na força de trabalho sem emprego."
+      },
+      "term_176": {
+        "name": "dólar americano",
+        "text": "A moeda nos Estados Unidos da América"
+      },
+      "term_177": {
+        "name": "Data Valor",
+        "text": "A data final de liquidação decidida pelas partes envolvidas em um negócio financeiro."
+      },
+      "term_178": {
+        "name": "Margem de Variação",
+        "text": "A quantia extra de dinheiro necessária para compensar perdas quando o saldo de um corretor fica abaixo do mínimo exigido."
+      },
+      "term_179": {
+        "name": "Volatilidade",
+        "text": "A medida usada para descrever a flutuação do preço de um instrumento financeiro em um período de tempo específico."
+      },
+      "term_180": {
+        "name": "Transferência Bancária",
+        "text": "O processo de transferência eletrônica de dinheiro de uma instituição financeira para outra."
+      },
+      "term_181": {
+        "name": "Grupo Banco Mundial",
+        "text": "Uma organização de apoio que oferece consultoria técnica e financeira para países em desenvolvimento em todo o mundo."
+      },
+      "term_182": {
+        "name": "Carteira",
+        "text": "O local onde as criptomoedas são armazenadas. Existem cinco tipos de carteiras criptográficas; carteiras de software, carteiras móveis, carteiras da web, carteiras de papel e carteiras de hardware."
+      },
+      "term_183": {
+        "name": "Whipsaw",
+        "text": "Um forte movimento de preço sendo seguido por uma forte revogação."
+      },
+      "term_184": {
+        "name": "X",
+        "text": "Representando um fundo mútuo, este é um símbolo de ações da NASDAQ."
+      },
+      "term_185": {
+        "name": "XE",
+        "text": "Significa Xpress Engine. Um proeminente site financeiro que fornece ferramentas úteis para os comerciantes."
+      },
+      "term_186": {
+        "name": "XAG",
+        "text": "O símbolo da moeda para o metal precioso prata. A prata pode ser usada em trocas financeiras e geralmente mantém um preço alto."
+      },
+      "term_187": {
+        "name": "XAU",
+        "text": "O símbolo monetário do ouro."
+      },
+      "term_188": {
+        "name": "XAU/USD",
+        "text": "A taxa de câmbio do ouro (XAU) para o dólar americano (USD) pode ser monitorada online e está constantemente mudando."
+      },
+      "term_189": {
+        "name": "Curva de Rendimento",
+        "text": "O uso de um gráfico para exibir a correlação entre a taxa de juros e o vencimento do ativo da dívida para um trader."
+      },
+      "term_190": {
+        "name": "ZAR",
+        "text": "O símbolo monetário do Rand sul-africano."
+      },
+      "term_191": {
+        "name": "Limite zero",
+        "text": "Quando as taxas de juros atingem quase zero por cento, tornando difícil para os bancos centrais medir a expansão da economia."
+      }
+    }
+  }
+}

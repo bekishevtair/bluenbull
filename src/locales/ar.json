@@ -1,0 +1,1826 @@
+{
+  "header": {
+    "en": "English",
+    "es": "Español",
+    "vi": "Tiếng Việt",
+    "pt": "Portuguese",
+    "ar": "العربية",
+    "accounts": "حسابات ",
+    "accounts-1": "First Class Account",
+    "accounts-2": "Live حساب",
+    "accounts-3": "Standard Account",
+    "accounts-4": "حساب تجريبي ",
+
+    "instruments": "الأدوات ",
+    "instruments-1": "الأسهم",
+    "instruments-2": "المؤشرات",
+    "instruments-3": "سندات",
+    "instruments-4": "السلع",
+    "instruments-5": "العملات الرقمية",
+    "instruments-6": "فوركس ",
+
+    "platforms": "المنصات ",
+    "platforms-1": "تريدر الحاسوب",
+    "platforms-2": "ويب تريدر",
+    "platforms-3": "موبايل تريدر ",
+
+    "trading": "أدوات التداول ",
+    "trading-1": "العطلات الرسمية ",
+    "trading-2": "رول أوفر",
+    "trading-3": "تقسيم الارباح ",
+    "trading-4": "قائمة المصطلحات",
+
+    "policies": "سياسات ",
+    "policies-1": "الأحكام و الشروط ",
+    "policies-2": "سياسة الخصوصية ",
+    "policies-3": "إخلاء المسؤولية عن المخاطر ",
+    "policies-4": "سياسة AML و KYC",
+    "policies-5": "سياسة الاسترجاع",
+
+    "about": "من نحن",
+    "about-1": "تواصل معنا ",
+    "about-2": "الأسئلة الأكثر شيوعًا ",
+
+    "partners": "Partners",
+    "academy": "Bony Academy",
+
+    "login": {
+      "button-label": "تسجيل دخول العميل ",
+      "link": "https://client.comfyfx.com/ar/sign/in"
+    },
+    "register": {
+      "button-label": "تسجيل ",
+      "link": "https://client.comfyfx.com/ar/client.add/"
+    }
+  },
+  "home-page": {
+    "hero-section": {
+      "heading": "كبِّر رأس مالك مع ",
+      "sub-heading": "اكتشف مجموعتنا المتنوعة من الخدمات والأدوات التي ستساعدك على تحقيق أهدافك في التداول ",
+      "button-label": "تسجيل"
+    },
+    "benefits-section": {
+      "heading": "امتيازات",
+      "reliable-title": "نظام موثوق",
+      "reliable-description": "تداول على MT5 ، منصة تداول شهيرة يستخدمها اليوم المتداولون المخضرمون و المبتدئين على حد سواء.",
+      "encrypted-title": "البيانات المشفرة",
+      "encrypted-description": "كن مطمئنًا على امن معلوماتك الشخصية مع بروتوكول SSL (طبقة مآخذ التوصيل الآمنة).",
+      "trading-title": "أدوات التداول",
+      "trading-description": "إبقَ على اطلاع دائم بالأسواق المالية من خلال أدوات التداول الخاصة بنا ، بما في ذلك الرسوم البيانية و الأخبار الحالية.",
+      "exceptional-title": "خدمات استثنائية",
+      "exceptional-description": "خدمة دعم العملاء والمساعدة الفنية كلاهما من أهم أهم أولوياتنا. يمكنك التواصل معنا على مدار 24 ساعة في اليوم ، 5 أيام في الأسبوع.",
+      "multiple-title": "منصات متعددة",
+      "multiple-description": "تداول بسهولة على أي جهاز تختاره ، سواء كان على هاتفك أو التابلت أو الكمبيوتر."
+    },
+    "bony-section": {
+      "heading": "Bony Academy:",
+      "heading-span": "المتجر الشامل للتداول ",
+      "description_1": "هناك العديد من المنصات على الإنترنت التي تعلمك التداول و تركز على تحسين مجموعة مهاراتك. هل كنت تبحث عن المنصة المناسبة لك؟",
+      "description_2": "منصة تعليمية جديدة و مبتكرة و تقدمية و تتطور جنبًا إلى جنب مع التكنولوجيا في السوق - مرحبًا بك في Bony Academy.",
+      "description_3": "هل أنت مستعد للتنمو كشخص؟ أكيد انك مستعد! في هذه الحالة: هذا هو السبب الذي يجعلك لا تفكر فقط بل تختار أيضًا Bony Academy.",
+      "button-label": "اعرف المزيد"
+    },
+    "platforms-section": {
+      "heading": "منصاتنا",
+      "sub-heading": "يمكن لكل نوع من المتداولين استخدام منصتنا المنظمة بشكل مثالي. أصبح التداول عبر الإنترنت الآن أكثر سهولة من أي وقت مضى بفضل المنصات الثلاثة المتاحة.",
+      "desktop-heading": " الحاسوب ",
+      "desktop-description": "تداول باستخدام MT5: أشهر منصة تداول توفر إمكانيات واسعة للمتداولين",
+      "webtrader-heading": "ويب تريدر",
+      "webtrader-descdription": "تداول دون تنزيل أي برنامج ، فقط افتح الموقع للوصول إلى جميع الوظائف نفسها.",
+      "mobile-heading": "الموبايل ",
+      "mobile-description": "تداول براحة تامة من أي مكان باستخدام التطبيق المتاح لنظام Android.",
+      "button-label": "إقرأ المزيد "
+    },
+    "compatible-section": {
+      "heading": "متوافق مع معظم ",
+      "heading-span": "أنظمة التشغيل",
+      "sub-heading": "هذه هي أدنى المتطلبات ليعمل MetaTrader5 بسلاسة على جهاز التشغيل الخاص بك. ستدعم أي إصدارات لاحقة أيضًا جميع منصات MT5 دون عناء.",
+      "li-internet": "ويندوز 2000",
+      "li-screen": "دقة الشاشة 1024 × 768",
+      "button-label": "عرض المنصات"
+    },
+    "how-to-start-section": {
+      "heading": "كيف تبدأ",
+      "register-heading": "تسجيل",
+      "register-description": "أكمل نموذج التسجيل بمعلوماتك الشخصية لفتح حساب ComfyFX الجديد الخاص بك",
+      "verify-heading": "تحقق",
+      "verify-descdription": "قم بمسح وإرسال مستندات التحقق اللازمة لإكمال إعداد الحساب.",
+      "deposit-heading": "إيداع ",
+      "deposit-description": "قم بتمويل حسابك عن طريق التحويل البنكي أو تحويل بطاقة الائتمان أو من خلال خدمة الدفع عبر الإنترنت",
+      "button-label": "فتح حساب "
+    }
+  },
+  "footer": {
+    "heading": "ComfyFX هي علامة تجارية مسجلة لشركة Blue Sun Capital Ltd ومرخص لها من قبل Mwali International Services Authority مع تفويض رقم HY00723481",
+    "sub-heading": "تداول العملات الأجنبية (فوركس) وعقود الفروق (CFD) له مضاربات عالية ، وهي تنطوي على درجة عالية من المخاطر وقد لا تكون مناسبة لجميع المستثمرين ، قد تتكبد خسارة في بعض أو كل رأس مالك المستثمر ، لذلك لا ينبغي عليك التكهن برأس مال لا يمكنك تحمل خسارته ، يجب أن تكون على دراية كاملة بكافة المخاطر المصاحبة لعمليات تداول على الهامش .",
+    "sub-heading-2": "يتم تسويق هذا الموقع وتشغيله بواسطة Blue Sun Capital Ltd ويقع في P.B. 1257 Bonovo Road, Fomboni, Comoros, KM , , الولايات القضائية المقيدة: نحن لا ننشئ حسابات للمقيمين في بعض الولايات القضائية بما في ذلك الولايات المتحدة الأمريكية واليابان وكوريا الشمالية وإيران والاتحاد الأوروبي والمنطقة الاقتصادية الأوروبية. لمزيد من التفاصيل ، يرجى الاطلاع على الشروط والأحكام.",
+    "visit-heading": "تواصل مع ComfyFX",
+    "touch-heading": "ابقى على تواصل",
+    "touch-description": "نتحدث 10 لغات",
+    "email-heading": "تواصل معنا عبر البريد الالكتروني ",
+    "email-description": "نحن مستعدون دائمًا لمساعدتك"
+  },
+  "account": {
+    "main_heading": "حسابات",
+    "trader_profile": {
+      "heading": "من مبتدأ الى محترف ",
+      "sub_heading": "لكل اصناف المتداولين ",
+      "description": "بغض النظر عن مستوى خبرتك ، لدينا الحساب المثالي الذي يتناسب مع أهدافك و قدراتك في التداول.",
+      "heading_1": "حساب تجريبي",
+      "details_1": "قم بممارسة التداول في ظروف السوق الحقيقية بدون مخاطر ، و تعلم في النهاية تحليل الأسواق الحقيقية ، و تطوير استراتيجية تداول ، و إنشاء محفظة خاصة بك. قد يستفيد المتداولون المتقدمون من خلال استكشاف الخصوصيات أو التداول بمبالغ أكبر.",
+      "heading_2": "حساب حقيقي ",
+      "details_2": "يمكن الآن لكبار المتداولين دخول السوق بصفقات اكبر و أعلى. سيحصل العملاء على جميع مزايا الحساب القياسي بالإضافة إلى مساعد التداول الشخصي الذي يمكنه مساعدتهم على تخصيص تفضيلات التداول الخاصة بهم لتناسب أهدافهم المالية.",
+      "button_label": "إقرأ المزيد "
+    },
+    "why_choose": {
+      "heading": "لماذا الحساب الحقيقي؟",
+      "heading_1": "دعم للعملاء متعدد اللغات",
+      "heading_2": "عملات متعددة",
+      "heading_3": "MetaTrader 5",
+      "heading_4": "ويب تريدر",
+      "heading_5": "Android & iOS",
+      "heading_6": "مساعد التداول الشخصي",
+      "heading_7": "أدوات التداول ",
+      "heading_8": "تحكم كلي "
+    },
+    "account_breakdown": {
+      "heading": "توقف الحساب"
+    }
+  },
+  "first_class_account": {
+    "main_heading": "First Class Account",
+    "trade_beyond": {
+      "heading": "Trade",
+      "heading_span": "Beyond",
+      "description": "For clients who already have enough experience and knowledge about making returns from trading, it’s time to go beyond. This account is excellent for clients who wish to enjoy the full package of our product range and services. This includes the services offered to you by your personal trading assistant who will provide insightful advice in making the best investment.",
+      "button_label": "Register Now"
+    },
+    "benefits": {
+      "heading": "Benefits of First Class Account",
+      "heading_1": "Higher Stop Out",
+      "heading_2": "Higher Max Order",
+      "heading_3": "Access to All Features",
+      "heading_4": "Personal Trading Assistant"
+    },
+    "account_breakdown": {
+      "heading": "توقف الحساب "
+    }
+  },
+  "live_account": {
+    "main_heading": "حساب حقيقي ",
+    "trade_for_returns": {
+      "heading": "تداول من اجل",
+      "heading_span": "العائدات",
+      "description": "ترغب في شيء إضافي؟ حسابنا الحقيقي مناسب للعملاء الذين يتداولون على مستوى متقدم. يمكن الآن لكبار المتداولين دخول السوق بصفقات أكبر و أعلى. سيحصل العملاء على جميع مزايا الحساب القياسي بالإضافة إلى مساعد التداول الشخصي الذي يمكنه مساعدتهم على تخصيص تفضيلات التداول الخاصة بهم لتناسب أهدافهم المالية.",
+      "button_label": "تسجيل لحساب حقيقي "
+    },
+    "benefits": {
+      "heading": "فوائد الحساب الحقيقي",
+      "heading_1": "دعم فني متعدد اللغات",
+      "heading_2": "عملات متعددة",
+      "heading_3": "الوصول إلى جميع الميزات",
+      "heading_4": "مساعد التداول الشخصي"
+    },
+    "account_breakdown": {
+      "heading": "توقف الحساب "
+    }
+  },
+  "standard_account": {
+    "main_heading": "Standard Account",
+    "trade_for_experience": {
+      "heading": "Trade for",
+      "heading_span": "Experience",
+      "description": "Perfect for new traders who have tried the Demo account and wish to gain more confidence in trading with real money. New traders or individuals who prefer to trade with smaller sums will enjoy the benefits of this account. It is ideal for testing different techniques and strategies, build a business plan and monitor progress to enhance one’s trading skills.",
+      "button_label": "Register Standard"
+    },
+    "benefits": {
+      "heading": "Benefits of Standard Account",
+      "heading_1": "24/5 Technical Support",
+      "heading_2": "عملات متعددة",
+      "heading_3": "Access to All Platforms",
+      "heading_4": "Access to Trading Tools"
+    },
+    "account_breakdown": {
+      "heading": "توقف الحساب "
+    }
+  },
+  "demo_account": {
+    "main_heading": "حساب تجريبي",
+    "trade_for_free": {
+      "heading": "تداول ",
+      "heading_span": "مجانًا ",
+      "description": "مثالي لأولئك الجدد تمامًا على التداول والذين يرغبون في \"غمر أصابعهم\" في التداول دون المخاطرة بسنت واحد. قم بممارسة التداول في ظروف السوق الحقيقية بدون مخاطر ، وتعلم في النهاية تحليل الأسواق الحقيقية ، و تطوير استراتيجية تداول و إنشاء محفظة. قد يستفيد المتداولون المتقدمون من خلال استكشاف الخصوصيات أو التداول بمبالغ أكبر.",
+      "button_label": "تسجيل لحساب تجريبي "
+    },
+    "benefits": {
+      "heading": "فؤاد الحساب التجريبي ",
+      "heading_1": "دعم للعملاء متعدد اللغات",
+      "heading_2": "محاكاة لظروف السوق الحقيقية",
+      "heading_3": "الوصول الى جميع المنصات ",
+      "heading_4": "الوصول الى ادوات التداول "
+    },
+    "account_breakdown": {
+      "heading": "توقف الحساب "
+    }
+  },
+  "bony-academy": {
+    "main_heading": "Bony Academy",
+    "heading_span": "تقديم ل ",
+    "description_1": "منصة تعليمية عبر الإنترنت ، مساحة رقمية تسمح للمبتدئين و المحترفين على حد سواء بالنمو في مجال التداول و الاستثمار. سواء كنت جديدًا تمامًا و تحاول فقط فهم الرسم البياني أو كنت متمرسًا يتطلع إلى تطوير استراتيجية تداول ، نحن نقوم بمساعدتك.",
+    "description_2": "تقدم Bony Academy محتوىً تعليميًا يحيط بالأسهم و السلع و العملات الرقمية و المؤشرات بتنسيق سهل الفهم صمم خصيصًا للمتداولين. ستتعلم كل ما تحتاج إلى معرفته من خلال الدورات التدريبية المثرية و مقاطع الفيديو و المواد التعليمية المدعومة و الكتب الإلكترونية. كن مطمئنًا ، لن يمنحك هذا تدريبًا عمليًا فحسب بل سيساعدك أيضًا بشكل كبير في أن تصبح متداولًا مستقلاً. ",
+    "description_3": " سوف تتحكم في نجاحك المالي في كل وقت. أفضل شيء في التعلم عبر الإنترنت هو أنه يوفر المرونة. يمكنك الدراسة في أي وقت و في أي مكان و بالسرعة التي تناسبك.",
+    "description_4": "افتح حسابًا حقيقيًا معنا و احصل على اشتراك غير محدود في مكتبة Bony Academy بأكملها مجانًا.",
+    "button_label": "Bony Academy",
+    "button_link": "https://bonyacademy.com/ar/?utm_source=website&utm_medium=button&utm_campaign=go_to_Bony_Academy&utm_content=link_from_web_comfyFX",
+    "warning": "يجب أن تقوم بإيداع لمرة واحدة للاستفادة من هذا العرض ، و لا داعي للقلق - لا يوجد حد أدنى لمبلغ الإيداع."
+  },
+  "instruments": {
+    "main_heading": "الأدوات ",
+    "explore": {
+      "heading": "استكشف ",
+      "heading_span": "الأسواق المالية",
+      "description": "توفر ComfyFX مجموعة واسعة من الأدوات المالية للمتداولين لتنفيذ جميع أنواع الاستراتيجيات و الأساليب بنجاح. تستوعب خدماتنا كل من المتداولين اليوميين النشطين الذين يفضلون الأسواق عالية السيولة إلى المستثمرين الصبورين الذين يفضلون خطة اللعب طويلة الأجل. من الضروري دراسة ما يجب أن تقدمه كل أداة من حيث المزايا و اختيار تلك التي تناسب أسلوب التداول الخاص بك.",
+      "button_label": "تسجيل "
+    },
+    "heading_1": "السلع",
+    "description_1": "تشمل السلع تجارة المواد الخامة أو المنتجات الزراعية الأولية حول العالم في بورصات السلع الأساسية.",
+    "heading_2": "المؤشرات",
+    "description_2": "بدلاً من أن تكون عرضة لتقلب سهم واحد ، يمكنك جني ربح من تحركات القطاعات بأكملها في السوق العالمية.",
+    "heading_3": "الأسهم ",
+    "description_3": "الأسهم هي نوع من الأوراق المالية التي تسمح للمستثمرين بتلقي أرباح على شكل نسبة من أصول الشركات و أرباحها.",
+    "heading_4": "سندات",
+    "description_4": "السندات هي سندات خزينة تصدرها الحكومة والشركات وتعتبر بشكل عام استثمارًا آمنًا طويل الأجل.",
+    "heading_5": "العملات الرقمية",
+    "description_5": "من الأفضل وصف العملات الرقمية بأنها نقود رقمية. يجب على المرء أن يتعلم عن إمكانات استثمارها الفردي لتحقيق أفضل النتائج.",
+    "heading_6": "فوركس ",
+    "description_6": "سوق صرف العملات الاجنبية (فوركس) هو السوق الأكثر سيولة في العالم وأيضًا الأكبر من حيث حجم المعاملات اليومية.",
+    "button_label": "عرض "
+  },
+  "stocks": {
+    "main_heading": "الأسهم ",
+    "history": {
+      "heading": "أقوى",
+      "heading_span": "عائدات تاريخيًا ",
+      "description": "الأسهم هي نوع من الأوراق المالية التي تمنح المساهمين نسبة من أصول الشركات و مداخيلها في شكل أرباح.  أسواق الأسهم هي أسواق ثانوية ، مما يعني أنك لا تشتري الأسهم مباشرة من الشركة ، بل من مساهم حالي فيها.  يكسب المستثمر أرباحًا من خلال الاستثمار في الشركات المناسبة التي تعد بزيادة سعر الأسهم ومدفوعات أرباح ثابتة.",
+      "button_label": "تسجيل "
+    },
+    "heading": "مزايا",
+    "heading_1": "استثمار بدون حدود ",
+    "heading_2": "سهل الشراء و البيع ",
+    "heading_3": "الرافعة المالية القصوى 1: 50",
+    "heading_4": "سهل التوقع ",
+    "heading_5": "بدون رسوم",
+    "heading_6": "أسواق عالمية ",
+    "trading_condition": "شروط التداول"
+  },
+  "indices": {
+    "main_heading": "المؤشرات",
+    "portfolio": {
+      "heading": "لتنويع ",
+      "heading_span": "المحفظة ",
+      "description": "تمكن من الوصول إلى كل قطاع من قطاعات السوق العالمية. كن مرنًا في مواجهة تقلبات احد الأسهم و اكسب ربحًا من الحركات الصعودية و الهبوطية للسوق. المؤشر هو متوسط أسهم الشركات الرائدة في قطاع معين من الاقتصاد. تتمتع هذه الأدوات بسمات رائعة تتطلب القليل جدًا من الإدارة وتوفر تنوعًا بجزء بسيط من التكلفة.",
+      "button_label": "تسجيل "
+    },
+    "heading": "مزايا",
+    "heading_1": "هوامش ضيقة ",
+    "heading_2": "توزيع مرجح",
+    "heading_3": "خيارات ثنائية",
+    "heading_4": "الرافعة المالية القصوى 1: 100",
+    "heading_5": "بدون رسوم",
+    "heading_6": "محفظة متنوعة ",
+    "trading_condition": "شروط التداول"
+  },
+  "bonds": {
+    "main_heading": "سندات",
+    "interest": {
+      "heading": "لفائدة ",
+      "heading_span": "ثابتة",
+      "description": "السندات هي سندات خزينة تصدرها الحكومة والشركات وتعتبر بشكل عام استثمارًا آمنًا طويل الأجل. تتيح لك السندات الحصول على دخل منتظم في شكل فائدة ثابتة. يتم سداد المبلغ لك بالكامل في تاريخ استحقاق السند ، بالإضافة إلى تعويضك بعائدات سنوية منتظمة. توفر لك السندات أو الالتزامات الاستقرار الذي لا تستطيع الاستثمارات الأخرى القيام به.",
+      "button_label": "تسجيل "
+    },
+    "heading": "مزايا",
+    "heading_1": "مرابيح متوقعة ",
+    "heading_2": "قليل الخطورة ",
+    "heading_3": "الرافعة المالية القصوى 1: 100",
+    "heading_4": "الحفاظ على رأس المال ",
+    "heading_5": "بدون رسوم",
+    "heading_6": "فائدة ثابتة",
+    "trading_condition": "شروط التداول"
+  },
+  "commodities": {
+    "main_heading": "السلع",
+
+    "high": {
+      "heading": "لشفافية ",
+      "heading_span": "عالية ",
+      "description": "تشمل السلع تجارة المواد الخامة أو المنتجات الزراعية الأولية مثل النفط و الذهب و القهوة حول العالم في بورصات السلع الأساسية. الطريقة الأكثر شيوعًا لتداول السلع هي من خلال العقود الآجلة ، عقود شراء أو بيع سلعة معينة بسعر محدد مسبقًا في وقت محدد في المستقبل. يؤدي تداول السلع إلى استقرار محفظتك نظرًا لأن حركة أسعارها عادة ما تكون معاكسة لحركة الأسهم.",
+      "button_label": "تسجيل "
+    },
+
+    "heading": "مزايا",
+    "heading_1": "هوامش منخفضة ",
+    "heading_2": "شفافية ",
+    "heading_3": "الرافعة المالية القصوى 1: 100",
+    "heading_4": "محفظة متنوعة ",
+    "heading_5": "سوق على مدار 24 ساعة",
+    "heading_6": "بدون رسوم",
+
+    "trading_condition": "شروط التداول"
+  },
+  "cryptocurrencies": {
+    "main_heading": "العملات الرقمية",
+
+    "high": {
+      "heading": "لتقلبات ",
+      "heading_span": "عالية",
+      "description": "العملات الرقمية أو الأفضل تسميتها بالنقود الرقمية. لقد أحدث مفهوم هذا الأصل المالي ثورة في العالم باعتباره استثمارًا مربحًا وصاعدًا. في حين أن الكثيرين يكسبون عيشًا كبيرًا و يستمرون في القيام بذلك من تداول العملات المشفرة المتقلبة ، يجب على المرء أن يتوخى كامل حذره فيما يتعلق بكل استثمار.",
+      "button_label": "تسجيل "
+    },
+
+    "heading": "مزايا",
+    "heading_1": "تقلّب",
+    "heading_2": "سيولة عالية",
+    "heading_3": "تداول على المدى البعيد او القريب",
+    "heading_4": "سوق يعمل 7/24",
+    "heading_5": "معرض للرافعة المالية ",
+    "heading_6": "بدون رسوم",
+
+    "trading_condition": "شروط التداول"
+  },
+  "forex": {
+    "main_heading": "فوركس ",
+
+    "high": {
+      "heading": "لأعلى ",
+      "heading_span": "رافعة مالية",
+      "description": "سوق صرف العملات الأجنبية (فوركس) هو السوق الأكثر سيولة في العالم و أيضًا الأكبر من حيث حجم المعاملات اليومية. يبلغ حجم تداول الفوركس حوالي 5 تريليون دولار أمريكي في اليوم. يسهِّل حجم السوق الدخول و الخروج من مراكز التداول ، يمكنك الوصول إلى أكثر من 100 أداة تداول مع ComfyFX و التي ستساعدك على النجاح في أكبر سوق في العالم.",
+      "button_label": "تسجيل "
+    },
+
+    "heading": "مزايا",
+    "heading_1": "50+ زوجا من ازواج الفوركس",
+    "heading_2": "سيولة عالية",
+    "heading_3": "هوامش منخفضة",
+    "heading_4": "سوق على مدار 24 ساعة",
+    "heading_5": "الرافعة المالية القصوى 1: 500",
+    "heading_6": "بدون رسوم",
+
+    "trading_condition": "شروط التداول"
+  },
+  "platforms": {
+    "main_heading": "المنصات ",
+    "grow": {
+      "heading": "شاهد تداولاتك",
+      "heading_span": " تنمو ",
+      "description": "Regardless of your experience level, we have the perfect account that matches your trading goals and capacity.",
+      "desktop": {
+        "heading": "تريدر الحاسوب",
+        "description": "تداول باستخدام MT5: منصة التداول الأكثر شيوعًا والأكثر تقدمًا والتي توفر فرصًا هائلة للمتداولين و بيئة سهلة الاستخدام تعطي الأولوية للأمان.  بالإضافة إلى ذلك ، ستقدم لكم ComfyFX بكل سرور أي مساعدة مطلوبة 24 ساعة في اليوم ، 5 أيام في الأسبوع.",
+        "heading_1": "آخر التحديثات ",
+        "heading_2": "قابل للتهيئة بالكامل",
+        "heading_3": "يعمل بسلاسة تامة ",
+        "heading_4": "أمان قوي",
+        "heading_5": "تحاليل فنية ",
+        "heading_6": "سهل الاستخدام"
+      },
+      "webtrader": {
+        "heading": "ويب تريدر",
+        "description": "تداول دون تنزيل أي برنامج ، ما عليك سوى تشغيل MT5 Webtrader للوصول إلى جميع الوظائف نفسها.  الشيء الوحيد المطلوب منك هو متصفح ويب على أي جهاز به اتصال إنترنت آمن. للتداول بحرية مع مستويات عالية من أمان البيانات ، كل ما تحتاجه هو التسجيل للحصول على حساب أو تسجيل الدخول إلى حساب موجود بالفعل.",
+        "heading_1": "تداول مباشرة ",
+        "heading_2": "دخول سهل ",
+        "heading_3": "سجل المعاملات ",
+        "heading_4": "بيانات مشفرة",
+        "heading_5": "نسخ الصفقات ",
+        "heading_6": "سهل الاستخدام"
+      },
+
+      "mobile": {
+        "heading": "موبايل تريدر",
+        "description": "تداول في اي وقت و أي مكان . التطبيق متاح للتنزيل المجاني على Google Play و. تمتع بمرونة التداول بلا حدود على الموبايل و التابلت تريدر ، و الذي يمكن تنزيله على أي جهاز. يوفر Mobile Trader أيضًا مجموعة كاملة من الوظائف مع التحكم بلمسة واحدة.",
+        "heading_1": "تداول بلمسة واحدة ",
+        "heading_2": "المؤشرات المعروفة",
+        "heading_3": "إجراءات حينية ",
+        "heading_4": "معاملات مختصرة",
+        "heading_5": "تحاليل فنية ",
+        "heading_6": "دخول سهل "
+      },
+      "button_label": "إقرأ المزيد "
+    },
+    "utilize": {
+      "heading": "استخدم ادوات التداول الخاصة بنا ",
+      "heading_1": "العطلات ",
+      "description_1": "ابق على اطلاع دائم بأيام العطل الرسمية في جميع انحاء العالم و التي قد تؤثر على تداولاتك.",
+      "heading_2": "رول أوفر",
+      "description_2": "رول أوفر هو تمديد التسوية (الدفع) لمركز مفتوح حتى يوم التداول التالي.",
+      "heading_3": "تقسيم الارباح ",
+      "description_3": "أهم تاريخين يجب ملاحظتهما هما تواريخ \"الأرباح السابقة\" و \"السداد\"."
+    }
+  },
+  "desktop": {
+    "main_heading": "تريدر الحاسوب",
+    "trade": {
+      "heading": "تداول باستخدام MT5 Desktop Trader: منصة التداول الأكثر شهرة و تقدمًا و التي توفر إمكانيات كبيرة للمتداولين.",
+
+      "download_for": "تحميل ",
+      "windows": "Windows",
+
+      "download_for2": "تحميل ",
+      "macos": "MacOS",
+
+      "heading_1": "قابل للتهيئة",
+      "heading_2": "آمن",
+      "heading_3": "سلس",
+      "heading_4": "تحليلي ",
+
+      "description_1": "ما عليك سوى ضبط الإعدادات لتتناسب مع متطلباتك في التداول.",
+      "description_2": "جميع بياناتك مشفرة بأحدث بروتوكول SSL.",
+      "description_3": "قم بتشغيل و إدارة جميع تداولاتك دون عناء من مكان واحد.",
+      "description_4": "مثالي لدراسة الرسوم البيانية و المعاملات تقنيًا."
+    }
+  },
+  "mobile": {
+    "main_heading": "موبايل تريدر ",
+    "section_2": {
+      "heading": "تمتع بمرونة التداول بدون قيود على Mobile & Tablet Trader ، و الذي يوفر مجموعة كاملة من الوظائف مع التحكم بلمسة واحدة.",
+
+      "donwload_on_the": "Download on The",
+      "app_store": "App Store",
+
+      "android_app_on": "Android app On",
+      "google_play": "Google Play",
+
+      "heading_1": "تشفير آمن",
+      "heading_2": "مراجعة سهلة",
+      "heading_3": "بدون متاعب ",
+      "heading_4": "إجراءات حينية ",
+      "heading_5": "المؤشرات المعروفة",
+      "heading_6": "تداول بلمسة واحدة ",
+
+      "description_1": "جميع بياناتك مشفرة بأحدث بروتوكول SSL.",
+      "description_2": "جميع معاملاتك تعرض على شاشة واحدة.",
+      "description_3": "Trade on-the-go and monitor all your transactions from your device.",
+      "description_4": "نفّذ صفقاتك على الفور دون الخوف من ضياع فرصة.",
+      "description_5": "استخدم هذه المؤشرات لقياس تقلبات السوق و تحديد افضل وقت للدخول و الخروج من الصفقة.",
+      "description_6": "قم بإدارة تداولاتك ببساطة من راحة يدك."
+    }
+  },
+  "webtrader": {
+    "main_heading": "ويب تريدر",
+    "launch_webtrader": "اطلق Webtrader",
+    "section_2": {
+      "heading": "تداول دون الحاجة إلى تنزيل أي برنامج ، ما عليك سوى تشغيل MT5 Webtrader باستخدام اتصال إنترنت آمن للدخول إلى حساب التداول الخاص بك.",
+
+      "button_label": "اطلق",
+
+      "heading_1": "مناسب",
+      "heading_2": "آمن ",
+      "heading_3": "سهل الاستخدام",
+      "heading_4": "سلس",
+
+      "description_1": "فقط سجّل دخولك باستخدام أي متصفح ويب و ابدأ التداول.",
+      "description_2": "جميع بياناتك مشفرة بأحدث بروتوكول SSL.",
+      "description_3": "أوامر مباشرة لتنفيذ صفقاتك بسرعة.",
+      "description_4": "قم بتشغيل و إدارة جميع تداولاتك دون عناء من مكان واحد."
+    }
+  },
+  "tradingtools": {
+    "main_heading": "أدوات التداول ",
+
+    "section_2": {
+      "heading": "استفد من",
+      "heading_span": " أدواتنا لتحسين قرارات التداول الخاصة بك.",
+      "description": "احصل على معلومات حول التواريخ الحاسمة و مصطلحات التداول للحصول على نتائج أفضل و مشاهدة أرباحك تنمو.",
+
+      "heading_1": "العطلات ",
+      "heading_2": "رول أوفر",
+      "heading_3": "تقسيم الارباح ",
+      "heading_4": "قائمة المصطلحات",
+
+      "description_1": "ابق على اطلاع دائم بأيام العطل الرسمية في جميع انحاء العالم و التي قد تؤثر على تداولاتك.",
+      "description_2": "رول أوفر هو تمديد التسوية (الدفع) لمركز مفتوح حتى يوم التداول التالي.",
+      "description_3": "أهم تاريخين يجب ملاحظتهما هما تواريخ \"الأرباح السابقة\" و \"السداد\".",
+      "description_4": "تصفح مجموعتنا الواسعة من التعريفات حول التداول لفهم الأسواق المالية بشكل أفضل.",
+
+      "button_label": "إقرأ المزيد "
+    }
+  },
+  "holidays": {
+    "main_heading": "العطلات ",
+
+    "heading": "ابق على اطلاع بالعطلات",
+    "heading_span": " الرسمية المدرجة",
+
+    "description": "ابق على اطلاع دائم بأيام العطل الرسمية في جميع انحاء العالم و التي قد تؤثر على تداولاتك."
+  },
+  "rollover": {
+    "main_heading": "رول أوفر",
+
+    "heading": "تتبع أهم",
+    "heading_span": " تواريخ الرول أوفر ",
+
+    "description": "رول أوفر هو تمديد التسوية (الدفع) لمركز مفتوح حتى يوم التداول التالي."
+  },
+  "dividends": {
+    "main_heading": "تقسيم الارباح ",
+
+    "heading": "راقب تواريخ تقسيم الارباح لتضع",
+    "heading_span": " إستراتيجيات التداول الخاصة بك",
+
+    "description": "أهم تاريخين يجب ملاحظتهما هما تواريخ \"الأرباح السابقة\" و \"السداد\"."
+  },
+  "privacy_policy": {
+    "main_heading": "Privacy Policy",
+    "section_2": {
+      "heading": "The protection of privacy and the safeguarding of our Clients",
+      "heading_span": " personal and financial information is our highest priority. ",
+      "heading1": "Please view the following Privacy Policy Statement which clearly explains how we, at Blue Sun Capital Ltd (“Blue Sun Capital Ltd”), collect, process, store and protect our Clients’ information.",
+      "description_1": "By opening an account, Client hereby consents to such collection, processing, storage and use of personal information by Blue Sun Capital Ltd as explained below."
+    },
+    "main_section": {
+      "heading_1": "1. COLLECTION OF PERSONAL INFORMATION",
+      "description_1": "Blue Sun Capital Ltd collects the necessary information required to open, transact and safeguard your assets and your privacy and to provide you with the services you require. To this end, Blue Sun Capital Ltd gathers information from you and may, in certain circumstances, gather information from relevant banks and/or credit agencies, and/or other sources which help us profile your requirements and preferences and provide better services to you.",
+
+      "heading_2": "The information Blue Sun Capital Ltd collects may include:",
+      "description_2": "Application information Personal information you provide us in your application form, such as your name, address, date of birth, email address, income and income source etc. in order to facilitate the evaluation of your application. The information you provide us with is also used for the purposes of communicating with you.",
+      "description_3": "Transaction information Information about the anticipated volume and value of your transactions with us and income information provided in order to enable the construction of your economic profile.",
+      "description_4": "Verification information Information necessary to verify your identity, such as an identification card, passport or driver’s license. This also includes background information we receive about you from public records or from other entities not affiliated with Blue Sun Capital Ltd.",
+
+      "heading_3": "2. USAGE OF PERSONAL INFORMATION/OPT OUT",
+      "description_5": "Blue Sun Capital Ltd uses personal information only as required to provide quality service and security to you. This information helps improve services, customize browsing experience and enables us to inform you of additional products, services or promotions relevant to you and the products and services you require and you consent to us using this data for such purposes.",
+      "description_6": "Although you are not required to provide Blue Sun Capital Ltd any of the personal information that we may request, please note that failure to do so could result in Blue Sun Capital Ltd not being able to open your account or provide you with the service you require.",
+      "description_7": "Whilst we attempt to ensure that all the information we hold about you is current, accurate and complete, we urge you to immediately contact us if any of your personal details have changed.",
+
+      "heading_4": "3. PROTECTION OF PERSONAL INFORMATION",
+      "description_8": "Any personal information you provide us will be treated as confidential and shared only within Blue Sun Capital Ltd and its affiliates and will not be disclosed to any third party except under any regulatory or legal proceedings.",
+      "description_9": "The personal information that you provide in connection with registering yourself as a user of ComfyFX is protected in many ways. You can access your Registration Information through a password selected by you. This password is encrypted and known only to you and shall not be revealed to anyone else.",
+      "description_10": "Registration Information is safely stored on secure servers that only authorised personnel have access to via password. Blue Sun Capital Ltd encrypts all personal information as it is transferred to Blue Sun Capital Ltd and thus makes all necessary effort to prevent unauthorised parties from viewing any such information.",
+
+      "heading_5": "4. AFFILIATES AND PARTNERS",
+      "description_11": "Blue Sun Capital Ltd may share information with partners, affiliates and alliances in the event such information is reasonably required by such affiliate in order to:",
+      "description_12": "offer additional similar products and services that meet your needs and which are delivered in a manner that is useful and relevant (only where you have authorized us to do so); and/or",
+      "description_13": "service customer accounts.",
+
+      "heading_6": "5. NON-AFFILIATED THIRD PARTIES",
+      "description_14": "Blue Sun Capital Ltd does not sell, license, lease or otherwise disclose personal information to third parties, except as described in this Privacy Statement.",
+      "description_15": "Blue Sun Capital Ltd reserves the right to disclose information as necessary to credit reporting or collection agencies as reasonably required in order to provide the services to you.",
+      "description_16": "To help us improve our services, Blue Sun Capital Ltd may engage third parties to help carry out certain internal functions such as account processing, fulfilment, client service, client satisfaction surveys or other data collection activities relevant to our business. Use of the shared information may also be used to provide professional, legal, or accounting advice to Blue Sun Capital Ltd. Use of shared information is strictly limited to the performance of the above and is not permitted for any other purpose. All third parties with which Blue Sun Capital Ltd shares personal information are required to protect such personal information in accordance with all relevant legislation and in a manner similar to the way Blue Sun Capital Ltd protects the same. Blue Sun Capital Ltd will not share personal information with third parties which it considers will not afford its Clients the required level of protection.",
+      "description_17": "Where you have been introduced to us by a Business Introducer, such Business Introducer may have access to your information. You hereby unambiguously and unequivocally consent to the sharing of information with such Business Introducer.",
+      "description_18": "You acknowledge that in order to provide services to you, it may be necessary for information to be transferred outside of the European Economic Area and you consent to such transfer.",
+
+      "heading_7": "6. REGULATORY DISCLOSURE",
+      "description_19": "Blue Sun Capital Ltd reserves the right to disclose personal information to third parties where required by law, regulatory, law enforcement or other government authority of a competent jurisdiction in order to protect our rights and/or to comply with such legal proceedings. Such disclosure shall occur on a ‘need-to-know’ basis, unless otherwise instructed by a regulatory or other government authority. Under such circumstances, Blue Sun Capital Ltd shall expressly inform the third party regarding the confidential nature of the information.",
+
+      "heading_8": "7. RESTRICTION OF RESPONSIBILITY",
+      "description_20": "Blue Sun Capital Ltd is not responsible for the privacy policies or the content of sites ComfyFX links to, and has no control of the use or protection of information provided by Client or collected by those sites. Whenever Client elects to link to a co-branded website or to a linked website, Client may be asked to provide registration or other information. Please note that such information is recorded by a third party and will be governed by the privacy policy of that third party.",
+
+      "heading_9": "8. USE OF “COOKIES”",
+      "description_21": "Blue Sun Capital Ltd uses cookies to secure your trading activities and to enhance the performance of the ComfyFX website. Cookies used by Blue Sun Capital Ltd do not contain personal information or other sensitive information.",
+      "description_22": "Blue Sun Capital Ltd may share website usage statistics with reputable advertising companies and with its affiliated marketing companies. The information collected by the advertising company is not personally identifiable.",
+      "description_23": "To administer and improve the ComfyFX website, Blue Sun Capital Ltd may use third parties to track and analyze usage and statistical volume information. The third party may use cookies to track behavior and may set cookies on Blue Sun Capital Ltd’s behalf. These cookies do not contain any personally identifiable information.",
+
+      "heading_10": "9. PRIVACY STATEMENT UPDATES",
+      "description_24": "From time to time, Blue Sun Capital Ltd may update this Privacy Policy Statement. In the event Blue Sun Capital Ltd materially changes this Privacy Policy Statement including how we collect, process or use your personal information, the revised Privacy Policy Statement will be posted on the website Client agrees to accept posting of a revised Privacy Policy Statement electronically on the website as actual notice to Client. Any dispute over our Privacy Policy Statement is subject to this Notice and our Customer Agreement. Blue Sun Capital Ltd encourages Client to periodically check back and review this policy so that Client always will know what information Blue Sun Capital Ltd collects, how Blue Sun Capital Ltd uses it, and to whom Blue Sun Capital Ltd may disclose it.",
+
+      "heading_11": "10. AGREEMENT",
+      "description_25": "I have read, understood and agree with the terms of this Privacy Policy Statement, and I confirm that I have full power and authority to be bound by the terms of this Privacy Policy Statement.",
+      "description_26": "For any other concern please",
+      "description_27": "Contact US."
+    }
+  },
+  "refund_policy": {
+    "main_heading": "Refund Policy",
+
+    "header_1": "REFUND REQUESTS",
+    "header_span": "& RETRIEVAL OF PAYMENTS",
+    "description_1": "1. Client undertakes not to submit a request to return already credited funds both during and after the use of the Company’s services. In case the Company receives such a request, the Company reserves the right to block Client’s access to the Client Office.",
+    "description_2": "2. Upon depositing funds, Client undertakes not to submit an application for retrieval of payment (chargeback) via the payment provider or supplier, both in time and after completion of the use of the company services. Nevertheless, if the Company receives such a request, we reserve the right to block the Client’s access to the Client Office, freeze the current balance on the Client’s account, as well as send money back to the source, following the termination of all services.",
+    "heading_2": "BACK TO SOURCE RETURN OF FUNDS",
+    "description_3": "3. The Company may choose to return Client’s funds back to the source from which they were received for any reason and at any time (up to 5 business days)",
+    "description_4": "4. The funds may be returned to the original source instead of the destination provided by the Client in a withdrawal request.",
+    "description_5": "5. Should returning the funds back to the original source not be possible, when the Company sees it as necessary, the Client will be obligated to provide all the necessary documentation to the Company sufficiently showing that both the source as well as the desired destination of any funds transfer belong to the Client.",
+    "description_6": "6. If a situation arises in which the Company retains doubts as to the origin or destination of funds, in order to prevent proceeds of crime or funds related to funding terrorist activities from being released further into financial network they may be released into a court deposit pending decision by relevant authorities as to the operations in question.",
+    "description_7": "7. If the source of money or activity of the Client raises a suspicion of potential money laundering, the Company has the right to block Client’s access to the Client Office, suspend trading activity on accounts, cancel deposit/withdrawal requests or return funds. In particular, when the Company classifies Client’s activity as not relevant or not consistent with the normal purpose of using Company’s services, the Company has the right to act according to this document without prior notice.",
+    "description_8": "8. The Company may return Client’s funds received via any payment method for any reason, including if no activity was recorded on the client’s trading accounts within a specific timeframe per the company’s discretion. In this case, funds will be returned back to the same source as used to make a deposit.",
+    "description_9": "9.ComfyFX does not accept any refunds to a person or entity other than the person or entity whose name appears on the Account unless ComfyFX’s compliance department has specifically approved the payment.",
+    "description_10": "10.Mistakes made by the Company during the transfer of funds shall be refunded to the Client. It is understood that should the Client provide wrong instructions for a transfer, the Company may be unable to correct the mistake and the Client may have to suffer the loss.",
+    "description_11": "11.ComfyFX is not responsible for any fees charged by intermediaries and other payment services providers including but not limited to foreign exchange rate fees, withdrawal fees, and any other administrative fees. For further information on charges and fees please contact the customer service at support@comfyfx.com.",
+
+    "heading_3": "Cancellation",
+    "description_12": "Customers may cancel their account application at any time. ComfyFX may request a reason for the client’s cancellation decision in an effort to improve the services given to customers. ComfyFX may not cancel any accounts which have an account balance or open positions. Customers are required to redeem the funds and close current open positions before the account is canceled. For further information on order cancellation, customers are urged to read the ComfyFX customer agreement."
+  },
+  "aml_kyc_policy": {
+    "main_heading": "AML & KYC Policy",
+
+    "heading": "Customer security is a",
+    "heading_span": "Key consideration for RosyFX",
+
+    "main_description": "And we take our commitment to safeguarding our client's best interests extremely seriously.",
+
+    "description_1": "We have implemented a series of KYC (Know Your Client) procedures designed to secure the private information of our clients while keeping the company in line with compliance, best practices, and policies for financial services companies. These are aimed at preventing any instances of identity theft, money laundering, fraud, or terror activity.",
+    "description_2": "We operate on a strict Zero Tolerance basis. Any fraudulent activity will be documented and will result in the immediate closure of any trading accounts related to such activity. Funds deposited in any such accounts will be forfeited.",
+    "description_3": "These procedures secure your personal data and your financial transactions remain secure. Without completing our KYC procedures, your trading activity will be limited, and you will not be able to withdraw funds from your account.",
+    "description_4": "Opening and funding a trading account with us will require the following documents to be submitted:",
+
+    "1": {
+      "heading_1": "Proof of Identity document (colored photo or scan), the following can be submitted:",
+      "passport": "Passport",
+      "nid": "National Identity card",
+      "driving_license": "Driving license",
+
+      "heading_2": "Proof of Identity document must clearly contain the following:",
+      "description_1": "Full name",
+      "description_2": "Date of birth",
+      "description_3": "Date of issue and expiration",
+      "description_4": "Clear photo",
+      "description_5": "The minimum validity period of an identity document must be at least 6 months before the expiration date."
+    },
+    "2": {
+      "heading_1": "Colored photo of a document that confirms your address and is not older than 90 days from the date of issue. The photo must show your full address of residence, first and last names, date of issue, and official stamp or barcode. You may submit your:",
+      "description_1": "Utility bill",
+      "description_2": "Bank statement",
+      "description_3": "Certificate of residency",
+      "description_4": "Legal agreement"
+    },
+    "3": {
+      "heading_1": "Colored photos of both sides of the signed card/s you used to deposit.",
+      "description_1": "For your security, please cover the CVV number and the seventh to twelfth digits of your card/s number/s, leaving the first six and last four digits visible on both sides of your card/s. The card holder's name/s and expiry date/s must be visible.",
+      "description_2": "Submit the required documents in PDF / JPEG / JPG / PNG image formats to the compliance department via the user account.",
+      "description_3": "Submit your verification documents as soon as possible after the activation of your trading account. Please note that your missing verification may result in limitations on your trading account.",
+      "description_4": "Consider that with missing verification, any withdrawal requests from your trading account will not be processed."
+    }
+  },
+  "risk_disclaimer": {
+    "main_heading": "Risk Disclaimer",
+
+    "section_1": {
+      "heading": "Trading Is Very",
+      "heading_span": "Speculative and Risky",
+
+      "description_1": "In consideration of RosyFX (“RosyFX”) agreeing to enter into over-the-counter (“OTC”) contracts for differences (“CFDs”) and foreign exchange contracts (“FX Contracts”) with the undersigned (hereinafter referred to as the “Customer”, “you”, “your”), Customer acknowledges, understands and agrees that: Trading Is Very Speculative and Risky.",
+      "description_2": {
+        "main_description": "Trading CFDs and FX Contracts is highly speculative, involves a significant risk of loss and is not suitable for all investors but only for those customers who:",
+        "description_1": "understand and are willing to assume the economic, legal and other risks involved;",
+        "description_2": "are experienced and knowledgeable about trading in derivatives and in underlying asset types;",
+        "description_3": "are financially able to assume losses significantly in excess of margin or deposits because investors may lose the total value of the contract not just the margin or the deposit."
+      },
+      "description_3": "Neither CFDs nor FX Contracts are appropriate investments for retirement funds. CFD and FX transactions are among the riskiest types of investments and can result in large losses. Customer represents, warrants and agrees that Customer understands these risks, is willing and able, financially and otherwise, to assume the risks of trading CFDs and FX Contracts and that the loss of Customers entire account balance will not change Customers lifestyle."
+    },
+    "section_2": {
+      "heading_1": "Risks Related to Long CFD positions, i.e. for Purchasers of CFDs",
+      "description_1": "Being long in CFD means you are buying the CFDs on the market by speculating that the market price of the underlying will rise between the time of the purchase and sale. As owner of a long position, you will generally make a profit if the market price of the underlying rises whilst your CFD long position is open. On the contrary, you will generally suffer a loss, if the market price of the underlying falls whilst your CFD long position is open. Your potential loss may therefore be bigger than the initial margin deposited. In addition, you might suffer a loss due to the closing of your position, in case you do not have enough liquidity for the margin on your account in order to maintain your position open.",
+
+      "heading_2": "Risks Related to short CFD positions, i.e. for sellers of CFDs",
+      "description_2": "Being short in CFD means you are selling the CFDs on the market by speculating that the market price of the underlying will fall between the time of the purchase and sale. As owner of a short position, you will generally make a profit if the market price of the underlying falls whilst your CFD short position is open. On the contrary, you will generally suffer a loss, if the market price of the underlying rises whilst your CFD short position is open. Your potential loss may therefore be bigger than the initial margin deposited. In addition, you might suffer a loss due to the closing of your position, in case you do not have enough liquidity for the margin on your account in order to maintain your position open.",
+
+      "heading_3": "High Leverage And Low Margin Can Lead To Quick Losses",
+      "description_3": {
+        "1": "The high degree of “gearing” or “leverage” is a particular feature of both CFDs and FX Contracts. The effect of leverage makes investing in CFDs riskier than investing in the underlying asset.",
+        "2": "This stems from the margining system applicable to CFDs which generally involves a small deposit relative to the size of the transaction, so that a relatively small price movement in the underlying asset can have a disproportionately dramatic effect on your trade. This can be both advantageous and disadvantageous. A small price movement in your favour can provide a high return on the deposit, however, a small price movement against you may result in significant losses. Your losses will never exceed the balance of your account, which is balanced to zero, if the losses are higher than the amount deposited. Such losses can occur quickly. The greater the leverage, the greater the risk. The size of leverage therefore partly determines the result of the investment."
+      },
+      "heading_4": "Margin Requirements",
+      "description_4": "Customer must maintain the minimum margin requirement on their open positions at all times. It is Customers responsibility to monitor his/her account balance. Customer may receive a margin call to deposit additional cash if the margin in the account concerned is too low. RosyFX has the right to liquidate any or all open positions whenever the minimum margin requirement is not maintained and this may result in Customer’s CFDs or FX Contracts being closed at a loss for which you will be liable.",
+
+      "heading_5": "Spread",
+      "description_5": {
+        "1": "The difference between our bid price and our ask price is “Our Spread”. Our Spreads are set in our absolute discretion, since we are acting as market maker, and any changes are effective immediately.",
+        "2": "Information in relation to Our Spread, leverage, rollover fees and trading hours for each market is stated in CFD Trading Conditions and FX Trading Conditions pages of RosyFXs website."
+      },
+      "heading_6": "Cash Settlement",
+      "description_6": "Customer understands that CFD and FX Contracts can only be settled in cash and the difference between the buying and selling price partly determines the result of the investment.",
+
+      "heading_7": "Conflicts of Interest",
+      "description_7": "RosyFX is counterparty to all Transactions entered into under the Customer Agreement and, as such, RosyFXs interests may be in conflict with yours. Our Conflicts of Interest Policy is available at RosyFXs website.",
+
+      "heading_8": "OTC Transactions",
+      "description_8": "When trading CFDs or FX Contracts with us, such transactions will not be executed on a recognized or designated investment exchange and are known as OTC transactions. All positions entered into with us must be closed with us and cannot be closed with any other entity. OTC transactions may involve greater risk than investing in on-exchange contracts because there is no exchange market on which to close out an open position. It may be impossible to liquidate an existing position, to assess the value of the position arising from an OTC transaction or to assess the exposure to risk. Bid prices and ask prices may not be quoted by us, based on best execution policies applicable in the market. There is no central clearing and no guarantee by any other party of RosyFXs payment obligations to the Customer, thus Customer is exposed to credit risk with RosyFX. Customer must look only to RosyFXs for performance of all contracts in Customers account and for return of any margin or collateral.",
+
+      "heading_9": "Prices, Margin And Valuations Are Set By RosyFX And May Be Different From Prices Reported Elsewhere",
+      "description_9": {
+        "1": "RosyFX will provide prices to be used in trading, valuation of Customer positions and determination of Margin requirements in accordance with its Trading Policies and Procedures and Market Information Sheets. The performance of your CFD or FX Contract will depend on the prices set by RosyFX and market fluctuations in the underlying asset to which your contract relates. Each underlying asset therefore carries specific risks that affect the result of the CFD concerned.",
+        "2": "Our prices for a given market are calculated by reference to the price of the relevant underlying asset which we obtain from third party external reference sources or exchanges. For our CFD and FX Contracts,",
+        "3": "we obtain price data from wholesale market participants. Although RosyFX expects that these prices will be reasonably related to prices available in the market, RosyFX’s prices may vary from prices available to banks and other market participants. RosyFX has considerable discretion in setting and collecting margin. RosyFX is authorized to convert funds in Customer’s account for margin into and from such foreign currency at a rate of exchange determined by RosyFX in its sole discretion on the basis of then-prevailing money market rates."
+      },
+      "heading_10": "Rights to Underlying Assets",
+      "description_10": "You have no rights or obligations in respect of the underlying instruments or assets relating to your CFDs or FX Contracts. The Customer understands that CFDs can have different underlying assets, such as stocks, indices, currencies and commodities, as specified in CFD Trading Conditions and FX Trading Conditions pages of RosyFX’s website.",
+
+      "heading_11": "Currency Risk",
+      "description_11": "Investing in FX Contracts and CFDs with an underlying asset listed in a currency other than your base currency entails a currency risk, due to the fact that when the CFD or FX Contract is settled in a currency other than your base currency, the value of your return may be affected by its conversion into the base currency.",
+
+      "heading_12": "One Click Trading And Immediate Execution",
+      "description_12": "RosyFXs Online Trading System provides immediate transmission of Customers order once Customer enters the notional amount and clicks “Buy/Sell.” This means that there is no opportunity to review the order after clicking “Buy/Sell” and Market Orders cannot be cancelled or modified. This feature may be different from other trading systems you have used. Customer should utilize the Demo Trading System to become familiar with the Online Trading System before actually trading online with RosyFX. Customer acknowledges and agrees that by using RosyFX’s Online Trading System, Customer agrees to the one-click system and accepts the risk of this immediate transmission/execution feature.",
+
+      "heading_13": "Telephone Orders And Immediate Execution",
+      "description_13": "Market Orders executed over the telephone through the RosyFX Trading Desk are completed when the RosyFXs telephone operator says “deal” or “done” following Customers placing of an order. Upon such confirmation of the telephone operator, Customer has bought or sold and cannot cancel the Market Order. By placing Market Orders through the RosyFX Trading Desk, Customer acknowledges and agrees to such immediate execution and accepts the risk of this immediate execution feature.",
+
+      "heading_14": "RosyFX Is Not An Adviser Or A Fiduciary To Customer",
+      "description_14": "Where RosyFX provides generic market recommendations, such generic recommendations do not constitute a personal recommendation or investment advice and have not considered any of your personal circumstances or your investment objectives, nor is it an offer to buy or sell, or the solicitation of an offer to buy or sell, any Foreign Exchange Contracts or Cross Currency Contracts. Each decision by Customer to enter into a CFD or FX Contract with RosyFX and each decision as to whether a transaction is appropriate or proper for Customer, is an independent decision made by the Customer. RosyFX is not acting as an advisor or serving as a fiduciary to Customer. Customer agrees that RosyFX has no fiduciary duty to Customer and no liability in connection with and is not responsible for any liabilities, claims, damages, costs and expenses, including attorneys fees, incurred in connection with Customer following RosyFXs generic trading recommendations or taking or not taking any action based upon any generic recommendation or information provided by RosyFX.",
+
+      "heading_15": "Recommendations Are Not Guaranteed",
+      "description_15": "The generic market recommendations provided by RosyFX are based solely on the judgment of RosyFXs personnel and should be considered as such. Customer acknowledges that Customer enters into any Transactions relying on Customers own judgment. Any market recommendations provided are generic only and may or may not be consistent with the market positions or intentions of RosyFX and/or its affiliates. The generic market recommendations of RosyFX are based upon information believed to be reliable, but RosyFX cannot and does not guarantee the accuracy or completeness thereof or represent that following such generic recommendations will reduce or eliminate the risk inherent in trading CFDs and/or FX Contracts.",
+
+      "heading_16": "No Guarantees Of Profit",
+      "description_16": "There are no guarantees of profit nor of avoiding losses when trading CFDs and FX Contracts. Customer has received no such guarantees from RosyFX or from any of its representatives. Customer is aware of the risks inherent in trading CFDs and FX Contracts and is financially able to bear such risks and withstand any losses incurred.",
+
+      "heading_17": "Customer May Not Be Able To Close Open Positions",
+      "description_17": "Due to market conditions which may cause any unusual and rapid market price fluctuations, or other circumstances, RosyFX may be unable to close out Customer’s position at the price specified by Customer and the risk controls imposed by RosyFX might not work and Customer agrees that RosyFX will bear no liability for a failure to do so.",
+
+      "heading_18": "Internet Trading",
+      "description_18": "When Customer trades online (via the internet), RosyFX shall not be liable for any claims, losses, damages, costs or expenses, caused, directly or indirectly, by any malfunction, disruption or failure of any transmission, communication system, computer facility or trading software, whether belonging to RosyFX, Customer, any exchange or any settlement or clearing system.",
+
+      "heading_19": "Telephone Orders",
+      "description_19": "RosyFX is not responsible for disruption, failure or malfunction of telephone facilities and does not guarantee its telephone availability. For the avoidance of doubt, Customer is aware that RosyFX may not be reachable by telephone at all times. In such cases Customer shall place his/her order through other means offered by RosyFX.",
+
+      "heading_20": "Quoting Errors",
+      "description_20": "Should a quoting error occur (including responses to Customer requests), RosyFX is not liable for any resulting errors in account balances and reserves the right to make necessary corrections or adjustments to the relevant Account. Any dispute arising from such quoting errors will be resolved on the basis of the fair market value, as determined by RosyFX in its sole discretion and acting in good faith, of the relevant market at the time such an error occurred. In cases where the prevailing market represents prices different from the prices RosyFX has posted on our screen, RosyFX will attempt, on a best efforts basis, to execute Transactions on or close to the prevailing market prices. These prevailing market prices will be the prices, which are ultimately reflected on the Customer statements. This may or may not adversely affect the Customer’s realized and unrealized gains and losses.",
+
+      "description_21": "I / WE HAVE READ, UNDERSTOOD AND AGREE TO THE RISK DISCLOSURE STATEMENT AND THE TRADING POLICIES AND PROCEDURES SET OUT ABOVE"
+    }
+  },
+  "contacts": {
+    "main_heading": "تواصل معنا ",
+    "description": "تحتاج الي المزيد من المعلومات؟",
+    "heading_1": "تواصل معنا ",
+    "description_1": "نحن ننظر في كل رسالة على حدة و سنبذل قصارى جهدنا للرد عليك في أقرب وقت ممكن.",
+
+    "heading_2": "ابقى على تواصل",
+    "description_2": "First Floor, First St Vincent Bank Ltd Building, James Street, Kingstown, St. Vincent and the Grenadines",
+
+    "heading_3": "تواصل معنا عبر البريد الالكتروني ",
+    "description_3": "نحن مستعدون دائمًا لمساعدتك",
+    "mail": "support@comfyfx.com",
+
+    "heading_4": "Let's Talk",
+    "description_4": "نتحدث 10 لغات",
+    "number": "+61 862 302 765"
+  },
+  "partners": {
+    "main_heading": "Partners",
+    "description": "Join one of the most lucrative and profitable partnership programs for IBs and Partners.",
+    "heading": "Become A",
+    "heading_span": "Partner",
+
+    "1": "1",
+    "2": "2",
+    "3": "3",
+
+    "heading_1": "تسجيل",
+    "heading_2": "Refer Clients",
+    "heading_3": "Start Earning",
+
+    "button_label": "فتح حساب "
+  },
+  "login": {
+    "main_heading": "Welcome To RosyFX",
+    "heading_span": "Log In",
+
+    "description": "Explore our range of services and tools to help you reach your trading goals.",
+    "email": "Email *",
+    "password": "Password *",
+
+    "keep_logged_in": "Keep me logged in",
+    "forget_password": "Forget Password?",
+
+    "button_label": "Sign In",
+
+    "new_user": "New user?",
+    "create_an_account": "Create an account"
+  },
+  "faq": {
+    "main_heading": "الأسئلة الأكثر شيوعًا ",
+    "main_heading_1": "حول ComfyFX",
+    "button_label_1": "Deposits and Withdrawals",
+    "button_label_2": "Account Information",
+    "button_label_3": "Trading Questions",
+
+    "section_2": {
+      "heading_1": "ما هي ComfyFX ؟",
+      "description_1": "ComfyFX هو مجال تداول مرخص من قبل Blue Sun Capital Ltd.  ComfyFX هي خدمة استثمارية متخصصة في الاستقبال والإرسال ، والخدمات الإضافية لمنح الائتمانات أو القروض للعملاء ، وخدمات الصرف للعملات الأجنبية فيما يتعلق بتوفير خدمات الاستثمار.",
+
+      "heading_2": "اي نوع من الوسطاء هو ComfyFX ؟",
+      "description_2": "ComfyFX هي وسيط STP. تعني المعالجة المباشرة (STP) أن جميع المعلومات المتعلقة بالأسواق مقدمة من مزودي السيولة (البنوك أو الوسطاء الآخرين). و هذا يعني أنه لا يوجد تضارب في المصالح بين العميل و الوسيط. لا تتلقى ComfyFX سوى التعويض عن توفير الهامش للعميل ، و بالتالي لا تتلقى فوائد من أي خسائر محتملة للعميل .",
+
+      "heading_3": "هل ComfyFX منظمة؟",
+      "description_3": {
+        "heading": "هو نطاق تديره Blue Sun Capital Ltd. لتقديم خدمات الاستثمار لـ: ",
+        "1": " استقبال و نقل الطلبات فيما يتعلق بواحدة أو أكثر من الأدوات المالية. ",
+        "2": " تنفيذ الطلبات نيابة عن العملاء. ",
+
+        "heading_1": {
+          "main_heading": " الخدمات الإضافية لـ ",
+          "1": " حفظ و إدارة الأدوات المالية لحساب العملاء ، بما في ذلك الوصاية و الخدمات ذات الصلة مثل إدارة النقد / الضمان ",
+          "2": " منح ائتمانات أو قروض للمستثمر للسماح له بإجراء معاملة في واحد أو أكثر من الأدوات المالية ، حيث تكون الشركة التي تمنح الائتمان أو القروض منخرطة أكثر في المعاملة ",
+          "3": " خدمات صرف العملات الأجنبية حيث ترتبط بتقديم خدمات الاستثمار ",
+          "4": " أبحاث الاستثمار والتحليل المالي أو أي أشكال أخرى من التوصيات العامة فيما يتعلق بـ  الأدوات  التالية",
+
+          "heading_2": "المالية:",
+          "description_1": " الأوراق المالية القابلة للتحويل ",
+          "description_2": " أدوات سوق المال ",
+          "description_3": " الوحدات والتعهدات الاستثمارية الجماعية ",
+          "description_4": " الخيارات و العقود الآجلة و المقايضات و اتفاقيات الأسعار الآجلة و أي عقود مشتقة أخرى تتعلق بالأوراق المالية أو العملات أو الفوائد أو العوائد أو الأدوات المشتقة الأخرى أو المؤشرات المالية أو التدابير المالية التي يمكن تسويتها ماديًا أو نقدًا. ",
+          "description_5": " الخيارات و العقود الآجلة و المقايضات و اتفاقيات الأسعار الآجلة و أي عقود مشتقة أخرى تتعلق بالأوراق المالية أو العملات أو الفوائد أو العوائد أو الأدوات المشتقة الأخرى أو المؤشرات المالية أو التدابير المالية التي يمكن تسويتها ماديًا أو نقدًا. ",
+          "description_6": " الخيارات والعقود الآجلة و المقايضات و العقود الآجلة وأي عقود مشتقة أخرى تتعلق بالسلع ، والتي يمكن تسويتها فعليًا إذا تم تداولها في سوق منظم أو / و ",
+          "description_7": " الخيارات و العقود الآجلة و المقايضات والعقود الآجلة وأي عقود مشتقة أخرى تتعلق بالسلع ، و التي يمكن تسويتها فعليًا لم يتم ذكرها بخلاف ذلك في الفقرة 6 من الجزء الثالث وليست للأغراض التجارية ، والتي تتميز بخصائص الأدوات المالية المشتقة الأخرى ، مع الأخذ في الاعتبار ، من بين أمور أخرى ، ما إذا كان قد تم تطهيرها و تسويتها من خلال غرف المقاصة المعترف بها أو أنها تخضع لخلايا الهامش العادية. ",
+          "description_8": " أدوات مشتقة للاختلافات ",
+          "description_9": " العقود المالية للفروق ",
+          "description_10": " الخيارات و العقود الآجلة و المقايضات و اتفاقيات الأسعار الآجلة و أي عقود مشتقة أخرى تتعلق بالمتغيرات المناخية وأسعار الشحن و بدلات الانبعاثات أو معدلات التضخم أو غيرها من الإحصاءات الاقتصادية الرسمية التي يجب تسويتها نقدًا أو يمكن تسويتها نقدًا حسب الخيار  لأحد الطرفين (بخلاف سبب التقصير أو حدث إنهاء آخر) ، و كذلك أي عقد مشتق آخر يتعلق بالأصول والحقوق و الالتزامات و المؤشرات و التدابير غير المذكورة في هذا الجزء ، و التي لها خصائص أخرى  الأدوات المالية المشتقة ، مع الأخذ في الاعتبار ما إذا كانت ، من بين أمور أخرى ، يتم تداولها في سوق منظم أو MTF ، يتم مقاصتها و تسويتها من خلال غرف المقاصة المعترف بها أو تخضع لخلايا الهامش العادية. ",
+          "description_11": " * يتم توفير هذه الأداة المالية لخدمات الصرف الأجنبي فقط عندما تكون مرتبطة بتقديم خدمات الاستثمار. "
+        }
+      },
+
+      "heading_4": "هل ComfyFX آمنة للتداول؟",
+      "description_4": "يدرك فريق ComfyFX مدى أهمية أن تكون اموالك في أمان . نتقيد تقيدًا صارمًا بالإرشادات المالية داخليًا وخارجيًا ، مع ضمانات مدمجة داخل النظام لضمان تجربة تداول فعالة و آمنة.",
+
+      "heading_5": "متى تأسست Blue Sun Capital Ltd ؟",
+      "description_5": "تأسست Blue Sun Capital Ltd من قبل مجموعة من المتداولين المحترفين و مديري استثمارات و مهندسي برمجيات في عام 2014.",
+
+      "heading_6": "ما نوع حسابات التداول التي توفرها ComfyFX ؟",
+      "description_6": "تقدم ComfyFX نوعين من حسابات التداول وهما الحساب التجريبي والحساب الحقيقي.",
+
+      "heading_7": "أنا جديد في تداول الفوركس ، هل ComfyFX هي المنصة المناسبة بالنسبة لي؟",
+      "description_7": "من المبتدئين إلى المحترفين ، تخدم ComfyFX جميع مستويات متداولي الفوركس. لضمان توفير تجربة تداول أكثر فعالية على مدار الساعة و طوال أيام الأسبوع ، يتوفر دعم متعدد اللغات.  توفر ComfyFX أدوات سهلة الاستخدام ومنصة مرنة لضمان تلبية جميع احتياجات التداول عبر الإنترنت."
+    },
+    "section_3": {
+      "heading": "Deposits and",
+      "heading_span": "Withdrawals",
+      "button_label": "Deposits and Withdrawals",
+
+      "heading_1": "ما هي الطرق المتاحة لإيداع الأموال في حسابي؟",
+      "description_1": {
+        "main_description": "يقبل ComfyFX مجموعة متنوعة من خيارات الدفع ، مثل:",
+        "1": " بطاقة الائتمان (فيزا وماستر كارد) ",
+        "2": " التحويل الإلكتروني ",
+
+        "3": " للحصول على قائمة كاملة بخيارات الدفع ، يرجى تسجيل الدخول إلى حسابك والذهاب إلى صفحة الإيداع."
+      },
+
+      "heading_2": "ما هو أدنى مبلغ يجب إيداعه لبدء التداول مع ComfyFX ؟",
+      "description_2": "يجب ايداع ما لا يقل عن 100$/100€/100£ في حسابك لتتمكن من بدأ التداول مع ComfyFX",
+
+      "heading_3": "كم من الوقت ستستغرق لظهور اموال الايداع في حسابي؟ ",
+      "description_3": {
+        "main_description": "يعتمد الوقت الذي يستغرقه ظهور الأموال في حسابك على خيار الدفع المستخدم:",
+
+        "1": " تستغرق معالجة بطاقات الائتمان حوالي 24 ساعة (من وقت الاستلام) ",
+        "2": " تستغرق إيداعات التحويل الإلكتروني من يوم إلى يومين عمل تقريبًا لمعالجتها (من وقت الاستلام) "
+      },
+
+      "heading_4": "كيف أسحب أموالًا من حسابي؟",
+      "description_4": {
+        "description_1": "لسحب الأموال ، يمكنك إما تسجيل الدخول إلى حسابك وإجراء عملية سحب باتباع التعليمات أو ملء نموذج طلب السحب. يمكنك أيضًا مسح نموذج الطلب ضوئيًا وإرساله بالبريد الإلكتروني إلى support@comfyfx.com. من أجل معالجة طلب السحب الخاص بك بطريقة سريعة وفعالة ، يرجى الرجوع إلى الإرشادات التالية:",
+        "description_2": " تتم معالجة طلبات السحب عادةً في غضون ثلاثة أيام عمل من استلام جميع الوثائق المطلوبة. ",
+        "description_3": " يمكن تحويل الأموال مباشرة إلى حسابك المصرفي عن طريق التحويل الإلكتروني أو إعادتها إلى بطاقتك الائتمانية.لكن، لا يمكن إجراء السحب إلا باستخدام نفس الطريقة التي استخدمتها للإيداع. على سبيل المثال ، إذا قمت بالإيداع باستخدام بطاقة ائتمان معينة ، فلا يمكن إعادة أموالك إلا إلى بطاقة الائتمان نفسها. ",
+        "description_4": " لسحب الأموال من حسابك ، يجب عليك الحفاظ على متطلبات الهامش الخاصة بك في حالة وجود صفقات مفتوحة. إذا طلبت سحب الأموال من حسابك ولم نتمكن من الامتثال دون إغلاق جزء من صفقاتك المفتوحة ، فلن نتمكن من تلبية طلبك حتى تقوم بإغلاق مراكز كافية لتمكين السحب. ",
+        "description_5": " يُرجى الملاحظة: وفقًا للوائح الدولية لمكافحة غسيل الأموال ، يُسمح لـ ComfyFX بتحويل الأموال فقط إلى حساب مصرفي أو بطاقة ائتمان تحمل اسمك والتي تم استخدامها للإيداع الأولي الخاص بك. يجب تقديم نسخ بطاقة الائتمان عند التسجيل والموافقة عليها من قبل قسم الإمتثال ل ComfyFX"
+      },
+
+      "heading_5": "عند سحب الأموال ، كم من الوقت سيستغرق لإستلامها؟",
+      "description_5": {
+        "description_1": "من المهم لـ ComfyFX أن تضمن تحويل أموالك بشكل سريع و فعال. تستغرق عمليات تحويل الأموال المنتظمة ما يقرب من ثلاثة إلى ستة أيام عمل للموافقة عليها ؛ و مع ذلك ، يرجى أن تضع في اعتبارك أن هناك العديد من العوامل التي قد تؤثر على سرعة خصم الاموال من حسابك . تشمل هذه العوامل ، على سبيل المثال لا الحصر ، الخدمة التي ستستخدمها لتحويل الأموال او طلبها.",
+        "description_2": " يتم تحويل سحوبات التحويل البنكي المعتمدة إلى مصرفنا في يوم الموافقة عليها ، وعادة ما يتم إرسالها من مصرفنا في نفس اليوم. غالبًا ما تشق التحويلات البرقية طريقها بين العديد من البنوك في العديد من البلدان ، وقد يستغرق ذلك وقتًا أطول قليلاً ، حيث تتطلب المؤسسات المالية الأجنبية عادةً بضعة أيام عمل لتحويل الأموال الى جميع أنحاء العالم. بمجرد المعالجة ، لأي عملية سحب عن طريق التحويل المصرفي أو بطاقة الائتمان ، يرجى السماح بما يصل إلى 7 أيام عمل حتى تصل الأموال إلى حسابك المصرفي. يرجى الملاحظة:",
+        "1": " امتثالًا للوائح الدولية لمكافحة غسيل الأموال ",
+
+        "2": " تسمح ComfyFX فقط بتحويل الأموال إلى الحساب المصرفي / بطاقة الائتمان / حساب التشفير الذي يحمل اسمك الذي تم استخدامه للإيداع الأولي. ",
+        "3": " يجب تقديم نسخ بطاقة الائتمان عند التسجيل والموافقة عليها من قبل قسم الامتثال ل ComfyFX"
+      },
+      "heading_6": "بمن يمكنني الإتصال بخصوص حسابي أو للسحب؟ ",
+      "description_6": {
+        "1": "مدير حسابك جاهز لمساعدتك في أي استفسارات قد تكون لديك. للحصول على إجابة سريعة ، يمكنك الوصول إلى مدير حسابك عبر البريد الإلكتروني أو الهاتف.",
+        "2": " إذا لم يكن مدير حسابك متاحًا ، فسيكون فريق الدعم لدينا جاهزًا للإجابة على جميع الأسئلة. يوجد دائمًا موظف متاح للعناية بجميع احتياجاتك. لا تتردد في التواصل معنا في أي وقت على support@comfyfx.com "
+      }
+    },
+    "section_4": {
+      "heading": "كيف أقوم بفتح حساب؟",
+      "description": "من السهل فتح حساب مع ComfyFX. ما عليك سوى النقر على رابط \"فتح حساب تداول\" وملء المعلومات المطلوبة.  بمجرد إنشاء حسابك بنجاح ، ستحتاج إلى إرسال المستندات ليتم التحقق منها لإكمال عملية التسجيل. يمكن إرسال هذه المستندات عبر الفاكس أو مسحها ضوئيًا أو إرسالها عبر البريد الإلكتروني.  بمجرد الموافقة على مستنداتك ، ستتمكن من تمويل حسابك وبدء التداول.",
+
+      "heading_1": "ما هي المستندات المطلوبة لفتح حساب مع ComfyFX ؟",
+      "description_1": {
+        "1": "المستندات التالية مطلوبة لفتح حساب:",
+
+        "2": " مستند تعريف مثل جواز السفر أو رخصة القيادة أو الهوية الرسمية ",
+        "3": " إثبات العنوان مثل فاتورة خدمات أو كشف حساب مصرفي (يجب ألا يزيد عمره عن 6 أشهر) "
+      },
+
+      "heading_2": "قمت بالتسجيل و لكن لا يمكنني الدخول إلى حسابي ، ماذا يجب ان أفعل؟",
+      "description_2": "يرجى التواصل مع فريق دعم ComfyFX عبر الدردشة الحية آو عن طريق البريد الإلكتروني support@comfyfx.com",
+
+      "heading_3": "هل يمكن لشركتي فتح حساب مع ComfyFX ؟",
+      "description_3": "يقبل ComfyFX حسابات الشركات فقط بعد القيام بعمليات تحقق صارمة . إذا كنت مهتمًا بالتقديم ، فيرجى الاتصال بـ support@comfyfx.com لمزيد من المعلومات.",
+
+      "heading_4": "هل يمكنني فتح حساب مشترك؟",
+      "description_4": "نعم يمكنك، للمزيد من المعلومات يرجى التواصل معنا عبر support@comfyfx.com",
+
+      "heading_5": "كيف يمكنني تغيير معلومات حسابي؟ ",
+      "description_5": "لتغيير معلومات حسابك ، يرجى الاتصال بمدير العلاقات مع العملاء أو أحد أعضاء فريق الدعم لدينا. يمكنك مراسلتنا على support@comfyfx.com.",
+
+      "heading_6": "هل تتقاضى ComfyFX عمولة أو رسوم تداول؟",
+      "description_6": "لا تتقاضى ComfyFX أي عمولة أو رسوم تداول على معاملاتك. يتم تعويض ComfyFX عن خدماتها من خلال الفرق بين اسعار البيع و الشراء.",
+
+      "heading_7": "هل تقوم ComfyFX بإجراء خصومات من حسابي للأغراض الضريبية؟",
+      "description_7": "لا تقوم ComfyFX بخصم الضرائب من حسابات العملاء. لكن تقع على عاتق العميل نفسه مسؤولية التعامل مع التزاماته الضريبية وفقًا للقانون المحلي في بلاده.",
+
+      "heading_8": "ماذا يحدث لصفقاتي المفتوحة في نهاية كل يوم تداول؟",
+      "description_8": "يتم تحويل جميع المراكز المفتوحة تلقائيًا أو تبديلها إلى يوم العمل التالي. تقليديًا ، يتم تنفيذ جميع الصفقات الفورية في سوق الفوركس لمدة يومي عمل (بدءًا من تاريخ تسليم الصفقة). من أجل تجنب تسليم الصفقة ، يتم إغلاق المراكز تلقائيًا لتاريخ التداول الأصلي وإعادة فتحها في تاريخ التداول التالي. لإعطاء أقصى قدر من المزايا لعملائنا ، يتم الاحتفاظ بمعدلات الفتح و الإغلاق للتمديد كما هي مع معدل المركز المفتوح. ثم يتم إضافة قسط أو طرحه بناءً على الفرق في سعر الفائدة بين العملتين الجاري تداولهما.",
+
+      "heading_9": "هل سيقوم شخص ما بإدارة استثماراتي؟",
+      "description_9": {
+        "1": "لا تدير ComfyFX الأموال لعملائها ، لأن هذا قد يؤدي إلى تضارب في المصالح. من أجل الحفاظ على حيادنا بنسبة 100٪ ، فإننا لا ندير  أموال العملاء. و لكن سيتم تعيين مدير للعلاقات مع العملاء من شركتنا ليساعدك اثناء ادارة استثماراتك.",
+        "2": " "
+      },
+      "heading_10": "ما هي متطلبات الهوامش في ComfyFX ؟",
+      "description_10": "يمكن لعملائنا التداول باستخدام رافعة مالية تصل إلى 500:1 ، اعتمادًا على الأصل الذي يرغبون في تداوله وحجم الصفقة. الرافعة المالية 500:1 تعني أن العميل قادر على فتح مركز ، وهو ما يصل إلى 500 ضعف حجم إيداعه أو إيداعها. على سبيل المثال ، إذا قام العميل بإيداع 1000 دولار ، فسيكون قادرًا على فتح صفقة تصل قيمتها إلى 500000 دولار.",
+
+      "heading_11": "هل يوجد مخاطر في تداول الفوركس / العقود مقابل الفروقات (CFD)؟",
+      "description_11": "يجب ان نأخذ في الاعتبار أن تداول العملات الأجنبية و العقود مقابل الفروقات (CFD) ينطوي على درجة عالية من المخاطر وقد يؤدي إلى خسارة مالية خطيرة. تداول العملات الأجنبية و العقود مقابل الفروقات (CFD) ليس مناسبًا للجميع. استعمال درجات عالية من الرافعة المالية مع التقلبات التي ينطوي عليها تداول الفوركس و العقود مقابل الفروقات (CFD) يمكن ان يؤدي إلى خسائر فادحة كما يمكن ان يحقق مكاسب كبيرة. نوصي بأن عملائنا بأن يتداولوا بحذر وعناية شديدين. استفد استفادة كاملة من جميع خدمات فريق الدعم المدربين تدريباً عالياً لمساعدتك في كل ما تحتاجه للتداول . لدينا أيضًا مكتبة شاملة من الموارد التعليمية المتاحة على موقعنا الإلكتروني للمساعدة في تقليل الخسائر المحتملة ، نقدم أيضًا أدوات التداول الأساسية مثل أوامر وقف الخسارة. ومع ذلك ، فإن هذه الأدوات لا تزيل عنصر المخاطرة الذي ينطوي عليه تداول الفوركس. لمعرفة المزيد حول المخاطر التي ينطوي عليها تداول الفوركس و العقود مقابل الفروقات (CFD) يرجى زيارة صفحة إخلاء المسؤولية عن المخاطر.",
+
+      "heading_12": "في اي ساعات يمكنني التداول؟ ",
+      "description_12": "ساعات التداول تختلف بين الأصول. لمزيد من المعلومات حول ساعات التداول ، يرجى زيارة صفحة أدوات التداول.",
+
+      "heading_13": "لماذا يتعين علي ملء الاستبيان؟",
+      "description_13": "يتبع وسطاء التداول قوانين ولوائح صارمة ويجب عليهم تحديد هوية العملاء والتحقق منها. يجب اخذ معلومات كافية من العملاء لمراقبة العلاقات التجارية المستمرة و هذا يعود لسياسة مكافحة غسيل الأموال (AML) ، و هذه التفاصيل ضرورية لأغراض أمنية."
+    },
+    "section_5": {
+      "heading_1": "ما هي منصات التداول المتوفرة؟",
+      "description_1": {
+        "title": "ComfyFX لديها 3 منصات تداول متاحة:",
+
+        "1": " MetaTrader 5: استفد من خاصية نقرة واحدة ، لتنفيذ الطلبات على أفضل وجه ، والتحليل الفني المتقدم وإمكانيات التشغيل الآلي التي لا مثيل لها! ",
+        "2": " MT5 WebTrader: منصة ويب سهلة الاستخدام ، تعمل على مزامنة جميع التداولات مع حساب MT5 الخاص بك. ",
+        "3": " Mobile & amp؛ Tablet Trader: منصة تداول محسّنة للتابلت والموبايل متزامنة بالكامل مع حساب MT5 الخاص بك. ",
+
+        "description": " لمعرفة المزيد حول منصاتنا ، يرجى زيارة صفحة منصات التداول. "
+      },
+
+      "heading_2": "ما هي الأنظمة الموصى بها للتداول؟",
+      "description_2": {
+        "title": "متطلبات الكمبيوتر الموصى بها هي:",
+
+        "1": " المعالج: Intel Pentium IV 3.0GHz ",
+        "2": " الذاكرة: 512 ميجا بايت من ذاكرة الوصول العشوائي ، أو أعلى ",
+        "3": " الشاشة: دقة لا تقل عن 800 × 600 بكسل ",
+        "4": " نظام التشغيل: Microsoft Windows XP و Windows 2000 ",
+        "5": " متصفح الويب: Microsoft Internet Explorer 6.X ",
+        "6": " الاتصال بالإنترنت: اتصال إنترنت واسع النطاق بسرعة تنزيل لا تقل عن 1.5 ميغابايت ملاحظة: الأنظمة التي لا تفي بهذه المتطلبات قد تواجه مشكلة محدودية في الوظائف. "
+      },
+
+      "heading_3": "ما هو توقف / طلب الهامش؟",
+      "description_3": {
+        "1": "تنبيه الهامش عند 60٪ من مستوى الهامش. إذا وصلت إلى تنبيه الهامش ، فسيتم توجيهك إما لإغلاق بعض مراكزك المفتوحة أو إيداع وديعة لتقوية مراكزك المفتوحة الحالية.",
+        "2": " الوقف عند 40٪ من مستوى الهامش.  إذا انخفض مستوى الهامش لديك إلى 40٪ ، فستبدأ مراكزك في الإغلاق تلقائيًا. الصفقات التي تغلق اولا دائمًا ما تكون الصفقات ذات أعلى خسارة ."
+      },
+
+      "heading_4": "ما هو وقف الخسارة المتحرك؟",
+      "description_4": {
+        "1": "الإيقاف المتحرك هو أمر وقف خسارة يضبط نفسه تلقائيًا عندما يتحرك سعر السوق في اتجاه مركزك المفتوح. يتأخر السعر المتحرك وراء ارتفاع الأسعار ، مما يسمح لك بجني المزيد من الأرباح مع ضمان أنه إذا انخفضت الأسعار فجأة ستبقى اموالك محمية بأمر إيقاف الخسارة التلقائي.",
+        "2": " ملاحظة مهمة لمنصة MetaTrader 5: نظرًا لأن الإيقاف المتحرك يعمل عن طريق العميل ، على عكس إيقاف الخسارة وجني الأرباح اللذين يعملان عن طريق المنصة ، فلن يعمل إذا تم إغلاق محطة العميل. إذا تم إغلاق محطة العميل ، يمكن فقط تشغيل أمر إيقاف الخسارة الذي تم وضعه بواسطة Trailing Stop قبل إغلاق الجهاز .",
+        "3": " "
+      },
+
+      "heading_5": "ما هو الفوركس؟",
+      "description_5": "يعد سوق صرف العملات الاجنبية (فوركس أو فوركس) أكبر الأسواق المالية وأكثرها سيولة في العالم ، حيث يبلغ حجم التداول اليومي حوالي 4 تريليون دولار أمريكي.  تداول الفوركس هو بيع وشراء عملة بلد ما مقابل عملة أخرى.  لمعرفة المزيد عن سوق الفوركس ، يرجى الرجوع إلى صفحة الفوركس.",
+
+      "heading_6": "ما هو السبريد spread ؟ ",
+      "description_6": "السبريد هو الفرق بين سعر العرض (سعر البيع) و سعر الطلب (سعر الشراء). مثال: إذا كان سعر زوج يورو / دولار أمريكي هو 1.2910 مقابل 1.2913 فإن السبريد هو 3 نقاط.",
+
+      "heading_7": "ما هي النقطة (pip) ؟",
+      "description_7": "Pip هي اختصار لنقطة فائدة السعر. يمثل هذا أصغر قيمة قياس لعملات الفوركس.",
+
+      "heading_8": "كيف يعمل أمر وقف الخسارة؟",
+      "description_8": {
+        "1": "تُستخدم أوامر إيقاف الخسارة لتقليل المخاطر عن طريق إغلاق صفقة خاسرة بمجرد أن يتجاوز السوق قيمة إطلاق يحددها المتداول مسبقًا.  ستبذل ComfyFX قصارى جهدها لتنفيذ تداولك بالسعر المطلوب. ومع ذلك ، نظرًا لأن الأمر سيغلق صفقتك بأفضل سعر متاح بمجرد تنشيطه ، فإن وقف الخسارة معرض احيانا لفجوة في السوق. هذا يعني أن ComfyFX لا يمكنها ضمان وقف الخسارة دائمًا.",
+        "2": " "
+      },
+
+      "heading_9": "متى يكون سوق الفوركس مفتوحًا للتداول؟",
+      "description_9": "سوق الفوركس مفتوح للتداول 24 ساعة في اليوم ، خمسة أيام في الأسبوع. يفتح السوق مساء الأحد في الساعة 22:00 بتوقيت جرينتش عندما تفتح الأسواق الآسيوية ، و ينتهي مساء الجمعة عندما تغلق أسواق نيويورك.",
+
+      "heading_10": "ما هو التبييت رول أوفر ؟ ",
+      "description_10": {
+        "1": "التبييت هو عندما يتم دفع الفائدة أو خصمها من المراكز المفتوحة. يتضمن تداول العملات دائمًا عملتين مختلفتين مع معدل الفائدة الفردي الخاص بهما. عندما تشتري عملة ذات معدل فائدة أعلى من العملة المباعة ، ستُدفع لك فائدة.",
+        "2": " و مع ذلك ، عندما تشتري عملة بسعر فائدة أقل من العملة المباعة ، فسوف تدفع فائدة ، و سيتم خصم الأموال من حسابك. ينطبق التمديد فقط على التداولات الليلية ."
+      }
+    }
+  },
+  "register": {
+    "main_heading": "Create Account",
+    "heading_span": "Start Trading Forex, Metals and CFDs",
+
+    "live": "Live Account",
+    "demo": "Demo Account",
+
+    "note": "* Selected items are required",
+
+    "first_name": "First Name *",
+    "last_name": "Last Name *",
+
+    "username": "Username/Email *",
+    "form_control": "form-control",
+
+    "phone": "Phone Number *",
+    "referal": "Referral (If applicable)",
+
+    "income": "Estimated Annual Gross Income",
+    "address_1": "Address 1 *",
+    "address_2": "Address 2",
+
+    "country": "Country *",
+    "zip_code": "Zip Code *",
+
+    "register_as_company": "Register as a Company?",
+    "date_birth": "Date of Birth *",
+
+    "account_type": "Account Type *",
+    "currency": "Currency *",
+
+    "leverage": "Leverage",
+
+    "password": "Password",
+
+    "placeholder_password": "Password",
+
+    "1": "Member's-Area password. Leave blank to auto-generate'",
+    "2": "Opt-In for Newsletter?",
+
+    "declare": "I declare that I have carefully read and fully understood",
+    "privacy_policy": "Privacy Policy",
+    "risk": "Risk Disclosure",
+    "terms_conditions": "Terms and Conditions",
+    "agree": "with which I fully agree.",
+
+    "button_label": "REGISTER"
+  },
+  "glossary": {
+    "main_heading": "قائمة المصطلحات",
+
+    "heading": "Learn about",
+    "heading_span": "trading terminology",
+    "description": "Browse our extensive collection of trading definitions to better understand the financial markets.",
+    "load_more": "LOAD MORE",
+
+    "terms": {
+      "term_1": {
+        "name": "ADI",
+        "text": "ADI stand for Average Directional Index. This is used as a technical bareometer of the strength or weakness of trends in financial markets."
+      },
+      "term_2": {
+        "name": "Anonymous Trading",
+        "text": "Traders can opt not to disclose their identity while making offers or bids on the financial markets."
+      },
+      "term_3": {
+        "name": "Appreciation",
+        "text": "The increase in monetary value of any financial instrument in response to the market."
+      },
+      "term_4": {
+        "name": "Arbitrage",
+        "text": "The simultaneous purchase and sale of an asset in order to increase profits with minimal risks."
+      },
+      "term_5": {
+        "name": "Ask Rate",
+        "text": "The lowest price a seller is willing to sell a financial asset, also known as an offer."
+      },
+      "term_6": {
+        "name": "Asset",
+        "text": "The instrument that a contract is based upon. This could be a stock, bond, or commodity."
+      },
+      "term_7": {
+        "name": "Asset Location",
+        "text": "An investment strategy that aims to balance risk and reward by distribute a portfolio's assest according to a trader's goals and risk tolerance."
+      },
+      "term_8": {
+        "name": "At the Money",
+        "text": "This term refers to a trade breaking even, meaing their neither a profit or a loss."
+      },
+      "term_9": {
+        "name": "Attorney in Charge",
+        "text": "An individual authorized to make transactions on the financial markets on behalf of the trader."
+      },
+      "term_10": {
+        "name": "Authorized Dealer",
+        "text": "A certified entity that engages in foreign currency transactions."
+      },
+      "term_11": {
+        "name": "Away from the Market",
+        "text": "An expression used when a buy or sell price deviates from the assets market price."
+      },
+      "term_12": {
+        "name": "Altcoin",
+        "text": "This term refers to low market cap cryptocurrencies. It originated as a term to describe all cryptocurrencies 'alternative coins' other than bitcoin."
+      },
+      "term_13": {
+        "name": "Aussie",
+        "text": "A slang term for the AUD/USD currency pair."
+      },
+      "term_14": {
+        "name": "Balance of Payments (BOP)",
+        "text": "A record that tracks a country's transactions over a particular period of time."
+      },
+      "term_15": {
+        "name": "Balance of Trade",
+        "text": "The difference in value between a country's imports and exports over a particular period of time."
+      },
+      "term_16": {
+        "name": "Bank Rate",
+        "text": "The interest rate that the central bank of a country gives loans to domestic comercial banks."
+      },
+      "term_17": {
+        "name": "Bar Charts",
+        "text": "A common diagram used to study the price action of currency pairs."
+      },
+      "term_18": {
+        "name": "Base Currency",
+        "text": "A term used in trading Foreign Exchange. When quoting currency pairs, it is the first currency that you trade the secondary/quoted currency against. Example: EUR/USD - the Euro is the base currency, and the US Dollar is the quote currency."
+      },
+      "term_19": {
+        "name": "Bear",
+        "text": "An investor who believes that the price of a particular asset will fall and attempts to profit from a decline in stock prices."
+      },
+      "term_20": {
+        "name": "Bear Market",
+        "text": "The financial market in which asset prices are falling, encouraging selling."
+      },
+      "term_21": {
+        "name": "Bid",
+        "text": "The selling price of a specific financial asset."
+      },
+      "term_22": {
+        "name": "Big Figure",
+        "text": "The first two to three digits of a Foreign Exchange rate or price."
+      },
+      "term_23": {
+        "name": "Blue Chip",
+        "text": "Shares of well-established companies, considered to be a reliable investment."
+      },
+      "term_24": {
+        "name": "Break Even",
+        "text": "This is when there is no profit or loss experienced when making a transaction."
+      },
+      "term_25": {
+        "name": "Bretton Woods Agreement",
+        "text": "An agreement for an international monetary system. This agrement was signed in 1944 in the United States."
+      },
+      "term_26": {
+        "name": "Broker",
+        "text": "A person who buys and sells financial assets as a middleman between retail traders and established financial corporations."
+      },
+      "term_27": {
+        "name": "Bull",
+        "text": "An investor who believes that the price of a particular asset rise fall and attempts to profit from an increase in stock prices."
+      },
+      "term_28": {
+        "name": "Bull Market",
+        "text": "The financial market in which asset prices are rising, encouraging buying."
+      },
+      "term_29": {
+        "name": "Block",
+        "text": "A collection of data defining transactions that took place in a particular period of time. After being published, blocks cannot be changed and therefore are linked with other blocks to creat a chain of data."
+      },
+      "term_30": {
+        "name": "Blockchain",
+        "text": "A ledger of transactions made in cryptocurrencies that are recorded chronologically."
+      },
+      "term_31": {
+        "name": "British Pound",
+        "text": "A slang term for the Currency of the United Kingdom, short for the Sterling Pound."
+      },
+      "term_32": {
+        "name": "Buy Limit Order",
+        "text": "An order to buy a security at or below a specified price."
+      },
+      "term_33": {
+        "name": "Call Option",
+        "text": "An agreement that allows a buyer the option to buy a financial asset at a specified price with in a particular period of time. The buyer however is not obligated to purchase the asset."
+      },
+      "term_34": {
+        "name": "CCI",
+        "text": "CCI stands for Commodity Channel Index. This is a technical trading tool regularly used to measure when a financial instrument has been overbought or oversold."
+      },
+      "term_35": {
+        "name": "CFD",
+        "text": "CFD stands for Contract for Difference. This is a contract between an investor and an investment instituation. At the end of the contract, the parties involved exchange the monetary difference between the opening and closing prices of the financial instrument involved in the contract."
+      },
+      "term_36": {
+        "name": "Commission",
+        "text": "A fee paid to the brokerage firm that facilitated a transaction."
+      },
+      "term_37": {
+        "name": "Commodities",
+        "text": "This refers to raw materials including precious metals, oil, and coffee."
+      },
+      "term_38": {
+        "name": "Commodity Pairs",
+        "text": "The foreign exchange pairs that are highly correlated to commodity fluctuations in the global financial markets. These three pairs are USD/CAD, AUD/USD, and NZD/USD."
+      },
+      "term_39": {
+        "name": "Counter Currency",
+        "text": "A term used in trading Foreign Exchange. When quoting currency pairs, it is the second currency that you compare against the base currency."
+      },
+      "term_40": {
+        "name": "CPI",
+        "text": "CPI stands for Consumer Price Index. A statistical measurement that examines changes in the purchasing power of a currency and the inflation rate."
+      },
+      "term_41": {
+        "name": "Cross Currency Transaction",
+        "text": "A transaction that involves two or more currencies being traded at the same time."
+      },
+      "term_42": {
+        "name": "Currency",
+        "text": "A financial asset that can be traded, often in pairs."
+      },
+      "term_43": {
+        "name": "Currency Trading",
+        "text": "The exchange of one currency for another currency."
+      },
+      "term_44": {
+        "name": "Centeralization",
+        "text": "Any system that is controlled by trusted parties, such as banks or money transmitters. All financial assets other than cryptocurrency have a centralized market."
+      },
+      "term_45": {
+        "name": "Cable",
+        "text": "A slang term in Forex trading for the currency pair GBP/USD (British Pound vs. US Dollar)."
+      },
+      "term_46": {
+        "name": "Correlation",
+        "text": "A statistical term for establishing a relationship between two or more independent assets."
+      },
+      "term_47": {
+        "name": "Day Trading",
+        "text": "This is when positions on the market are opened and closed on the same day, rather than holding the positions overnight."
+      },
+      "term_48": {
+        "name": "Decentralization",
+        "text": "Cryptocurrency has allowed for decentralization of the markets. Unlike all other financial assets, cryptocurrency does not need to be traded by a trusted party."
+      },
+      "term_49": {
+        "name": "Deficit",
+        "text": "This occurs when liabilities (losses) exceed assets (profits)."
+      },
+      "term_50": {
+        "name": "Demo Trader",
+        "text": "An account that uses virtual money, allowing a potential investor to get acclimated to trading in the market before investing real money."
+      },
+      "term_51": {
+        "name": "Depreciation",
+        "text": "The decrease in monetary value of any financial instrument in response to the market."
+      },
+      "term_52": {
+        "name": "Derivative",
+        "text": "A financial contract with a value deriving from an underlying variable asset."
+      },
+      "term_53": {
+        "name": "Dividend",
+        "text": "A portion of a company's profits paid to shareholders on a regular schedule."
+      },
+      "term_54": {
+        "name": "DAX",
+        "text": "Germany's leading stock index is called Deutsche Atkien Xchange, or DAX for short."
+      },
+      "term_55": {
+        "name": "Dealing Desk",
+        "text": "This is where a dealer facilitates transactions."
+      },
+      "term_56": {
+        "name": "Depth of Market",
+        "text": "The volume of open buy and sell orders for a particular currency pair at a particular point in time."
+      },
+      "term_57": {
+        "name": "Earnings Per Share (EPS)",
+        "text": "The portion of a company's profits allocated to each share of common stock."
+      },
+      "term_58": {
+        "name": "ECN Broker",
+        "text": "ECN stands for Electronic Communication Networks. An ECN Broker is a financial expert that uses ECN's to allow clients direct access to the markets."
+      },
+      "term_59": {
+        "name": "Expert Advisor",
+        "text": "An automated trading robot within the trading platform that allows the analytical and trading processes to be carried out with limited manual control."
+      },
+      "term_60": {
+        "name": "Expiry Time",
+        "text": "The date and time when a trade involving a financial instrument expires."
+      },
+      "term_61": {
+        "name": "European Central Bank (ECB)",
+        "text": "The European Central Bank is responsible for the monetary policy of countries that have adopted the Euro as their currency."
+      },
+      "term_62": {
+        "name": "Exotic",
+        "text": "Exotic currencies are those that are less traded than the major currencies."
+      },
+      "term_63": {
+        "name": "Federal Reserve",
+        "text": "The central bank of the United States, responsible for overseeing the financial system of the country. This is the leading financial instituation in the world."
+      },
+      "term_64": {
+        "name": "Fibonacci",
+        "text": "A common technical tool used by analysts to identify potential levels of support and resistance based on key numbers."
+      },
+      "term_65": {
+        "name": "Fill",
+        "text": "The act of executing a transaction on a trading platform."
+      },
+      "term_66": {
+        "name": "Financial Instrument",
+        "text": "The asset that is used in a trade. This could be a stock, bond, or commodity."
+      },
+      "term_67": {
+        "name": "Flat",
+        "text": "This describes a situation when a trader does not have any running positions in the market."
+      },
+      "term_68": {
+        "name": "Forex",
+        "text": "A slang term for Foreign Exchange."
+      },
+      "term_69": {
+        "name": "Fundamental Analysis",
+        "text": "A method of market analysis used to evaluate related economic, financial and other qualitative and quantitative factors that affect the performance of a particular financial instrument."
+      },
+      "term_70": {
+        "name": "Fiat",
+        "text": "This is term used to describe traditional currencies as opposed to cryptocurrencies."
+      },
+      "term_71": {
+        "name": "FUD",
+        "text": "FUD is an acronym that stands for fear, uncertainty, and doubt. It is often used by traders to reference the negative attitude surrounding cryptocurrency."
+      },
+      "term_72": {
+        "name": "Gap",
+        "text": "The difference in value between the closing price of one trading period and the opening price of the following trading period."
+      },
+      "term_73": {
+        "name": "GDP",
+        "text": "GDP stands for Gross Domestic Product. It determines the total worth of a country's services and produced goods with in a particular time period, and is used to gauge the economic standing of a country."
+      },
+      "term_74": {
+        "name": "GTC",
+        "text": "GTC stands for Good Till Cancelled. This is an order to buy or sell a specific financial asset at a specific price, that is only valid until a trader chooses to cancel it."
+      },
+      "term_75": {
+        "name": "Hedging",
+        "text": "A strategy used in order to reduce risk of losses when trading in the financial markets."
+      },
+      "term_76": {
+        "name": "In the Money",
+        "text": "A phrase to describe a trader making a profit."
+      },
+      "term_77": {
+        "name": "Index",
+        "text": "A weighted average of preselected stock prices that is used to measure a section of the stock market. Some popular indices are the NASDAQ, Dow Jones, and S&P 500."
+      },
+      "term_78": {
+        "name": "Inflation",
+        "text": "A progressive increase in prices of goods and services within a country, which in turn reduces the purchasing value of that country's currency."
+      },
+      "term_79": {
+        "name": "Interbank Rate",
+        "text": "The interest rate on loans that one bank will offer to another bank."
+      },
+      "term_80": {
+        "name": "Initial Margin",
+        "text": "The first deposit a customer makes, which then determines their maximum trade size."
+      },
+      "term_81": {
+        "name": "Initial Margin Requirement",
+        "text": "The minimum amount for a deposit to enter a trade position."
+      },
+      "term_82": {
+        "name": "Interest Rate",
+        "text": "The fee paid for borrowing money. Interest rates fluxate as they are affected by Central Banks and inflation."
+      },
+      "term_83": {
+        "name": "Introducing Broker",
+        "text": "A broker with a direct relationship with the client, but delegates the transactions and trades to another broker."
+      },
+      "term_84": {
+        "name": "Japanese Yen",
+        "text": "The currency in Japan."
+      },
+      "term_85": {
+        "name": "Jobber",
+        "text": "A term used for a trader who intends to make accumulated profits by opening and closing short-term positions."
+      },
+      "term_86": {
+        "name": "Kill",
+        "text": "An order that cannot be wholly filled in the market will be cancelled or killed."
+      },
+      "term_87": {
+        "name": "Kiwi",
+        "text": "A slang term for the New Zealand Dollar"
+      },
+      "term_88": {
+        "name": "Lagging Indicators",
+        "text": "Statistics that change after trends in the economy have already started to change."
+      },
+      "term_89": {
+        "name": "Leading Indicators",
+        "text": "Statistics that help forecast a country's economic performance trends."
+      },
+      "term_90": {
+        "name": "Leverage",
+        "text": "A financial tool that allows an investor to magnify their market exposure beyond their initial capital."
+      },
+      "term_91": {
+        "name": "Liquidity",
+        "text": "The degree to which an asset can be bought or sold without affecting it's price."
+      },
+      "term_92": {
+        "name": "Long",
+        "text": "Opening a buy position in the market is referred to as 'going long'"
+      },
+      "term_93": {
+        "name": "Limit Order",
+        "text": "A direction to buy or sell an asset a specified price or better."
+      },
+      "term_94": {
+        "name": "Line Chart",
+        "text": "A series of lines connecting multiple price levels over a particular time period."
+      },
+      "term_95": {
+        "name": "Lot",
+        "text": "The standard number of units required to trade a financial asset, as determined by the exchange."
+      },
+      "term_96": {
+        "name": "Margin",
+        "text": "The size of deposit needed to ensure the running positions in the market are kept active."
+      },
+      "term_97": {
+        "name": "Margin Account",
+        "text": "An account provided by brokers that allows investors to buy securities borrowed funds."
+      },
+      "term_98": {
+        "name": "Margin Call",
+        "text": "The requirement made by a broker that a trader makes an additional deposit to cover possible losses."
+      },
+      "term_99": {
+        "name": "Market Maker",
+        "text": "A brokerage firm that buys and sells financial assets to provide liquidity to the markets."
+      },
+      "term_100": {
+        "name": "Market Price",
+        "text": "The current price of a financial asset being traded in the market."
+      },
+      "term_101": {
+        "name": "Mine and Yours",
+        "text": "Terms used to describe the intention to buy or sell. 'Mine' is used when buying, and 'yours' is used when selling."
+      },
+      "term_102": {
+        "name": "Money Market",
+        "text": "A segment of the financial market involving transactions of financial assets with fast maturities and high liquidity."
+      },
+      "term_103": {
+        "name": "Moving Acerage Convergence Divergence (MACD)",
+        "text": "A technical indicator used to determine the trend of the market."
+      },
+      "term_104": {
+        "name": "Miners/Mining",
+        "text": "A miner's duty is to keep blockchains secure by confirming transactions and time-stamping entries."
+      },
+      "term_105": {
+        "name": "Maximum Leverage",
+        "text": "The largest amount of leverage available on the initial deposit."
+      },
+      "term_106": {
+        "name": "MetaTrader4",
+        "text": "The innovative trading platform used to provide brokerage services to traders in multiple financial assets."
+      },
+      "term_107": {
+        "name": "Monetary Poilicy",
+        "text": "The policy regarding interest rates and money supply put in place by the central bank of a particular country."
+      },
+      "term_108": {
+        "name": "Moving Average",
+        "text": "A technical indicator used to filter out the abnormalities to allow the focus to be on the statistical average of the original curve."
+      },
+      "term_109": {
+        "name": "NASDAQ",
+        "text": "The largest electronic stock exchange in the United States."
+      },
+      "term_110": {
+        "name": "Noise",
+        "text": "Abnormalities in the market that make it difficult to focus on the statistical averages used to make a trading decision."
+      },
+      "term_111": {
+        "name": "NYSE",
+        "text": "New York Stock Exchange."
+      },
+      "term_112": {
+        "name": "NFP",
+        "text": "Stands for Non Farm Payroll. A monthly report done by the United States Department of Labor, which is used to determine the status of the labor market, excluding farmers."
+      },
+      "term_113": {
+        "name": "Net Position",
+        "text": "The value of a position after subtracting the price of the initial investment."
+      },
+      "term_114": {
+        "name": "News Trader",
+        "text": "A trader who bases investment decisions on how global news announcements impact the markets."
+      },
+      "term_115": {
+        "name": "NOK",
+        "text": "The currency symbol for the Norwegian Krone."
+      },
+      "term_116": {
+        "name": "NZD",
+        "text": "The currency symbol for the New Zealand Dollar."
+      },
+      "term_117": {
+        "name": "Open Order",
+        "text": "A position that is running in the market until the trader chooses to close it."
+      },
+      "term_118": {
+        "name": "Order",
+        "text": "A request to a broker to perform a transaction of a financial instrument at a present price."
+      },
+      "term_119": {
+        "name": "Out of the Money",
+        "text": "A term used to describe a loss in trade."
+      },
+      "term_120": {
+        "name": "Overnight Position",
+        "text": "A position that is kept open until the following trading day."
+      },
+      "term_121": {
+        "name": "Overtrading",
+        "text": "The risky habit of engaging in excessive trading transactions without appropriate research."
+      },
+      "term_122": {
+        "name": "Offer",
+        "text": "The price set by a seller at which they are willing to sell."
+      },
+      "term_123": {
+        "name": "Options",
+        "text": "The opportunity, but not the obligation, to perform a transaction involving an asset."
+      },
+      "term_124": {
+        "name": "Oscillators",
+        "text": "Technical analysis tools using an indicator that fluctuates between overbought and oversold levels, used to express buy and sell signals."
+      },
+      "term_125": {
+        "name": "One Cancels the Other Order (OCO)",
+        "text": "Two transactions sunmitted at the same time, where the completion of one automatically cancels the other."
+      },
+      "term_126": {
+        "name": "Payout",
+        "text": "The total amount of earnings from a successful transaction."
+      },
+      "term_127": {
+        "name": "PIP",
+        "text": "Stands for Percentage In Point. The smallest unit of measurement used in Forex trading to determine exchange rates between multiple currencies."
+      },
+      "term_128": {
+        "name": "Platform",
+        "text": "The system used to perform transactions provided by a brokerage firm."
+      },
+      "term_129": {
+        "name": "Price.Earnings Ratio (P/E)",
+        "text": "The ratio used to value a company by comparing it's current share price to it's per share earnings."
+      },
+      "term_130": {
+        "name": "Principal Value",
+        "text": "The starting capital that a trader invests for transactions in the financial market."
+      },
+      "term_131": {
+        "name": "Put Option",
+        "text": "An agreement that allows a seller the option to sell a financial asset at a specified price with in a particular period of time. The seller however is not obligated to sell the asset."
+      },
+      "term_132": {
+        "name": "Private Key",
+        "text": "Electronic signature used to unlock cryptocurrency wallet and sign transactions."
+      },
+      "term_133": {
+        "name": "Public Key",
+        "text": "The cryptocurrency code given out when requesting a payment."
+      },
+      "term_134": {
+        "name": "Pump and Dump",
+        "text": "The process of inflating an assets value by purchasing a large quantity in the hopes that others will follow suit. Afterwords, the initial buyer will sell their assets in the hopes to make a profit from the inflated price."
+      },
+      "term_135": {
+        "name": "Quantitative Easing",
+        "text": "A method used by central banks to encourage economic growth. This is done by purchasing government securities in order to increase capital and liquidity in financial institutions."
+      },
+      "term_136": {
+        "name": "Quote Currency",
+        "text": "A term used in trading Foreign Exchange. When quoting currency pairs, it is the second currency that you trade against the first currency."
+      },
+      "term_137": {
+        "name": "Quote",
+        "text": "The most recent price a buyer and seller have agreed upon."
+      },
+      "term_138": {
+        "name": "Rate",
+        "text": "A rate/exchange rate is the compared price of one currency to another."
+      },
+      "term_139": {
+        "name": "Rebate",
+        "text": "The portion of interest or dividends on an asset that is returned to the investor at the end of a trade."
+      },
+      "term_140": {
+        "name": "Relative Strength Index (RSI)",
+        "text": "A technical indicator that measures if a financial instrument has been overbought or oversold."
+      },
+      "term_141": {
+        "name": "Risk Capital",
+        "text": "The size of a deposit that an investor is willing to risk."
+      },
+      "term_142": {
+        "name": "Robot",
+        "text": "Software that indicates when to open or close a position in the market."
+      },
+      "term_143": {
+        "name": "رول أوفر",
+        "text": "The act of swaping a matured contract prior to it's expiration date, with a new contract. The difference in price between the two contracts is adjusted."
+      },
+      "term_144": {
+        "name": "Resistance",
+        "text": "The price at which a financial asset peaks, before multiple investors decide to sell the asset."
+      },
+      "term_145": {
+        "name": "Risk Management",
+        "text": "One or more strategies used in order to reduce financial risk when trading in the financial markets."
+      },
+      "term_146": {
+        "name": "Scalping",
+        "text": "A strategy used by traders who make many small short-term transactions, looking to increase their profits with multiple small increments that can compound."
+      },
+      "term_147": {
+        "name": "SEC",
+        "text": "Stands for the US Securities and Exchange Commission."
+      },
+      "term_148": {
+        "name": "Security",
+        "text": "Any financial asset that can be traded."
+      },
+      "term_149": {
+        "name": "Short",
+        "text": "Opening a buy position in the market is referred to as 'going long'"
+      },
+      "term_150": {
+        "name": "Slippage",
+        "text": "The price difference between an assets displayed value and the exact value when a transaction occurs."
+      },
+      "term_151": {
+        "name": "Spot Price",
+        "text": "The current price an asset can be bought or sold in the marketplace."
+      },
+      "term_152": {
+        "name": "Spread",
+        "text": "The difference in value between the ask price and the bid price of a financial asset."
+      },
+      "term_153": {
+        "name": "Stochastic",
+        "text": "An oscillating indicator used to determine the change in price of a financial asset from one closing period to the next."
+      },
+      "term_154": {
+        "name": "Stock",
+        "text": "A share in the ownership of a company and the respective assets and earnings."
+      },
+      "term_155": {
+        "name": "Stop Loss Order",
+        "text": "An order given by a broker to limit an investor's loss by making them sell when a security reaches a certain price."
+      },
+      "term_156": {
+        "name": "Strike Price",
+        "text": "An asset's value when it is purchased or sold."
+      },
+      "term_157": {
+        "name": "SWAP",
+        "text": "The process of exchanging value of one investor's assets with another investor's assets."
+      },
+      "term_158": {
+        "name": "Security Exchange Commission (SEC)",
+        "text": "U.S. government agency that regulates national securities industry, stock markets, and electronic securities agency."
+      },
+      "term_159": {
+        "name": "Satoshi",
+        "text": "Equivalent to the eighth decimal place, this is the smallest unit of bitcoin."
+      },
+      "term_160": {
+        "name": "Sell Limit Order",
+        "text": "The process of limiting the price on a transaction."
+      },
+      "term_161": {
+        "name": "Sell Stop",
+        "text": "An order for a limit order to become a market order once it falls below the current market price."
+      },
+      "term_162": {
+        "name": "Short Position",
+        "text": "Selling first and buying later to produce a profit or loss from the difference."
+      },
+      "term_163": {
+        "name": "Spot",
+        "text": "Taking the value of the current date and selling at that price, but settling in the following two days."
+      },
+      "term_164": {
+        "name": "Sterling",
+        "text": "A name for the British Pound (GBP), also called the pound sterling."
+      },
+      "term_165": {
+        "name": "Stop-Buy",
+        "text": "An order to buy when the currency price is above the current market."
+      },
+      "term_166": {
+        "name": "تحاليل فنية ",
+        "text": "Studying past market data to influence future of financial instruments."
+      },
+      "term_167": {
+        "name": "Trader",
+        "text": "A person who invests in transactions on the markets."
+      },
+      "term_168": {
+        "name": "Trailing Stop Loss",
+        "text": "The ability to automatically adjust the limit price threshold to be closer to a more favorable market price."
+      },
+      "term_169": {
+        "name": "Transaction Date",
+        "text": "The moment when trading assets occurs."
+      },
+      "term_170": {
+        "name": "Take Profit",
+        "text": "A type of limit order that determines the specific price to close an open position in order to profit."
+      },
+      "term_171": {
+        "name": "Trading Platforms",
+        "text": "A software used by investors to trade forex."
+      },
+      "term_172": {
+        "name": "Transaction",
+        "text": "The process of exchanging goods, services, and financial assets between a buyer and a seller."
+      },
+      "term_173": {
+        "name": "Trend",
+        "text": "The general direction of the market."
+      },
+      "term_174": {
+        "name": "Under-Valuation",
+        "text": "If an exchange rate does not surpass it's purchasing power, it is considered undervalued."
+      },
+      "term_175": {
+        "name": "Unemployment Rate",
+        "text": "The rate of people in the workforce without jobs."
+      },
+      "term_176": {
+        "name": "US Dollar",
+        "text": "The currency in the United States of America"
+      },
+      "term_177": {
+        "name": "Value Date",
+        "text": "The final settlement date decided by the parties involved in a financial deal."
+      },
+      "term_178": {
+        "name": "Variation Margin",
+        "text": "The extra amount of money needed to constitute for losses when a broker's balance falls beneath the required minimum."
+      },
+      "term_179": {
+        "name": "Volatility",
+        "text": "The measurement used to describe the fluctuation of the price of a financial instrument over a specific amount of time."
+      },
+      "term_180": {
+        "name": "Wire Transfer",
+        "text": "The process of transferring money electronically from one financial institution to another."
+      },
+      "term_181": {
+        "name": "World Bank Group",
+        "text": "A support organization that offers its' technical and financial advice to developing countries worldwide."
+      },
+      "term_182": {
+        "name": "Wallet",
+        "text": "The place where cryptocurrencies are stored. There are five types of crypto wallets; software wallets, mobile wallets, web wallets, paper wallets, and hardware wallets."
+      },
+      "term_183": {
+        "name": "Whipsaw",
+        "text": "A sharp price movement being trailed by a sharp repeal."
+      },
+      "term_184": {
+        "name": "X",
+        "text": "Depicting a mutual fund, this is a NASDAQ stock symbol."
+      },
+      "term_185": {
+        "name": "XE",
+        "text": "Stands for Xpress Engine. A prominant financial site that provides helpful tools for traders."
+      },
+      "term_186": {
+        "name": "XAG",
+        "text": "The currency symbol for the precious metal silver. Silver can be used in financial exchanges and typically maintains a high price."
+      },
+      "term_187": {
+        "name": "XAU",
+        "text": "The currency symbol for gold."
+      },
+      "term_188": {
+        "name": "XAU/USD",
+        "text": "The gold (XAU) to U.S. dollar (USD) exchange rate can be monitored online and is consistently changing."
+      },
+      "term_189": {
+        "name": "Yield Curve",
+        "text": "The use of a graph to exhibit the correlation between interest rate and the maturity of the debt asset for a trader."
+      },
+      "term_190": {
+        "name": "ZAR",
+        "text": "The currency symbol for the South African Rand."
+      },
+      "term_191": {
+        "name": "Zero-Bound",
+        "text": "When interest rates nearly reach zero percent making it challenging for central banks to measure the expansion of the economy."
+      }
+    }
+  }
+}
